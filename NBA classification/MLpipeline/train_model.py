@@ -7,9 +7,10 @@ from typing import Tuple
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, accuracy_score
 from sklearn.preprocessing import LabelEncoder
+import os
 
 
-def train(X: pd.DataFrame, y: pd.Series) -> Tuple[XGBClassifier, pd.DataFrame, pd.Series, pd.DataFrame, pd.Series, pd.DataFrame, pd.Series]:
+def train(X: pd.DataFrame, y: pd.Series, model_name:str) -> Tuple[XGBClassifier, pd.DataFrame, pd.Series, pd.DataFrame, pd.Series, pd.DataFrame, pd.Series]:
 
         # train, val, test split - first take 60% for train, then split temp file in half for validation and test data
         X_train, X_temp, y_train, y_temp = train_test_split(X, y, test_size=0.4, stratify=y, random_state=42)
@@ -35,6 +36,7 @@ def train(X: pd.DataFrame, y: pd.Series) -> Tuple[XGBClassifier, pd.DataFrame, p
             verbose=False
         )
 
-        joblib.dump(model, r'models\xgb_model_v1.joblib')
+        model_path = os.path.join('models', model_name)
+        joblib.dump(model, model_path)
 
         return model, X_train, y_train, X_val, y_val, X_test, y_test

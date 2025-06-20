@@ -52,7 +52,10 @@ def model_predictions(model, X_test,y_test,le, save_dir=None):
     print("\nClassification Report:\n", classification_report(y_test, y_pred, target_names=le.classes_))
 
     # Custom class order
-    custom_order = ['C', 'PF', 'SF', 'SG', 'PG']
+    if len(class_labels) == 5:
+        custom_order = ['C', 'PF', 'SF', 'SG', 'PG']
+    else:
+        custom_order = ['C', 'PF', 'Wing', 'SF', 'SG', 'PG']
 
     # Convert custom label order to integer label indices
     custom_indices = le.transform(custom_order)

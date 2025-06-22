@@ -1,0 +1,1001 @@
+order_id,customer_id,product_id,product_category,quantity,unit_price,total_price,order_date,shipping_address,shipping_city,shipping_country
+1,772,Sweatband Set,Accessories,7,9.99,69.93,3/14/2025,43 Luster Junction,Colorado Springs,United States
+2,797,Badminton Set,Racquet Sports,5,39.99,199.95,5/3/2025,014 Messerschmidt Circle,Cheyenne,United States
+3,340,Cycling Gloves,Accessories,9,15.99,143.91,5/19/2025,44159 David Street,Seattle,United States
+4,709,Badminton Set,Racquet Sports,8,39.99,319.92,4/19/2025,35661 Cascade Drive,Washington,United States
+5,154,Sports Bra,Apparel,21,39.99,839.79,3/30/2025,249 Evergreen Crossing,Littleton,United States
+6,226,Sweatband Set,Accessories,16,9.99,159.84,4/28/2025,334 Swallow Way,Jeffersonville,United States
+7,470,Cycling Gloves,Accessories,22,15.99,351.78,5/10/2025,161 Kim Park,Scranton,United States
+8,217,Squash Goggles,Racquet Sports,18,24.99,449.82,5/5/2025,1098 Heath Terrace,Bronx,United States
+9,167,Adjustable Dumbbells,Fitness Equipment,25,119.99,2999.75,5/22/2025,97963 Wayridge Pass,Norfolk,United States
+10,37,Cycling Gloves,Accessories,19,15.99,303.81,4/28/2025,8 Park Meadow Terrace,New York City,United States
+11,281,Running Shorts,Apparel,7,29.99,209.93,4/10/2025,80107 Becker Road,Seattle,United States
+12,6,Squash Goggles,Racquet Sports,2,24.99,49.98,2/20/2025,324 Gina Parkway,Orange,United States
+13,621,Sweatband Set,Accessories,12,9.99,119.88,1/20/2025,4683 Toban Pass,Fargo,United States
+14,833,Sweatband Set,Accessories,23,9.99,229.77,3/18/2025,493 Steensland Drive,Denton,United States
+15,790,Compression Shirt,Apparel,6,34.99,209.94,4/26/2025,9 Shopko Circle,Fort Worth,United States
+16,479,Soccer Jersey,Apparel,5,49.99,249.95,1/17/2025,69 Golf View Alley,Augusta,United States
+17,723,Lacrosse Stick,Team Sports,25,69.99,1749.75,1/13/2025,06 West Trail,Chicago,United States
+18,166,Tennis Balls (can),Racquet Sports,4,8.99,35.96,5/25/2025,632 Onsgard Crossing,Fresno,United States
+19,349,Athletic Socks (3-pack),Apparel,12,14.99,179.88,3/2/2025,711 Summit Pass,Austin,United States
+20,297,Adjustable Dumbbells,Fitness Equipment,3,119.99,359.97,4/2/2025,6 Jenifer Hill,Philadelphia,United States
+21,239,Sweatband Set,Accessories,7,9.99,69.93,1/22/2025,0 Schmedeman Junction,Orlando,United States
+22,376,Tennis Balls (can),Racquet Sports,5,8.99,44.95,2/3/2025,026 Saint Paul Alley,Savannah,United States
+23,800,Squash Goggles,Racquet Sports,21,24.99,524.79,4/17/2025,4884 Vahlen Drive,San Jose,United States
+24,74,Sweatband Set,Accessories,16,9.99,159.84,2/12/2025,5 Bobwhite Street,Milwaukee,United States
+25,638,Tennis Balls (can),Racquet Sports,20,8.99,179.8,1/19/2025,93 Donald Hill,Boston,United States
+26,984,Badminton Set,Racquet Sports,1,39.99,39.99,2/26/2025,55310 Loomis Junction,Sacramento,United States
+27,232,Tennis Racket,Racquet Sports,5,79.99,399.95,2/14/2025,354 Golf Lane,Louisville,United States
+28,71,Foam Roller,Fitness Equipment,17,21.5,365.5,1/8/2025,97 Reinke Drive,Bronx,United States
+29,545,Indoor Court Shoes,Footwear,18,74.99,1349.82,2/6/2025,422 Bashford Place,Fullerton,United States
+30,354,Volleyball,Team Sports,10,22.99,229.9,3/8/2025,09842 Oxford Alley,Jackson,United States
+31,555,Yoga Mat,Fitness Equipment,23,25.0,575,2/13/2025,74 Arapahoe Lane,Jefferson City,United States
+32,402,Sports Bra,Apparel,1,39.99,39.99,4/4/2025,87292 Lawn Crossing,Denton,United States
+33,266,Tennis Racket,Racquet Sports,6,79.99,479.94,5/14/2025,1 Magdeline Drive,Washington,United States
+34,683,Running Shorts,Apparel,18,29.99,539.82,3/6/2025,8 Sycamore Plaza,Allentown,United States
+35,321,Tennis Balls (can),Racquet Sports,17,8.99,152.83,1/22/2025,8885 Red Cloud Circle,Huntsville,United States
+36,758,Sports Bra,Apparel,23,39.99,919.77,5/16/2025,5 Bayside Junction,Newport News,United States
+37,307,Lacrosse Stick,Team Sports,16,69.99,1119.84,1/23/2025,2208 Knutson Street,Fort Worth,United States
+38,76,Pickleball Paddle,Racquet Sports,5,44.99,224.95,5/22/2025,205 Atwood Drive,San Diego,United States
+39,329,Lacrosse Stick,Team Sports,23,69.99,1609.77,4/16/2025,01 Crest Line Court,San Francisco,United States
+40,187,Pickleball Paddle,Racquet Sports,22,44.99,989.78,1/25/2025,0485 Spenser Pass,Washington,United States
+41,384,Badminton Set,Racquet Sports,8,39.99,319.92,2/4/2025,99961 6th Plaza,Los Angeles,United States
+42,154,Squash Goggles,Racquet Sports,1,24.99,24.99,1/31/2025,9257 Armistice Way,Washington,United States
+43,412,Athletic Socks (3-pack),Apparel,18,14.99,269.82,3/12/2025,78 Elka Crossing,El Paso,United States
+44,734,Athletic Socks (3-pack),Apparel,13,14.99,194.87,2/20/2025,8089 Ruskin Junction,Frankfort,United States
+45,160,Tennis Balls (can),Racquet Sports,15,8.99,134.85,3/1/2025,380 Tomscot Lane,Wichita,United States
+46,277,Running Shorts,Apparel,22,29.99,659.78,2/25/2025,8909 Hudson Place,Stamford,United States
+47,999,Sweatband Set,Accessories,16,9.99,159.84,4/17/2025,334 Dryden Park,Clearwater,United States
+48,385,Compression Shirt,Apparel,17,34.99,594.83,3/19/2025,3151 Sachtjen Lane,Evansville,United States
+49,285,Sweatband Set,Accessories,8,9.99,79.92,4/29/2025,61 Northridge Trail,Oklahoma City,United States
+50,447,Cycling Gloves,Accessories,2,15.99,31.98,4/4/2025,36 Sauthoff Plaza,San Diego,United States
+51,192,Tennis Balls (can),Racquet Sports,10,8.99,89.9,2/8/2025,56786 Village Green Point,Minneapolis,United States
+52,784,Sports Bra,Apparel,6,39.99,239.94,1/19/2025,1 Green Park,Tulsa,United States
+53,543,Sports Bra,Apparel,17,39.99,679.83,1/3/2025,9 Reindahl Trail,Memphis,United States
+54,296,Athletic Socks (3-pack),Apparel,23,14.99,344.77,4/22/2025,749 Petterle Parkway,Savannah,United States
+55,866,Compression Shirt,Apparel,22,34.99,769.78,3/19/2025,7 Towne Drive,Nashville,United States
+56,119,Sweatband Set,Accessories,24,9.99,239.76,2/25/2025,79 Hovde Court,Pasadena,United States
+57,859,Cycling Gloves,Accessories,24,15.99,383.76,1/25/2025,9197 Division Crossing,Topeka,United States
+58,109,Sweatband Set,Accessories,18,9.99,179.82,2/9/2025,1534 Summerview Hill,Cincinnati,United States
+59,729,Tennis Racket,Racquet Sports,24,79.99,1919.76,5/8/2025,17 Kinsman Junction,Birmingham,United States
+60,502,Trail Running Shoes,Footwear,12,94.99,1139.88,2/1/2025,2 Lawn Road,Minneapolis,United States
+61,883,Cleats,Footwear,4,59.99,239.96,5/17/2025,333 Commercial Alley,Baton Rouge,United States
+62,774,Badminton Set,Racquet Sports,14,39.99,559.86,1/1/2025,80 Center Alley,Austin,United States
+63,494,Trail Running Shoes,Footwear,14,94.99,1329.86,3/9/2025,9 Alpine Point,Greensboro,United States
+64,916,Sweatband Set,Accessories,7,9.99,69.93,5/17/2025,8906 John Wall Road,Aurora,United States
+65,934,Lacrosse Stick,Team Sports,21,69.99,1469.79,4/8/2025,04 Logan Road,Washington,United States
+66,294,Tennis Balls (can),Racquet Sports,10,8.99,89.9,2/27/2025,35922 Arrowood Place,Houston,United States
+67,385,Volleyball,Team Sports,24,22.99,551.76,2/19/2025,4988 Gateway Park,Los Angeles,United States
+68,486,Soccer Jersey,Apparel,19,49.99,949.81,4/21/2025,186 Florence Park,Long Beach,United States
+69,506,Soccer Ball,Team Sports,24,24.99,599.76,3/30/2025,2752 Spohn Court,Omaha,United States
+70,44,Lacrosse Stick,Team Sports,21,69.99,1469.79,4/27/2025,9765 Bartillon Road,Atlanta,United States
+71,304,Tennis Racket,Racquet Sports,3,79.99,239.97,2/15/2025,2 International Street,Sacramento,United States
+72,275,Yoga Mat,Fitness Equipment,20,25.0,500,5/11/2025,697 Dixon Lane,Wilmington,United States
+73,827,Trail Running Shoes,Footwear,2,94.99,189.98,3/13/2025,9378 Springview Park,Reston,United States
+74,923,Pickleball Paddle,Racquet Sports,11,44.99,494.89,5/6/2025,55643 Hanson Drive,Monticello,United States
+75,708,Cleats,Footwear,1,59.99,59.99,2/16/2025,86505 Westridge Plaza,Dallas,United States
+76,849,Soccer Ball,Team Sports,5,24.99,124.95,5/16/2025,3423 Porter Pass,Santa Rosa,United States
+77,365,Compression Shirt,Apparel,25,34.99,874.75,1/24/2025,3829 Pierstorff Park,Irvine,United States
+78,34,Sweatband Set,Accessories,12,9.99,119.88,1/22/2025,31 Northland Terrace,Anaheim,United States
+79,690,Compression Shirt,Apparel,8,34.99,279.92,4/11/2025,4789 Jackson Road,Zephyrhills,United States
+80,716,Squash Goggles,Racquet Sports,4,24.99,99.96,3/2/2025,4093 Burrows Drive,Scranton,United States
+81,677,Squash Goggles,Racquet Sports,20,24.99,499.8,3/26/2025,74 Anzinger Plaza,Tacoma,United States
+82,342,Tennis Racket,Racquet Sports,9,79.99,719.91,1/27/2025,7479 Nelson Park,Merrifield,United States
+83,654,Tennis Balls (can),Racquet Sports,14,8.99,125.86,1/7/2025,7 Hoepker Junction,Garden Grove,United States
+84,440,Sweatband Set,Accessories,13,9.99,129.87,1/5/2025,14977 School Pass,Fort Worth,United States
+85,458,Sports Bra,Apparel,12,39.99,479.88,5/31/2025,69 Onsgard Parkway,Houston,United States
+86,98,Tennis Balls (can),Racquet Sports,22,8.99,197.78,3/26/2025,8 Main Hill,Fort Wayne,United States
+87,868,Athletic Socks (3-pack),Apparel,8,14.99,119.92,4/22/2025,35 Myrtle Park,Cedar Rapids,United States
+88,710,Tennis Racket,Racquet Sports,12,79.99,959.88,4/28/2025,145 Laurel Alley,Erie,United States
+89,459,Cycling Gloves,Accessories,6,15.99,95.94,1/8/2025,1497 Fremont Way,Huntington,United States
+90,780,Soccer Ball,Team Sports,3,24.99,74.97,4/19/2025,811 Little Fleur Alley,Shreveport,United States
+91,94,Tennis Balls (can),Racquet Sports,19,8.99,170.81,3/31/2025,128 Carioca Court,Columbus,United States
+92,486,Sweatband Set,Accessories,25,9.99,249.75,1/23/2025,770 Hazelcrest Crossing,Sacramento,United States
+93,297,Running Shorts,Apparel,15,29.99,449.85,5/15/2025,22030 Mockingbird Court,Durham,United States
+94,874,Tennis Racket,Racquet Sports,22,79.99,1759.78,3/22/2025,82748 Mayer Plaza,Fort Worth,United States
+95,963,Tennis Racket,Racquet Sports,14,79.99,1119.86,5/7/2025,50370 Larry Street,Saint Louis,United States
+96,887,Pickleball Paddle,Racquet Sports,11,44.99,494.89,3/10/2025,14999 Mockingbird Circle,Pittsburgh,United States
+97,734,Squash Goggles,Racquet Sports,10,24.99,249.9,1/11/2025,83925 Meadow Valley Center,San Diego,United States
+98,697,Pickleball Paddle,Racquet Sports,22,44.99,989.78,3/25/2025,304 Grayhawk Junction,Anchorage,United States
+99,37,Pickleball Paddle,Racquet Sports,24,44.99,1079.76,5/24/2025,84 Leroy Point,Birmingham,United States
+100,662,Soccer Ball,Team Sports,20,24.99,499.8,4/12/2025,563 Veith Junction,Toledo,United States
+101,72,Compression Shirt,Apparel,16,34.99,559.84,3/19/2025,286 Sheridan Point,Battle Creek,United States
+102,265,Tennis Balls (can),Racquet Sports,2,8.99,17.98,2/2/2025,274 Fordem Parkway,Washington,United States
+103,185,Squash Goggles,Racquet Sports,24,24.99,599.76,5/9/2025,92812 Boyd Road,Rochester,United States
+104,562,Athletic Socks (3-pack),Apparel,4,14.99,59.96,5/18/2025,7291 Johnson Crossing,Tucson,United States
+105,414,Running Shorts,Apparel,21,29.99,629.79,2/13/2025,03 Esch Point,Pittsburgh,United States
+106,42,Pickleball Paddle,Racquet Sports,4,44.99,179.96,2/26/2025,5933 Homewood Court,Honolulu,United States
+107,148,Tennis Racket,Racquet Sports,23,79.99,1839.77,1/4/2025,8 Duke Lane,Oklahoma City,United States
+108,841,Squash Goggles,Racquet Sports,16,24.99,399.84,5/4/2025,805 Sachtjen Trail,Amarillo,United States
+109,19,Lacrosse Stick,Team Sports,1,69.99,69.99,3/11/2025,079 Express Plaza,Hamilton,United States
+110,933,Football,Team Sports,20,27.99,559.8,4/15/2025,7 Mandrake Hill,Katy,United States
+111,253,Athletic Socks (3-pack),Apparel,25,14.99,374.75,1/8/2025,93 Kedzie Crossing,Cumming,United States
+112,888,Cycling Gloves,Accessories,12,15.99,191.88,5/2/2025,128 Stephen Point,Phoenix,United States
+113,323,Athletic Socks (3-pack),Apparel,18,14.99,269.82,3/11/2025,40 Longview Park,Milwaukee,United States
+114,445,Tennis Racket,Racquet Sports,14,79.99,1119.86,3/13/2025,905 Little Fleur Road,Mesa,United States
+115,461,Running Shorts,Apparel,10,29.99,299.9,2/9/2025,9165 Arrowood Pass,Bryan,United States
+116,390,Squash Goggles,Racquet Sports,24,24.99,599.76,1/28/2025,84001 Cody Point,El Paso,United States
+117,133,Running Shorts,Apparel,25,29.99,749.75,4/17/2025,19 Carey Crossing,Las Vegas,United States
+118,588,Lacrosse Stick,Team Sports,4,69.99,279.96,4/27/2025,469 Buhler Park,Cleveland,United States
+119,61,Foam Roller,Fitness Equipment,3,21.5,64.5,5/29/2025,50351 Carioca Street,Olympia,United States
+120,901,Pickleball Paddle,Racquet Sports,5,44.99,224.95,5/15/2025,58 West Court,Clearwater,United States
+121,298,Sports Bra,Apparel,13,39.99,519.87,3/8/2025,3 Columbus Alley,Colorado Springs,United States
+122,323,Running Shorts,Apparel,5,29.99,149.95,3/18/2025,9914 Anhalt Park,Beaumont,United States
+123,103,Tennis Balls (can),Racquet Sports,13,8.99,116.87,4/10/2025,51908 Jay Court,Daytona Beach,United States
+124,294,Athletic Socks (3-pack),Apparel,6,14.99,89.94,4/14/2025,1 Meadow Valley Circle,Saint Paul,United States
+125,423,Sweatband Set,Accessories,18,9.99,179.82,1/28/2025,114 Vidon Trail,Jefferson City,United States
+126,574,Lacrosse Stick,Team Sports,15,69.99,1049.85,3/15/2025,9 Badeau Crossing,Vancouver,United States
+127,465,Athletic Socks (3-pack),Apparel,18,14.99,269.82,3/15/2025,09218 Norway Maple Crossing,Chesapeake,United States
+128,875,Soccer Ball,Team Sports,2,24.99,49.98,4/24/2025,74168 Farmco Drive,Tacoma,United States
+129,747,Pickleball Paddle,Racquet Sports,21,44.99,944.79,1/11/2025,06498 Hagan Lane,Clearwater,United States
+130,751,Football,Team Sports,18,27.99,503.82,4/13/2025,1029 Buell Terrace,Detroit,United States
+131,906,Compression Shirt,Apparel,13,34.99,454.87,4/12/2025,7 Raven Alley,Jackson,United States
+132,253,Lacrosse Stick,Team Sports,16,69.99,1119.84,1/1/2025,33 Maywood Alley,Alexandria,United States
+133,888,Cycling Gloves,Accessories,10,15.99,159.9,5/3/2025,042 Nobel Trail,Syracuse,United States
+134,177,Cycling Gloves,Accessories,23,15.99,367.77,4/17/2025,37 Fairfield Park,Atlanta,United States
+135,938,Tennis Balls (can),Racquet Sports,6,8.99,53.94,2/3/2025,67 Browning Lane,Phoenix,United States
+136,954,Volleyball,Team Sports,23,22.99,528.77,4/30/2025,9589 Parkside Plaza,El Paso,United States
+137,526,Badminton Set,Racquet Sports,16,39.99,639.84,4/3/2025,234 Grasskamp Junction,Hartford,United States
+138,566,Running Shorts,Apparel,19,29.99,569.81,4/29/2025,005 Carpenter Park,Littleton,United States
+139,135,Lacrosse Stick,Team Sports,18,69.99,1259.82,5/5/2025,495 Kennedy Parkway,Washington,United States
+140,22,Sweatband Set,Accessories,14,9.99,139.86,1/26/2025,67 Bobwhite Avenue,Des Moines,United States
+141,724,Football,Team Sports,12,27.99,335.88,4/8/2025,514 Vermont Alley,Washington,United States
+142,590,Badminton Set,Racquet Sports,16,39.99,639.84,1/28/2025,98802 Susan Avenue,Miami,United States
+143,152,Sports Bra,Apparel,21,39.99,839.79,3/16/2025,53894 Talisman Lane,Hyattsville,United States
+144,997,Running Shorts,Apparel,21,29.99,629.79,3/9/2025,72071 Charing Cross Lane,Chicago,United States
+145,1000,Volleyball,Team Sports,3,22.99,68.97,2/12/2025,35 Division Avenue,West Palm Beach,United States
+146,618,Tennis Racket,Racquet Sports,12,79.99,959.88,1/3/2025,1330 Stephen Drive,Hyattsville,United States
+147,328,Badminton Set,Racquet Sports,21,39.99,839.79,4/24/2025,0496 Briar Crest Road,Louisville,United States
+148,668,Foam Roller,Fitness Equipment,13,21.5,279.5,4/21/2025,97 Village Green Drive,El Paso,United States
+149,688,Athletic Socks (3-pack),Apparel,7,14.99,104.93,4/1/2025,20730 Hovde Pass,Hartford,United States
+150,282,Lacrosse Stick,Team Sports,21,69.99,1469.79,2/17/2025,9 Summer Ridge Street,Duluth,United States
+151,311,Sweatband Set,Accessories,22,9.99,219.78,5/29/2025,8 Pleasure Road,Gatesville,United States
+152,586,Soccer Ball,Team Sports,5,24.99,124.95,1/27/2025,74409 Bartillon Hill,Pittsburgh,United States
+153,811,Football,Team Sports,21,27.99,587.79,1/1/2025,0 Loomis Trail,Seattle,United States
+154,965,Squash Goggles,Racquet Sports,4,24.99,99.96,2/24/2025,831 3rd Place,Rochester,United States
+155,205,Lacrosse Stick,Team Sports,16,69.99,1119.84,4/9/2025,256 Kinsman Place,Miami,United States
+156,223,Basketball,Team Sports,21,29.99,629.79,3/2/2025,67731 Magdeline Junction,Odessa,United States
+157,979,Tennis Balls (can),Racquet Sports,25,8.99,224.75,3/3/2025,7 Meadow Ridge Center,Topeka,United States
+158,118,Adjustable Dumbbells,Fitness Equipment,6,119.99,719.94,3/27/2025,201 Amoth Park,Cleveland,United States
+159,719,Soccer Jersey,Apparel,17,49.99,849.83,4/14/2025,71109 Hayes Pass,Youngstown,United States
+160,756,Running Shorts,Apparel,4,29.99,119.96,5/10/2025,60525 Anhalt Road,Jackson,United States
+161,537,Running Shorts,Apparel,7,29.99,209.93,4/13/2025,30 David Terrace,Fort Worth,United States
+162,416,Volleyball,Team Sports,19,22.99,436.81,4/16/2025,9106 Westerfield Circle,Louisville,United States
+163,766,Badminton Set,Racquet Sports,10,39.99,399.9,3/15/2025,040 Northridge Point,Melbourne,United States
+164,113,Athletic Socks (3-pack),Apparel,1,14.99,14.99,3/21/2025,0 North Drive,Saginaw,United States
+165,913,Volleyball,Team Sports,4,22.99,91.96,5/24/2025,29671 Eagle Crest Point,San Diego,United States
+166,853,Athletic Socks (3-pack),Apparel,7,14.99,104.93,2/18/2025,5 Cody Court,Fullerton,United States
+167,745,Sweatband Set,Accessories,24,9.99,239.76,4/23/2025,9 Starling Pass,San Francisco,United States
+168,596,Sweatband Set,Accessories,14,9.99,139.86,1/15/2025,79 Darwin Park,Denver,United States
+169,175,Basketball,Team Sports,16,29.99,479.84,4/19/2025,242 Forest Dale Avenue,Fort Worth,United States
+170,424,Adjustable Dumbbells,Fitness Equipment,15,119.99,1799.85,3/2/2025,31654 Pond Parkway,Durham,United States
+171,536,Athletic Socks (3-pack),Apparel,15,14.99,224.85,3/2/2025,974 Drewry Way,Denton,United States
+172,18,Tennis Racket,Racquet Sports,14,79.99,1119.86,2/27/2025,23734 Lighthouse Bay Place,San Jose,United States
+173,65,Soccer Jersey,Apparel,12,49.99,599.88,1/21/2025,5 Toban Parkway,Philadelphia,United States
+174,953,Tennis Balls (can),Racquet Sports,24,8.99,215.76,2/25/2025,27830 Rigney Plaza,Los Angeles,United States
+175,361,Athletic Socks (3-pack),Apparel,17,14.99,254.83,2/3/2025,1825 Schlimgen Road,Birmingham,United States
+176,488,Volleyball,Team Sports,15,22.99,344.85,4/26/2025,8 Declaration Point,New Haven,United States
+177,30,Lacrosse Stick,Team Sports,10,69.99,699.9,3/9/2025,20762 Cardinal Plaza,West Hartford,United States
+178,20,Badminton Set,Racquet Sports,4,39.99,159.96,4/5/2025,5892 Iowa Point,Louisville,United States
+179,734,Pickleball Paddle,Racquet Sports,1,44.99,44.99,1/7/2025,6 Independence Court,Boise,United States
+180,946,Sweatband Set,Accessories,13,9.99,129.87,5/19/2025,6 Grover Place,Little Rock,United States
+181,361,Athletic Socks (3-pack),Apparel,12,14.99,179.88,1/17/2025,7 Glacier Hill Circle,San Diego,United States
+182,968,Yoga Mat,Fitness Equipment,8,25.0,200,3/25/2025,46 Straubel Street,Elmira,United States
+183,600,Badminton Set,Racquet Sports,18,39.99,719.82,3/1/2025,8957 Daystar Park,Boston,United States
+184,750,Pickleball Paddle,Racquet Sports,18,44.99,809.82,3/1/2025,5804 Sloan Court,New York City,United States
+185,173,Football,Team Sports,9,27.99,251.91,5/28/2025,35 Monument Drive,Austin,United States
+186,342,Tennis Racket,Racquet Sports,5,79.99,399.95,2/16/2025,5 Sheridan Circle,Fort Wayne,United States
+187,455,Sweatband Set,Accessories,18,9.99,179.82,2/22/2025,9 Dunning Road,Shawnee Mission,United States
+188,58,Tennis Balls (can),Racquet Sports,5,8.99,44.95,4/1/2025,010 Gulseth Lane,Katy,United States
+189,247,Tennis Balls (can),Racquet Sports,13,8.99,116.87,2/4/2025,65536 Eastwood Park,Hartford,United States
+190,448,Sports Bra,Apparel,25,39.99,999.75,3/27/2025,39190 Artisan Street,Camden,United States
+191,196,Tennis Racket,Racquet Sports,6,79.99,479.94,1/29/2025,44 Norway Maple Lane,Sacramento,United States
+192,488,Badminton Set,Racquet Sports,24,39.99,959.76,1/12/2025,63 Muir Alley,Scottsdale,United States
+193,455,Squash Goggles,Racquet Sports,10,24.99,249.9,5/29/2025,77568 5th Hill,Erie,United States
+194,10,Sports Bra,Apparel,17,39.99,679.83,4/21/2025,0 Sachs Crossing,Houston,United States
+195,489,Foam Roller,Fitness Equipment,25,21.5,537.5,1/16/2025,97377 School Terrace,Reno,United States
+196,652,Tennis Racket,Racquet Sports,24,79.99,1919.76,1/5/2025,829 Corben Parkway,Cincinnati,United States
+197,701,Basketball,Team Sports,20,29.99,599.8,4/28/2025,1 Muir Lane,San Diego,United States
+198,495,Basketball,Team Sports,19,29.99,569.81,4/7/2025,8515 Cottonwood Parkway,Erie,United States
+199,149,Badminton Set,Racquet Sports,25,39.99,999.75,2/12/2025,5624 Waxwing Court,Newark,United States
+200,875,Foam Roller,Fitness Equipment,25,21.5,537.5,1/28/2025,39792 7th Parkway,Pittsburgh,United States
+201,373,Tennis Balls (can),Racquet Sports,6,8.99,53.94,5/26/2025,746 Muir Hill,Fresno,United States
+202,545,Compression Shirt,Apparel,19,34.99,664.81,1/14/2025,6589 Grim Hill,Wilmington,United States
+203,115,Soccer Jersey,Apparel,10,49.99,499.9,2/25/2025,39044 American Plaza,Orlando,United States
+204,776,Volleyball,Team Sports,13,22.99,298.87,4/20/2025,43 Thierer Park,Stockton,United States
+205,812,Indoor Court Shoes,Footwear,1,74.99,74.99,3/18/2025,74 Ronald Regan Park,Charlotte,United States
+206,701,Pickleball Paddle,Racquet Sports,23,44.99,1034.77,4/21/2025,76 Killdeer Lane,Akron,United States
+207,248,Pickleball Paddle,Racquet Sports,5,44.99,224.95,3/13/2025,3273 4th Drive,Tampa,United States
+208,494,Sports Bra,Apparel,14,39.99,559.86,4/20/2025,5 Moulton Hill,El Paso,United States
+209,226,Foam Roller,Fitness Equipment,10,21.5,215,4/17/2025,79 Butternut Pass,Pompano Beach,United States
+210,23,Squash Goggles,Racquet Sports,16,24.99,399.84,5/14/2025,7 Lakewood Alley,Dallas,United States
+211,250,Running Shorts,Apparel,1,29.99,29.99,3/31/2025,10 Continental Park,Bronx,United States
+212,471,Sweatband Set,Accessories,4,9.99,39.96,4/13/2025,2536 Montana Parkway,Tacoma,United States
+213,378,Squash Goggles,Racquet Sports,15,24.99,374.85,4/26/2025,0 Prairie Rose Crossing,Murfreesboro,United States
+214,473,Basketball,Team Sports,17,29.99,509.83,3/7/2025,61 Vernon Trail,Reading,United States
+215,374,Soccer Ball,Team Sports,23,24.99,574.77,5/8/2025,017 Brown Crossing,Paterson,United States
+216,447,Cycling Gloves,Accessories,16,15.99,255.84,1/29/2025,453 Nelson Street,Reston,United States
+217,75,Volleyball,Team Sports,15,22.99,344.85,2/27/2025,3 Stone Corner Circle,Schaumburg,United States
+218,267,Compression Shirt,Apparel,24,34.99,839.76,5/29/2025,4645 Elka Park,Stockton,United States
+219,623,Foam Roller,Fitness Equipment,14,21.5,301,4/24/2025,89 Blaine Crossing,Saint Petersburg,United States
+220,205,Badminton Set,Racquet Sports,12,39.99,479.88,1/30/2025,57597 Briar Crest Lane,Tulsa,United States
+221,992,Athletic Socks (3-pack),Apparel,3,14.99,44.97,4/20/2025,2744 Green Ridge Parkway,Cincinnati,United States
+222,955,Athletic Socks (3-pack),Apparel,11,14.99,164.89,2/8/2025,8551 Debs Alley,Elmira,United States
+223,692,Tennis Balls (can),Racquet Sports,18,8.99,161.82,2/8/2025,40603 Kim Park,Lincoln,United States
+224,314,Soccer Ball,Team Sports,17,24.99,424.83,2/21/2025,39029 Arrowood Avenue,Winston Salem,United States
+225,640,Foam Roller,Fitness Equipment,1,21.5,21.5,4/20/2025,13985 Ridgeview Drive,Reno,United States
+226,912,Compression Shirt,Apparel,21,34.99,734.79,4/16/2025,44737 Corry Point,San Diego,United States
+227,31,Pickleball Paddle,Racquet Sports,5,44.99,224.95,5/13/2025,747 Dawn Lane,Birmingham,United States
+228,913,Running Shorts,Apparel,22,29.99,659.78,1/1/2025,1 Transport Hill,Saint Petersburg,United States
+229,329,Football,Team Sports,10,27.99,279.9,2/23/2025,69217 Texas Park,Waco,United States
+230,498,Tennis Racket,Racquet Sports,4,79.99,319.96,3/26/2025,688 Blaine Court,Jacksonville,United States
+231,366,Basketball,Team Sports,10,29.99,299.9,4/12/2025,4 Schurz Alley,Cedar Rapids,United States
+232,788,Soccer Ball,Team Sports,23,24.99,574.77,3/15/2025,7 Pankratz Lane,Milwaukee,United States
+233,753,Volleyball,Team Sports,11,22.99,252.89,3/11/2025,8943 Springview Crossing,Charlotte,United States
+234,39,Cycling Gloves,Accessories,12,15.99,191.88,1/22/2025,0 Buena Vista Way,Jacksonville,United States
+235,960,Kettlebell - 20lb,Fitness Equipment,14,35.99,503.86,2/28/2025,73 Bonner Plaza,New York City,United States
+236,570,Sweatband Set,Accessories,18,9.99,179.82,5/14/2025,69 Merry Road,Jacksonville,United States
+237,934,Cycling Gloves,Accessories,1,15.99,15.99,2/7/2025,5 Oak Valley Place,Virginia Beach,United States
+238,797,Tennis Racket,Racquet Sports,15,79.99,1199.85,5/28/2025,3335 Rowland Alley,Fresno,United States
+239,50,Sweatband Set,Accessories,4,9.99,39.96,1/3/2025,38434 Prairieview Pass,Fort Wayne,United States
+240,859,Running Shorts,Apparel,14,29.99,419.86,5/5/2025,04 Miller Road,Migrate,United States
+241,416,Basketball,Team Sports,20,29.99,599.8,1/7/2025,40 Bobwhite Street,Garden Grove,United States
+242,445,Pickleball Paddle,Racquet Sports,18,44.99,809.82,1/29/2025,9 Larry Hill,San Francisco,United States
+243,260,Pickleball Paddle,Racquet Sports,25,44.99,1124.75,2/10/2025,59258 Northwestern Circle,Washington,United States
+244,372,Foam Roller,Fitness Equipment,18,21.5,387,5/5/2025,33 West Way,Brooklyn,United States
+245,727,Athletic Socks (3-pack),Apparel,24,14.99,359.76,3/12/2025,68 6th Crossing,Atlanta,United States
+246,799,Tennis Racket,Racquet Sports,18,79.99,1439.82,3/19/2025,6 Cordelia Hill,Richmond,United States
+247,56,Soccer Jersey,Apparel,15,49.99,749.85,4/25/2025,47809 Scoville Drive,New York City,United States
+248,776,Basketball,Team Sports,22,29.99,659.78,3/18/2025,8 Redwing Crossing,Brooklyn,United States
+249,98,Cycling Gloves,Accessories,25,15.99,399.75,4/1/2025,7356 Parkside Hill,New York City,United States
+250,588,Tennis Racket,Racquet Sports,12,79.99,959.88,3/4/2025,190 Burrows Plaza,Chicago,United States
+251,709,Cycling Gloves,Accessories,24,15.99,383.76,4/5/2025,424 Huxley Way,Brooklyn,United States
+252,157,Tennis Racket,Racquet Sports,20,79.99,1599.8,5/24/2025,7 Oak Avenue,Nashville,United States
+253,328,Tennis Balls (can),Racquet Sports,9,8.99,80.91,3/5/2025,179 Kim Plaza,Terre Haute,United States
+254,483,Soccer Jersey,Apparel,20,49.99,999.8,4/10/2025,0848 Killdeer Hill,Durham,United States
+255,836,Running Shorts,Apparel,6,29.99,179.94,5/24/2025,0 Orin Street,Dallas,United States
+256,510,Foam Roller,Fitness Equipment,5,21.5,107.5,5/12/2025,93 Eastwood Alley,Mobile,United States
+257,353,Badminton Set,Racquet Sports,8,39.99,319.92,4/1/2025,98 Caliangt Drive,San Diego,United States
+258,564,Athletic Socks (3-pack),Apparel,22,14.99,329.78,4/5/2025,04 Shopko Drive,Chicago,United States
+259,513,Volleyball,Team Sports,22,22.99,505.78,1/26/2025,8946 Huxley Lane,Frankfort,United States
+260,432,Athletic Socks (3-pack),Apparel,15,14.99,224.85,1/31/2025,86 Butterfield Trail,Los Angeles,United States
+261,767,Sweatband Set,Accessories,16,9.99,159.84,4/10/2025,2107 Nelson Drive,Daytona Beach,United States
+262,85,Soccer Ball,Team Sports,2,24.99,49.98,4/17/2025,619 Ryan Circle,Erie,United States
+263,55,Adjustable Dumbbells,Fitness Equipment,20,119.99,2399.8,1/4/2025,9292 Jackson Junction,Seattle,United States
+264,654,Sweatband Set,Accessories,14,9.99,139.86,1/16/2025,3205 Carioca Point,Irving,United States
+265,98,Cycling Gloves,Accessories,20,15.99,319.8,4/5/2025,435 Sycamore Hill,Carlsbad,United States
+266,203,Running Shorts,Apparel,18,29.99,539.82,4/5/2025,3776 Dexter Point,Houston,United States
+267,127,Kettlebell - 20lb,Fitness Equipment,5,35.99,179.95,5/8/2025,89876 Bluestem Road,Spartanburg,United States
+268,49,Cycling Gloves,Accessories,9,15.99,143.91,2/15/2025,6763 Esch Crossing,San Jose,United States
+269,94,Volleyball,Team Sports,18,22.99,413.82,1/8/2025,81 Pleasure Trail,Saint Louis,United States
+270,78,Sports Bra,Apparel,12,39.99,479.88,2/12/2025,1670 Sage Hill,Montgomery,United States
+271,858,Compression Shirt,Apparel,1,34.99,34.99,3/12/2025,335 Hanson Crossing,Charlotte,United States
+272,594,Tennis Racket,Racquet Sports,13,79.99,1039.87,1/27/2025,8367 Morrow Alley,Schenectady,United States
+273,513,Athletic Socks (3-pack),Apparel,13,14.99,194.87,5/7/2025,46 Calypso Plaza,Pittsburgh,United States
+274,37,Indoor Court Shoes,Footwear,11,74.99,824.89,4/28/2025,27896 Schiller Drive,Fargo,United States
+275,576,Lacrosse Stick,Team Sports,25,69.99,1749.75,1/28/2025,64590 Eastwood Street,Newark,United States
+276,863,Athletic Socks (3-pack),Apparel,17,14.99,254.83,5/7/2025,739 Washington Lane,Knoxville,United States
+277,786,Foam Roller,Fitness Equipment,2,21.5,43,5/14/2025,11999 Kenwood Center,Montgomery,United States
+278,869,Running Shorts,Apparel,14,29.99,419.86,5/19/2025,2478 Butterfield Avenue,Houston,United States
+279,356,Athletic Socks (3-pack),Apparel,9,14.99,134.91,4/17/2025,4383 Arkansas Center,Phoenix,United States
+280,506,Lacrosse Stick,Team Sports,23,69.99,1609.77,1/4/2025,0575 3rd Park,Atlanta,United States
+281,865,Compression Shirt,Apparel,18,34.99,629.82,1/8/2025,0586 Straubel Point,Jackson,United States
+282,288,Tennis Balls (can),Racquet Sports,18,8.99,161.82,5/9/2025,474 Delaware Road,Pueblo,United States
+283,858,Squash Goggles,Racquet Sports,13,24.99,324.87,4/17/2025,6489 Sutherland Road,Aurora,United States
+284,792,Adjustable Dumbbells,Fitness Equipment,12,119.99,1439.88,5/18/2025,35 South Court,Aurora,United States
+285,721,Sweatband Set,Accessories,10,9.99,99.9,2/26/2025,1 Lindbergh Center,El Paso,United States
+286,234,Soccer Jersey,Apparel,11,49.99,549.89,5/2/2025,46 Waxwing Avenue,Houston,United States
+287,43,Tennis Balls (can),Racquet Sports,3,8.99,26.97,3/20/2025,135 Lunder Pass,Shreveport,United States
+288,650,Tennis Racket,Racquet Sports,14,79.99,1119.86,1/17/2025,25 Ridgeview Street,Charlotte,United States
+289,28,Squash Goggles,Racquet Sports,17,24.99,424.83,1/11/2025,13 Anderson Junction,Atlanta,United States
+290,864,Kettlebell - 20lb,Fitness Equipment,14,35.99,503.86,2/15/2025,373 Portage Crossing,Ocala,United States
+291,329,Cross-Training Shoes,Footwear,22,79.99,1759.78,5/21/2025,912 Corscot Pass,Shreveport,United States
+292,217,Indoor Court Shoes,Footwear,2,74.99,149.98,3/30/2025,22 Laurel Place,Fort Worth,United States
+293,700,Squash Goggles,Racquet Sports,3,24.99,74.97,4/14/2025,3994 Starling Road,Omaha,United States
+294,953,Sweatband Set,Accessories,25,9.99,249.75,3/18/2025,7621 Memorial Drive,Trenton,United States
+295,310,Resistance Bands Set,Fitness Equipment,21,19.99,419.79,4/27/2025,740 Pleasure Avenue,Van Nuys,United States
+296,975,Sweatband Set,Accessories,11,9.99,109.89,3/3/2025,6 Dunning Parkway,Orlando,United States
+297,870,Foam Roller,Fitness Equipment,14,21.5,301,1/25/2025,213 Fordem Pass,Minneapolis,United States
+298,962,Badminton Set,Racquet Sports,24,39.99,959.76,5/2/2025,988 Shelley Parkway,Young America,United States
+299,812,Tennis Racket,Racquet Sports,8,79.99,639.92,2/20/2025,285 Iowa Avenue,Dallas,United States
+300,567,Lacrosse Stick,Team Sports,3,69.99,209.97,1/1/2025,1 Clyde Gallagher Lane,Canton,United States
+301,568,Pickleball Paddle,Racquet Sports,8,44.99,359.92,5/30/2025,598 2nd Crossing,Tampa,United States
+302,362,Tennis Racket,Racquet Sports,9,79.99,719.91,5/22/2025,67 Summerview Alley,Brooklyn,United States
+303,659,Badminton Set,Racquet Sports,6,39.99,239.94,3/17/2025,241 Boyd Lane,Garden Grove,United States
+304,103,Sports Bra,Apparel,11,39.99,439.89,2/7/2025,3501 Corscot Way,Albany,United States
+305,349,Athletic Socks (3-pack),Apparel,12,14.99,179.88,2/3/2025,54 Fuller Junction,Pompano Beach,United States
+306,569,Squash Goggles,Racquet Sports,2,24.99,49.98,4/1/2025,9 Oriole Park,San Jose,United States
+307,318,Lacrosse Stick,Team Sports,22,69.99,1539.78,5/14/2025,7584 Derek Drive,Columbus,United States
+308,832,Sports Bra,Apparel,14,39.99,559.86,3/10/2025,8 Evergreen Lane,Fort Smith,United States
+309,340,Athletic Socks (3-pack),Apparel,23,14.99,344.77,4/30/2025,7564 Russell Parkway,Boston,United States
+310,692,Cycling Gloves,Accessories,19,15.99,303.81,2/22/2025,8122 Mariners Cove Alley,Inglewood,United States
+311,34,Yoga Mat,Fitness Equipment,9,25.0,225,3/24/2025,7148 Coleman Parkway,Simi Valley,United States
+312,778,Cycling Gloves,Accessories,21,15.99,335.79,1/30/2025,18854 Gina Trail,Jackson,United States
+313,698,Cycling Gloves,Accessories,21,15.99,335.79,4/10/2025,66 Hansons Street,Saint Louis,United States
+314,244,Compression Shirt,Apparel,5,34.99,174.95,5/21/2025,86 Mallory Junction,Atlanta,United States
+315,636,Tennis Balls (can),Racquet Sports,12,8.99,107.88,5/11/2025,23913 Maple Avenue,Akron,United States
+316,20,Badminton Set,Racquet Sports,5,39.99,199.95,2/22/2025,00438 Troy Trail,Alexandria,United States
+317,317,Football,Team Sports,10,27.99,279.9,4/13/2025,78936 Bluejay Lane,Hagerstown,United States
+318,471,Sports Bra,Apparel,14,39.99,559.86,1/24/2025,9 Eagan Drive,Sacramento,United States
+319,462,Cycling Gloves,Accessories,1,15.99,15.99,5/1/2025,46 Nancy Lane,Sacramento,United States
+320,463,Compression Shirt,Apparel,12,34.99,419.88,2/17/2025,533 Hauk Road,Tempe,United States
+321,735,Foam Roller,Fitness Equipment,17,21.5,365.5,1/27/2025,65405 Rusk Point,El Paso,United States
+322,489,Badminton Set,Racquet Sports,9,39.99,359.91,4/25/2025,6186 Di Loreto Hill,Charleston,United States
+323,156,Badminton Set,Racquet Sports,4,39.99,159.96,3/30/2025,24 Kinsman Circle,Fort Worth,United States
+324,51,Cycling Gloves,Accessories,2,15.99,31.98,1/26/2025,45177 Maryland Alley,Newark,United States
+325,805,Compression Shirt,Apparel,9,34.99,314.91,4/27/2025,389 Arkansas Point,Lexington,United States
+326,386,Pickleball Paddle,Racquet Sports,22,44.99,989.78,3/2/2025,5613 Lunder Place,Charlotte,United States
+327,72,Tennis Racket,Racquet Sports,25,79.99,1999.75,5/18/2025,451 Beilfuss Hill,Austin,United States
+328,487,Squash Goggles,Racquet Sports,12,24.99,299.88,2/7/2025,19 Vahlen Pass,Chicago,United States
+329,791,Basketball,Team Sports,8,29.99,239.92,4/17/2025,97 Blaine Road,Denver,United States
+330,352,Volleyball,Team Sports,4,22.99,91.96,3/16/2025,403 Ronald Regan Place,Tucson,United States
+331,8,Tennis Balls (can),Racquet Sports,16,8.99,143.84,1/25/2025,355 Ryan Lane,New York City,United States
+332,280,Basketball,Team Sports,6,29.99,179.94,3/30/2025,62 Golf Drive,Washington,United States
+333,698,Football,Team Sports,23,27.99,643.77,1/24/2025,1676 Prentice Place,Boynton Beach,United States
+334,545,Adjustable Dumbbells,Fitness Equipment,15,119.99,1799.85,3/23/2025,61506 Golf View Lane,Cincinnati,United States
+335,649,Cycling Gloves,Accessories,6,15.99,95.94,2/13/2025,4029 Forster Alley,Baltimore,United States
+336,471,Soccer Jersey,Apparel,7,49.99,349.93,4/28/2025,57 Gale Terrace,Honolulu,United States
+337,372,Badminton Set,Racquet Sports,18,39.99,719.82,1/22/2025,988 Jackson Drive,Bradenton,United States
+338,794,Soccer Ball,Team Sports,14,24.99,349.86,2/4/2025,486 Dunning Circle,Topeka,United States
+339,57,Tennis Balls (can),Racquet Sports,21,8.99,188.79,4/25/2025,70824 Meadow Ridge Plaza,Louisville,United States
+340,244,Athletic Socks (3-pack),Apparel,1,14.99,14.99,1/27/2025,5556 Arizona Road,Milwaukee,United States
+341,488,Sweatband Set,Accessories,1,9.99,9.99,1/19/2025,24 Dryden Place,Des Moines,United States
+342,566,Tennis Balls (can),Racquet Sports,4,8.99,35.96,3/7/2025,5 Kedzie Way,Colorado Springs,United States
+343,395,Tennis Balls (can),Racquet Sports,20,8.99,179.8,5/26/2025,4 Bellgrove Drive,Flushing,United States
+344,980,Tennis Racket,Racquet Sports,5,79.99,399.95,5/21/2025,428 Esker Plaza,Wichita,United States
+345,189,Squash Goggles,Racquet Sports,1,24.99,24.99,1/2/2025,81365 Pawling Circle,Seattle,United States
+346,575,Sweatband Set,Accessories,23,9.99,229.77,1/10/2025,2035 Sachtjen Place,Newport News,United States
+347,827,Adjustable Dumbbells,Fitness Equipment,23,119.99,2759.77,2/18/2025,1 Meadow Valley Circle,Dallas,United States
+348,207,Volleyball,Team Sports,24,22.99,551.76,1/31/2025,6798 Chinook Lane,El Paso,United States
+349,467,Pickleball Paddle,Racquet Sports,8,44.99,359.92,5/24/2025,5 Vahlen Park,Rochester,United States
+350,197,Sports Bra,Apparel,10,39.99,399.9,2/11/2025,38 Colorado Place,San Antonio,United States
+351,730,Sweatband Set,Accessories,15,9.99,149.85,5/2/2025,04 Muir Terrace,Philadelphia,United States
+352,341,Squash Goggles,Racquet Sports,13,24.99,324.87,2/20/2025,35 Ohio Crossing,Minneapolis,United States
+353,288,Badminton Set,Racquet Sports,14,39.99,559.86,5/25/2025,3 Sunbrook Circle,Washington,United States
+354,576,Soccer Jersey,Apparel,3,49.99,149.97,5/3/2025,37 Comanche Crossing,New York City,United States
+355,368,Badminton Set,Racquet Sports,20,39.99,799.8,4/16/2025,61890 8th Terrace,Chicago,United States
+356,232,Cycling Gloves,Accessories,25,15.99,399.75,2/4/2025,228 Kingsford Place,Richmond,United States
+357,675,Lacrosse Stick,Team Sports,25,69.99,1749.75,5/7/2025,57246 School Avenue,Omaha,United States
+358,389,Squash Goggles,Racquet Sports,11,24.99,274.89,5/22/2025,3899 Packers Terrace,San Jose,United States
+359,602,Sweatband Set,Accessories,13,9.99,129.87,4/15/2025,8 Main Pass,Louisville,United States
+360,927,Cycling Gloves,Accessories,7,15.99,111.93,1/13/2025,6942 Del Mar Junction,Clearwater,United States
+361,629,Foam Roller,Fitness Equipment,14,21.5,301,1/15/2025,10 Aberg Avenue,Van Nuys,United States
+362,111,Cycling Gloves,Accessories,24,15.99,383.76,4/11/2025,318 Leroy Junction,San Rafael,United States
+363,341,Soccer Jersey,Apparel,9,49.99,449.91,2/19/2025,5 Aberg Drive,Aurora,United States
+364,137,Sports Bra,Apparel,20,39.99,799.8,3/11/2025,50 Norway Maple Hill,Sioux Falls,United States
+365,484,Badminton Set,Racquet Sports,1,39.99,39.99,2/4/2025,0 Village Green Park,Orlando,United States
+366,222,Sports Bra,Apparel,1,39.99,39.99,3/26/2025,10 Canary Alley,Dallas,United States
+367,351,Tennis Balls (can),Racquet Sports,11,8.99,98.89,2/23/2025,1695 Manufacturers Court,Pueblo,United States
+368,770,Badminton Set,Racquet Sports,24,39.99,959.76,2/12/2025,38087 Muir Lane,Birmingham,United States
+369,796,Volleyball,Team Sports,12,22.99,275.88,1/30/2025,1143 Crescent Oaks Circle,Anniston,United States
+370,915,Compression Shirt,Apparel,14,34.99,489.86,5/14/2025,92 Anzinger Parkway,Staten Island,United States
+371,310,Indoor Court Shoes,Footwear,10,74.99,749.9,3/20/2025,5723 Columbus Avenue,Sacramento,United States
+372,468,Foam Roller,Fitness Equipment,6,21.5,129,2/7/2025,072 Schurz Center,Pasadena,United States
+373,440,Adjustable Dumbbells,Fitness Equipment,6,119.99,719.94,1/14/2025,74 Brickson Park Trail,Providence,United States
+374,522,Running Shorts,Apparel,4,29.99,119.96,2/9/2025,2 Lerdahl Way,Pinellas Park,United States
+375,275,Badminton Set,Racquet Sports,16,39.99,639.84,2/17/2025,1 Almo Drive,Washington,United States
+376,296,Soccer Jersey,Apparel,14,49.99,699.86,4/23/2025,8944 Logan Park,Austin,United States
+377,919,Sports Bra,Apparel,11,39.99,439.89,5/7/2025,96357 Westport Way,London,United States
+378,579,Soccer Jersey,Apparel,6,49.99,299.94,3/12/2025,3310 Barby Avenue,Fort Worth,United States
+379,456,Sweatband Set,Accessories,2,9.99,19.98,5/1/2025,61965 Sutteridge Place,Springfield,United States
+380,690,Trail Running Shoes,Footwear,21,94.99,1994.79,4/30/2025,40316 Oneill Lane,New Orleans,United States
+381,805,Foam Roller,Fitness Equipment,7,21.5,150.5,1/3/2025,31 Kim Street,San Diego,United States
+382,227,Tennis Racket,Racquet Sports,18,79.99,1439.82,4/22/2025,3141 Gina Court,Aurora,United States
+383,157,Compression Shirt,Apparel,2,34.99,69.98,2/22/2025,45 Orin Parkway,Santa Rosa,United States
+384,4,Tennis Racket,Racquet Sports,23,79.99,1839.77,1/14/2025,2 Sachtjen Alley,Tucson,United States
+385,697,Indoor Court Shoes,Footwear,5,74.99,374.95,5/21/2025,92106 Ridgeview Circle,El Paso,United States
+386,442,Sports Bra,Apparel,1,39.99,39.99,5/3/2025,81 Ohio Lane,North Little Rock,United States
+387,415,Basketball,Team Sports,20,29.99,599.8,1/27/2025,06 Pierstorff Crossing,Midland,United States
+388,394,Badminton Set,Racquet Sports,4,39.99,159.96,5/14/2025,6305 Brentwood Pass,Tacoma,United States
+389,765,Badminton Set,Racquet Sports,1,39.99,39.99,3/25/2025,63 Butterfield Point,El Paso,United States
+390,270,Football,Team Sports,15,27.99,419.85,5/3/2025,9739 Red Cloud Circle,El Paso,United States
+391,337,Cleats,Footwear,19,59.99,1139.81,3/24/2025,32 Dawn Pass,Pittsburgh,United States
+392,609,Squash Goggles,Racquet Sports,15,24.99,374.85,5/11/2025,2447 Memorial Alley,Greeley,United States
+393,805,Compression Shirt,Apparel,24,34.99,839.76,3/20/2025,9 Monterey Alley,Toledo,United States
+394,930,Indoor Court Shoes,Footwear,17,74.99,1274.83,3/21/2025,16876 Northfield Trail,Pensacola,United States
+395,64,Cycling Gloves,Accessories,21,15.99,335.79,4/12/2025,595 Melrose Road,Pensacola,United States
+396,286,Badminton Set,Racquet Sports,2,39.99,79.98,1/4/2025,87329 1st Alley,Denton,United States
+397,93,Cycling Gloves,Accessories,17,15.99,271.83,2/21/2025,407 Crownhardt Parkway,Mobile,United States
+398,839,Soccer Jersey,Apparel,3,49.99,149.97,3/23/2025,71 Colorado Trail,Jacksonville,United States
+399,263,Cycling Gloves,Accessories,7,15.99,111.93,5/28/2025,2 Bobwhite Court,Houston,United States
+400,195,Adjustable Dumbbells,Fitness Equipment,25,119.99,2999.75,3/2/2025,4 Weeping Birch Lane,Seattle,United States
+401,107,Lacrosse Stick,Team Sports,17,69.99,1189.83,1/7/2025,36844 Burning Wood Road,Erie,United States
+402,416,Badminton Set,Racquet Sports,13,39.99,519.87,3/20/2025,35336 Mariners Cove Junction,Columbus,United States
+403,382,Soccer Jersey,Apparel,24,49.99,1199.76,5/22/2025,46 American Trail,Springfield,United States
+404,860,Tennis Balls (can),Racquet Sports,11,8.99,98.89,5/21/2025,69 Russell Way,Cincinnati,United States
+405,741,Squash Goggles,Racquet Sports,5,24.99,124.95,1/14/2025,07 Fairview Point,Silver Spring,United States
+406,60,Basketball,Team Sports,22,29.99,659.78,4/29/2025,01 Surrey Way,Augusta,United States
+407,514,Squash Goggles,Racquet Sports,3,24.99,74.97,2/23/2025,319 Coolidge Way,Sacramento,United States
+408,710,Football,Team Sports,10,27.99,279.9,1/21/2025,4 Bartillon Plaza,Honolulu,United States
+409,123,Soccer Jersey,Apparel,18,49.99,899.82,3/10/2025,52 Kennedy Pass,Sacramento,United States
+410,714,Sweatband Set,Accessories,11,9.99,109.89,4/2/2025,58 Grim Parkway,Wichita,United States
+411,673,Sweatband Set,Accessories,14,9.99,139.86,1/11/2025,9549 Cardinal Street,Colorado Springs,United States
+412,94,Football,Team Sports,1,27.99,27.99,4/10/2025,6 Independence Drive,Mobile,United States
+413,98,Pickleball Paddle,Racquet Sports,9,44.99,404.91,4/9/2025,42550 Warner Junction,Birmingham,United States
+414,236,Squash Goggles,Racquet Sports,18,24.99,449.82,4/21/2025,079 Onsgard Lane,Washington,United States
+415,76,Cycling Gloves,Accessories,14,15.99,223.86,5/1/2025,596 Cambridge Way,Whittier,United States
+416,224,Pickleball Paddle,Racquet Sports,12,44.99,539.88,4/8/2025,9 Rieder Pass,Lincoln,United States
+417,826,Basketball,Team Sports,11,29.99,329.89,3/4/2025,1 Farragut Trail,Washington,United States
+418,446,Squash Goggles,Racquet Sports,10,24.99,249.9,3/19/2025,4 Armistice Circle,Phoenix,United States
+419,529,Sweatband Set,Accessories,5,9.99,49.95,5/30/2025,20162 Judy Way,San Jose,United States
+420,799,Sports Bra,Apparel,7,39.99,279.93,3/5/2025,7489 Mandrake Junction,Pinellas Park,United States
+421,767,Athletic Socks (3-pack),Apparel,25,14.99,374.75,3/31/2025,860 Shelley Place,Topeka,United States
+422,767,Running Shorts,Apparel,14,29.99,419.86,4/22/2025,1 Almo Road,Washington,United States
+423,789,Kettlebell - 20lb,Fitness Equipment,3,35.99,107.97,3/27/2025,297 Westport Parkway,Fort Lauderdale,United States
+424,739,Badminton Set,Racquet Sports,1,39.99,39.99,4/1/2025,62600 Kedzie Drive,Phoenix,United States
+425,397,Tennis Racket,Racquet Sports,13,79.99,1039.87,5/29/2025,10475 Merry Plaza,Canton,United States
+426,220,Tennis Racket,Racquet Sports,17,79.99,1359.83,5/5/2025,3514 Monterey Trail,San Antonio,United States
+427,757,Tennis Balls (can),Racquet Sports,4,8.99,35.96,1/11/2025,698 Sunnyside Pass,Chicago,United States
+428,79,Basketball,Team Sports,14,29.99,419.86,1/20/2025,99 School Parkway,Muskegon,United States
+429,47,Tennis Racket,Racquet Sports,5,79.99,399.95,2/14/2025,48574 Heath Court,Phoenix,United States
+430,528,Squash Goggles,Racquet Sports,15,24.99,374.85,2/10/2025,098 Marquette Pass,Lynchburg,United States
+431,404,Basketball,Team Sports,1,29.99,29.99,3/2/2025,7077 Knutson Hill,Toledo,United States
+432,137,Tennis Racket,Racquet Sports,8,79.99,639.92,2/7/2025,3125 Forest Dale Crossing,Santa Fe,United States
+433,263,Lacrosse Stick,Team Sports,17,69.99,1189.83,3/22/2025,07689 Clemons Park,Tulsa,United States
+434,589,Soccer Jersey,Apparel,21,49.99,1049.79,5/23/2025,6717 Barnett Drive,Punta Gorda,United States
+435,610,Squash Goggles,Racquet Sports,5,24.99,124.95,1/27/2025,002 Farragut Junction,Sacramento,United States
+436,928,Squash Goggles,Racquet Sports,22,24.99,549.78,1/24/2025,5929 Heath Avenue,Cedar Rapids,United States
+437,225,Soccer Ball,Team Sports,23,24.99,574.77,1/4/2025,8937 Arizona Park,Minneapolis,United States
+438,343,Soccer Ball,Team Sports,7,24.99,174.93,4/12/2025,6 Bluestem Court,Grand Rapids,United States
+439,486,Squash Goggles,Racquet Sports,5,24.99,124.95,4/25/2025,0 Riverside Circle,West Palm Beach,United States
+440,634,Tennis Racket,Racquet Sports,7,79.99,559.93,4/11/2025,6780 Shopko Crossing,Omaha,United States
+441,113,Running Shorts,Apparel,1,29.99,29.99,2/3/2025,494 School Street,Whittier,United States
+442,639,Squash Goggles,Racquet Sports,21,24.99,524.79,2/28/2025,132 Knutson Street,Denver,United States
+443,533,Trail Running Shoes,Footwear,14,94.99,1329.86,5/20/2025,7976 Hanover Parkway,Oklahoma City,United States
+444,908,Athletic Socks (3-pack),Apparel,23,14.99,344.77,2/10/2025,86495 Drewry Road,Atlanta,United States
+445,70,Soccer Ball,Team Sports,9,24.99,224.91,3/16/2025,8 Hudson Plaza,Dallas,United States
+446,201,Sweatband Set,Accessories,12,9.99,119.88,3/6/2025,97107 Fremont Junction,North Little Rock,United States
+447,145,Badminton Set,Racquet Sports,25,39.99,999.75,5/1/2025,0472 Fairfield Way,Arlington,United States
+448,923,Basketball,Team Sports,19,29.99,569.81,1/26/2025,80 La Follette Plaza,Washington,United States
+449,73,Soccer Jersey,Apparel,22,49.99,1099.78,1/7/2025,95415 Redwing Road,Dearborn,United States
+450,919,Sweatband Set,Accessories,11,9.99,109.89,5/6/2025,980 Mitchell Pass,El Paso,United States
+451,602,Soccer Jersey,Apparel,3,49.99,149.97,2/25/2025,2 Carpenter Center,Zephyrhills,United States
+452,579,Soccer Jersey,Apparel,11,49.99,549.89,2/22/2025,02716 Melody Pass,Sacramento,United States
+453,187,Badminton Set,Racquet Sports,13,39.99,519.87,5/29/2025,04 Bluejay Way,Sacramento,United States
+454,491,Badminton Set,Racquet Sports,10,39.99,399.9,5/25/2025,69865 Michigan Center,Seattle,United States
+455,459,Compression Shirt,Apparel,25,34.99,874.75,1/4/2025,53927 Harper Park,Dearborn,United States
+456,716,Pickleball Paddle,Racquet Sports,23,44.99,1034.77,1/29/2025,0868 Valley Edge Avenue,Birmingham,United States
+457,122,Lacrosse Stick,Team Sports,10,69.99,699.9,3/5/2025,7894 1st Alley,Seattle,United States
+458,75,Compression Shirt,Apparel,22,34.99,769.78,1/19/2025,8784 Memorial Center,Migrate,United States
+459,829,Soccer Jersey,Apparel,5,49.99,249.95,3/10/2025,486 Old Gate Lane,Evansville,United States
+460,969,Basketball,Team Sports,14,29.99,419.86,2/21/2025,737 Schmedeman Junction,New York City,United States
+461,91,Sports Bra,Apparel,2,39.99,79.98,2/19/2025,9235 Division Road,Raleigh,United States
+462,947,Running Shorts,Apparel,25,29.99,749.75,4/1/2025,71881 Continental Plaza,Saint Louis,United States
+463,560,Volleyball,Team Sports,6,22.99,137.94,3/4/2025,0 Cody Drive,Philadelphia,United States
+464,532,Athletic Socks (3-pack),Apparel,9,14.99,134.91,3/19/2025,27301 Katie Lane,Lexington,United States
+465,832,Sports Bra,Apparel,20,39.99,799.8,5/15/2025,15 Stoughton Plaza,Brooklyn,United States
+466,233,Tennis Racket,Racquet Sports,5,79.99,399.95,2/19/2025,82099 Mosinee Circle,Washington,United States
+467,67,Tennis Racket,Racquet Sports,10,79.99,799.9,2/11/2025,7 Haas Street,Oakland,United States
+468,266,Pickleball Paddle,Racquet Sports,16,44.99,719.84,3/16/2025,25 Emmet Circle,West Palm Beach,United States
+469,62,Sweatband Set,Accessories,11,9.99,109.89,5/14/2025,23 Emmet Pass,Reston,United States
+470,229,Soccer Ball,Team Sports,7,24.99,174.93,1/5/2025,6207 Evergreen Circle,Naples,United States
+471,127,Resistance Bands Set,Fitness Equipment,11,19.99,219.89,1/16/2025,36399 Forest Dale Road,Reno,United States
+472,253,Running Shorts,Apparel,13,29.99,389.87,3/22/2025,50982 Garrison Drive,Chicago,United States
+473,195,Cycling Gloves,Accessories,22,15.99,351.78,5/10/2025,829 Burrows Park,Toledo,United States
+474,468,Soccer Ball,Team Sports,20,24.99,499.8,5/18/2025,9322 Crowley Hill,Marietta,United States
+475,220,Pickleball Paddle,Racquet Sports,9,44.99,404.91,2/8/2025,87 Vahlen Pass,Oakland,United States
+476,175,Cycling Gloves,Accessories,21,15.99,335.79,5/8/2025,5 Clarendon Parkway,Flushing,United States
+477,362,Football,Team Sports,12,27.99,335.88,4/15/2025,35 Bunker Hill Trail,Milwaukee,United States
+478,915,Cycling Gloves,Accessories,20,15.99,319.8,5/28/2025,9 Eggendart Circle,Corpus Christi,United States
+479,541,Cycling Gloves,Accessories,11,15.99,175.89,5/16/2025,19 Carberry Trail,Detroit,United States
+480,777,Tennis Balls (can),Racquet Sports,15,8.99,134.85,1/25/2025,5 Susan Park,Seattle,United States
+481,556,Cycling Gloves,Accessories,9,15.99,143.91,4/11/2025,3466 Lien Point,Flushing,United States
+482,267,Athletic Socks (3-pack),Apparel,18,14.99,269.82,4/29/2025,9086 South Avenue,Fort Pierce,United States
+483,690,Yoga Mat,Fitness Equipment,8,25.0,200,5/2/2025,7489 Esch Court,Philadelphia,United States
+484,662,Sweatband Set,Accessories,25,9.99,249.75,1/2/2025,38 Kensington Park,Memphis,United States
+485,861,Badminton Set,Racquet Sports,7,39.99,279.93,4/20/2025,43813 Vahlen Parkway,Tampa,United States
+486,772,Volleyball,Team Sports,19,22.99,436.81,4/14/2025,01523 Linden Parkway,Denver,United States
+487,479,Adjustable Dumbbells,Fitness Equipment,18,119.99,2159.82,2/17/2025,3850 Mockingbird Road,Sioux City,United States
+488,660,Running Shorts,Apparel,20,29.99,599.8,4/1/2025,46195 Farmco Point,Young America,United States
+489,535,Volleyball,Team Sports,19,22.99,436.81,4/21/2025,1243 Union Junction,Carlsbad,United States
+490,684,Running Shorts,Apparel,12,29.99,359.88,2/3/2025,5 Mandrake Plaza,Chicago,United States
+491,634,Cycling Gloves,Accessories,7,15.99,111.93,4/11/2025,9262 Katie Plaza,Cleveland,United States
+492,460,Squash Goggles,Racquet Sports,5,24.99,124.95,3/3/2025,80 Sutteridge Drive,Washington,United States
+493,238,Badminton Set,Racquet Sports,10,39.99,399.9,1/18/2025,66 7th Hill,Erie,United States
+494,583,Running Shorts,Apparel,16,29.99,479.84,1/8/2025,2 Maple Wood Crossing,Minneapolis,United States
+495,97,Squash Goggles,Racquet Sports,14,24.99,349.86,4/19/2025,9261 West Point,Pittsburgh,United States
+496,316,Squash Goggles,Racquet Sports,11,24.99,274.89,5/26/2025,237 Bultman Circle,Denton,United States
+497,327,Yoga Mat,Fitness Equipment,23,25.0,575,5/1/2025,15 Columbus Way,Washington,United States
+498,684,Tennis Racket,Racquet Sports,1,79.99,79.99,2/2/2025,7 Redwing Lane,Denver,United States
+499,870,Tennis Racket,Racquet Sports,23,79.99,1839.77,2/10/2025,54 Old Gate Road,Evansville,United States
+500,253,Tennis Racket,Racquet Sports,1,79.99,79.99,2/27/2025,78775 Cardinal Street,Richmond,United States
+501,892,Athletic Socks (3-pack),Apparel,2,14.99,29.98,4/29/2025,4893 Forest Dale Way,Tampa,United States
+502,628,Tennis Racket,Racquet Sports,24,79.99,1919.76,3/7/2025,2 Spenser Lane,Cleveland,United States
+503,252,Basketball,Team Sports,5,29.99,149.95,1/12/2025,710 Prentice Court,San Diego,United States
+504,471,Badminton Set,Racquet Sports,12,39.99,479.88,4/24/2025,3 Ridgeview Avenue,Saint Paul,United States
+505,340,Tennis Racket,Racquet Sports,17,79.99,1359.83,4/1/2025,81755 Northport Lane,Baltimore,United States
+506,336,Running Shorts,Apparel,18,29.99,539.82,4/6/2025,367 Kingsford Trail,Charleston,United States
+507,971,Football,Team Sports,17,27.99,475.83,1/31/2025,42 Granby Pass,Corona,United States
+508,682,Pickleball Paddle,Racquet Sports,22,44.99,989.78,2/19/2025,053 7th Parkway,Van Nuys,United States
+509,106,Squash Goggles,Racquet Sports,20,24.99,499.8,5/6/2025,5301 Schlimgen Junction,Colorado Springs,United States
+510,699,Football,Team Sports,18,27.99,503.82,4/28/2025,4 East Street,Phoenix,United States
+511,131,Basketball,Team Sports,10,29.99,299.9,3/10/2025,4 Cherokee Pass,Racine,United States
+512,747,Pickleball Paddle,Racquet Sports,24,44.99,1079.76,4/28/2025,3874 Banding Hill,Charlotte,United States
+513,277,Volleyball,Team Sports,8,22.99,183.92,3/9/2025,5 Little Fleur Park,Peoria,United States
+514,671,Basketball,Team Sports,3,29.99,89.97,4/13/2025,6 Briar Crest Junction,Marietta,United States
+515,633,Running Shorts,Apparel,3,29.99,89.97,4/20/2025,7882 Grayhawk Park,Houston,United States
+516,571,Football,Team Sports,5,27.99,139.95,4/9/2025,6 Ludington Hill,Jacksonville,United States
+517,184,Squash Goggles,Racquet Sports,18,24.99,449.82,4/3/2025,8 Debra Road,Memphis,United States
+518,283,Cycling Gloves,Accessories,8,15.99,127.92,1/29/2025,6 Sherman Hill,Newark,United States
+519,360,Resistance Bands Set,Fitness Equipment,11,19.99,219.89,1/1/2025,33813 Melody Circle,Fort Worth,United States
+520,169,Athletic Socks (3-pack),Apparel,23,14.99,344.77,5/7/2025,34877 Atwood Drive,Racine,United States
+521,862,Badminton Set,Racquet Sports,21,39.99,839.79,5/9/2025,689 Twin Pines Park,Birmingham,United States
+522,663,Lacrosse Stick,Team Sports,14,69.99,979.86,3/9/2025,728 Blue Bill Park Trail,Tulsa,United States
+523,95,Squash Goggles,Racquet Sports,14,24.99,349.86,5/1/2025,22 Judy Crossing,Palmdale,United States
+524,861,Cycling Gloves,Accessories,21,15.99,335.79,1/22/2025,40 Walton Plaza,Saint Louis,United States
+525,882,Cycling Gloves,Accessories,15,15.99,239.85,5/13/2025,99 Holmberg Court,Hamilton,United States
+526,299,Badminton Set,Racquet Sports,12,39.99,479.88,1/15/2025,3 Annamark Alley,Saint Paul,United States
+527,916,Pickleball Paddle,Racquet Sports,9,44.99,404.91,4/29/2025,88151 Eagan Alley,Nashville,United States
+528,714,Sports Bra,Apparel,25,39.99,999.75,4/28/2025,9885 Lotheville Junction,Philadelphia,United States
+529,700,Squash Goggles,Racquet Sports,11,24.99,274.89,2/11/2025,01385 Brown Junction,Colorado Springs,United States
+530,764,Football,Team Sports,16,27.99,447.84,5/29/2025,31253 Kensington Avenue,Chicago,United States
+531,192,Athletic Socks (3-pack),Apparel,18,14.99,269.82,1/28/2025,2435 Orin Hill,New York City,United States
+532,830,Athletic Socks (3-pack),Apparel,8,14.99,119.92,2/22/2025,20555 Kipling Place,Kansas City,United States
+533,104,Cycling Gloves,Accessories,17,15.99,271.83,1/9/2025,3945 Heffernan Avenue,Carlsbad,United States
+534,341,Sweatband Set,Accessories,16,9.99,159.84,3/26/2025,590 Nevada Pass,Rochester,United States
+535,454,Squash Goggles,Racquet Sports,17,24.99,424.83,1/9/2025,06655 Colorado Court,Pittsburgh,United States
+536,768,Squash Goggles,Racquet Sports,22,24.99,549.78,1/13/2025,285 Miller Trail,Portland,United States
+537,273,Basketball,Team Sports,23,29.99,689.77,3/8/2025,060 Cherokee Street,Harrisburg,United States
+538,91,Soccer Jersey,Apparel,15,49.99,749.85,5/22/2025,63163 Schiller Place,Spartanburg,United States
+539,280,Kettlebell - 20lb,Fitness Equipment,3,35.99,107.97,5/22/2025,39 Arapahoe Pass,Columbus,United States
+540,988,Volleyball,Team Sports,15,22.99,344.85,4/20/2025,69 Arapahoe Alley,Bakersfield,United States
+541,844,Cycling Gloves,Accessories,8,15.99,127.92,4/9/2025,96 Corscot Crossing,Minneapolis,United States
+542,973,Squash Goggles,Racquet Sports,11,24.99,274.89,2/24/2025,27596 Summit Road,New Orleans,United States
+543,348,Trail Running Shoes,Footwear,10,94.99,949.9,1/31/2025,281 Moland Street,Irving,United States
+544,2,Athletic Socks (3-pack),Apparel,15,14.99,224.85,1/16/2025,2 Veith Drive,Farmington,United States
+545,115,Cycling Gloves,Accessories,4,15.99,63.96,1/18/2025,246 Lotheville Park,Fort Wayne,United States
+546,243,Badminton Set,Racquet Sports,21,39.99,839.79,2/7/2025,43601 Forest Alley,San Bernardino,United States
+547,401,Athletic Socks (3-pack),Apparel,25,14.99,374.75,4/24/2025,74 Magdeline Terrace,Humble,United States
+548,921,Kettlebell - 20lb,Fitness Equipment,22,35.99,791.78,4/23/2025,881 Ridge Oak Parkway,Los Angeles,United States
+549,775,Tennis Balls (can),Racquet Sports,10,8.99,89.9,2/7/2025,0795 Pankratz Avenue,Atlanta,United States
+550,226,Pickleball Paddle,Racquet Sports,7,44.99,314.93,1/25/2025,075 Heath Drive,San Francisco,United States
+551,103,Tennis Balls (can),Racquet Sports,22,8.99,197.78,5/1/2025,6 Heffernan Park,New Haven,United States
+552,495,Soccer Jersey,Apparel,4,49.99,199.96,2/28/2025,8 Artisan Pass,Chicago,United States
+553,940,Sweatband Set,Accessories,1,9.99,9.99,1/13/2025,59 Center Center,Spring,United States
+554,151,Sweatband Set,Accessories,15,9.99,149.85,1/26/2025,63 Crownhardt Center,Nashville,United States
+555,38,Pickleball Paddle,Racquet Sports,6,44.99,269.94,2/12/2025,5 Sullivan Lane,Bethlehem,United States
+556,967,Badminton Set,Racquet Sports,24,39.99,959.76,1/18/2025,99 Leroy Hill,Memphis,United States
+557,6,Cycling Gloves,Accessories,2,15.99,31.98,3/3/2025,4 Goodland Place,Charlotte,United States
+558,456,Lacrosse Stick,Team Sports,20,69.99,1399.8,5/27/2025,7066 Namekagon Park,Honolulu,United States
+559,80,Badminton Set,Racquet Sports,11,39.99,439.89,4/8/2025,82 Armistice Point,New York City,United States
+560,684,Sports Bra,Apparel,13,39.99,519.87,4/8/2025,3186 Golf Lane,Stockton,United States
+561,998,Tennis Balls (can),Racquet Sports,21,8.99,188.79,3/10/2025,120 Thackeray Street,Lafayette,United States
+562,665,Foam Roller,Fitness Equipment,19,21.5,408.5,3/8/2025,0 Esch Crossing,Oklahoma City,United States
+563,110,Compression Shirt,Apparel,15,34.99,524.85,1/6/2025,1273 Dakota Lane,Colorado Springs,United States
+564,281,Lacrosse Stick,Team Sports,3,69.99,209.97,3/30/2025,3654 Wayridge Crossing,San Francisco,United States
+565,819,Football,Team Sports,12,27.99,335.88,2/25/2025,18 Dahle Park,Saint Louis,United States
+566,917,Volleyball,Team Sports,7,22.99,160.93,4/27/2025,73 Ryan Circle,Miami,United States
+567,481,Athletic Socks (3-pack),Apparel,19,14.99,284.81,2/28/2025,7 Killdeer Street,Washington,United States
+568,314,Tennis Balls (can),Racquet Sports,7,8.99,62.93,1/16/2025,58 Meadow Ridge Hill,Montgomery,United States
+569,641,Squash Goggles,Racquet Sports,22,24.99,549.78,5/16/2025,4 Union Trail,West Hartford,United States
+570,503,Lacrosse Stick,Team Sports,1,69.99,69.99,2/16/2025,408 Tony Plaza,Fort Wayne,United States
+571,709,Squash Goggles,Racquet Sports,21,24.99,524.79,3/25/2025,65486 Ohio Point,New Haven,United States
+572,441,Kettlebell - 20lb,Fitness Equipment,2,35.99,71.98,5/5/2025,64 Sauthoff Trail,Hartford,United States
+573,586,Cycling Gloves,Accessories,10,15.99,159.9,5/17/2025,6664 Eggendart Circle,Washington,United States
+574,771,Sports Bra,Apparel,2,39.99,79.98,3/30/2025,98 Sutherland Terrace,Valdosta,United States
+575,260,Cycling Gloves,Accessories,21,15.99,335.79,3/23/2025,72037 Derek Crossing,Chesapeake,United States
+576,401,Lacrosse Stick,Team Sports,22,69.99,1539.78,2/15/2025,866 Florence Plaza,Roanoke,United States
+577,8,Tennis Racket,Racquet Sports,5,79.99,399.95,1/13/2025,9 Center Lane,Jackson,United States
+578,755,Sweatband Set,Accessories,7,9.99,69.93,3/30/2025,5 Drewry Court,Beaufort,United States
+579,215,Squash Goggles,Racquet Sports,1,24.99,24.99,2/4/2025,80 Paget Hill,Seattle,United States
+580,370,Running Shorts,Apparel,2,29.99,59.98,2/9/2025,715 Tony Parkway,Washington,United States
+581,616,Badminton Set,Racquet Sports,6,39.99,239.94,3/4/2025,34 Grim Avenue,Long Beach,United States
+582,414,Tennis Balls (can),Racquet Sports,9,8.99,80.91,1/11/2025,5 Scoville Trail,Lubbock,United States
+583,733,Tennis Racket,Racquet Sports,14,79.99,1119.86,5/8/2025,4978 Columbus Center,Jacksonville,United States
+584,610,Tennis Balls (can),Racquet Sports,22,8.99,197.78,1/26/2025,03967 Roth Road,Lafayette,United States
+585,147,Trail Running Shoes,Footwear,14,94.99,1329.86,5/5/2025,73890 Clove Place,Durham,United States
+586,590,Athletic Socks (3-pack),Apparel,8,14.99,119.92,1/1/2025,742 Crest Line Avenue,Richmond,United States
+587,222,Squash Goggles,Racquet Sports,2,24.99,49.98,5/12/2025,4 Talmadge Parkway,El Paso,United States
+588,2,Sweatband Set,Accessories,12,9.99,119.88,4/11/2025,894 Lawn Alley,New York City,United States
+589,372,Badminton Set,Racquet Sports,24,39.99,959.76,5/26/2025,899 Almo Point,Detroit,United States
+590,675,Volleyball,Team Sports,4,22.99,91.96,5/7/2025,68929 Dapin Park,Nashville,United States
+591,228,Tennis Racket,Racquet Sports,4,79.99,319.96,1/10/2025,8466 Tennyson Trail,Van Nuys,United States
+592,273,Lacrosse Stick,Team Sports,25,69.99,1749.75,5/19/2025,6185 Westridge Trail,New Bedford,United States
+593,284,Tennis Balls (can),Racquet Sports,7,8.99,62.93,4/14/2025,8 Red Cloud Point,Pensacola,United States
+594,172,Tennis Racket,Racquet Sports,22,79.99,1759.78,2/10/2025,65 Eastwood Road,Monticello,United States
+595,932,Basketball,Team Sports,24,29.99,719.76,5/6/2025,4 Bartelt Way,Miami,United States
+596,580,Sweatband Set,Accessories,9,9.99,89.91,1/29/2025,05 Hollow Ridge Plaza,Lincoln,United States
+597,769,Sweatband Set,Accessories,18,9.99,179.82,2/15/2025,9103 Shoshone Pass,Lynn,United States
+598,712,Tennis Racket,Racquet Sports,1,79.99,79.99,3/10/2025,073 Pleasure Lane,Baltimore,United States
+599,160,Sweatband Set,Accessories,15,9.99,149.85,3/22/2025,93 1st Center,Seattle,United States
+600,110,Sweatband Set,Accessories,23,9.99,229.77,2/20/2025,347 Warrior Junction,Santa Fe,United States
+601,496,Badminton Set,Racquet Sports,5,39.99,199.95,2/6/2025,708 Mesta Parkway,Hampton,United States
+602,459,Lacrosse Stick,Team Sports,14,69.99,979.86,2/9/2025,12406 Raven Crossing,Seattle,United States
+603,928,Sports Bra,Apparel,4,39.99,159.96,3/4/2025,97 Hagan Crossing,Baltimore,United States
+604,429,Basketball,Team Sports,25,29.99,749.75,4/10/2025,8 New Castle Park,New York City,United States
+605,554,Compression Shirt,Apparel,11,34.99,384.89,5/25/2025,64 Cottonwood Pass,Cheyenne,United States
+606,360,Basketball,Team Sports,15,29.99,449.85,4/22/2025,5 Golf Parkway,West Palm Beach,United States
+607,20,Trail Running Shoes,Footwear,18,94.99,1709.82,4/9/2025,3 Ridge Oak Parkway,Oakland,United States
+608,884,Lacrosse Stick,Team Sports,14,69.99,979.86,5/26/2025,99195 3rd Crossing,Miami,United States
+609,839,Soccer Jersey,Apparel,20,49.99,999.8,4/4/2025,3 Hoepker Point,San Francisco,United States
+610,371,Cycling Gloves,Accessories,1,15.99,15.99,3/15/2025,2440 Bunting Lane,Lubbock,United States
+611,122,Adjustable Dumbbells,Fitness Equipment,18,119.99,2159.82,1/14/2025,33 Summit Pass,Lansing,United States
+612,755,Football,Team Sports,25,27.99,699.75,5/19/2025,8 Troy Center,Madison,United States
+613,795,Volleyball,Team Sports,22,22.99,505.78,3/1/2025,10373 Morning Trail,Tallahassee,United States
+614,301,Athletic Socks (3-pack),Apparel,10,14.99,149.9,4/25/2025,1167 Fairview Crossing,Topeka,United States
+615,491,Soccer Jersey,Apparel,17,49.99,849.83,5/21/2025,2 Fulton Way,Rockford,United States
+616,302,Compression Shirt,Apparel,20,34.99,699.8,5/22/2025,7 Autumn Leaf Alley,Los Angeles,United States
+617,556,Badminton Set,Racquet Sports,7,39.99,279.93,1/20/2025,2440 Muir Court,Albany,United States
+618,726,Compression Shirt,Apparel,19,34.99,664.81,3/3/2025,6998 Holmberg Lane,Oklahoma City,United States
+619,240,Badminton Set,Racquet Sports,15,39.99,599.85,5/18/2025,33384 Orin Street,Minneapolis,United States
+620,567,Sweatband Set,Accessories,16,9.99,159.84,5/11/2025,8740 Lindbergh Road,Saint Paul,United States
+621,753,Sports Bra,Apparel,7,39.99,279.93,1/22/2025,57 Carioca Park,Denver,United States
+622,475,Tennis Balls (can),Racquet Sports,24,8.99,215.76,2/3/2025,722 Fulton Circle,Tucson,United States
+623,723,Squash Goggles,Racquet Sports,1,24.99,24.99,4/30/2025,5 Sauthoff Street,Springfield,United States
+624,14,Running Shorts,Apparel,22,29.99,659.78,2/23/2025,49788 Dovetail Lane,New York City,United States
+625,72,Badminton Set,Racquet Sports,9,39.99,359.91,4/1/2025,1 Gale Way,Fort Wayne,United States
+626,2,Cycling Gloves,Accessories,17,15.99,271.83,4/30/2025,6 Upham Trail,Chicago,United States
+627,410,Squash Goggles,Racquet Sports,15,24.99,374.85,5/12/2025,8 Longview Way,Santa Fe,United States
+628,242,Soccer Jersey,Apparel,11,49.99,549.89,2/7/2025,96492 Bartelt Place,Denver,United States
+629,269,Sweatband Set,Accessories,17,9.99,169.83,4/25/2025,5211 Boyd Lane,Chattanooga,United States
+630,907,Cycling Gloves,Accessories,2,15.99,31.98,1/14/2025,6648 Maple Wood Crossing,Round Rock,United States
+631,378,Squash Goggles,Racquet Sports,7,24.99,174.93,3/1/2025,129 5th Court,Midland,United States
+632,734,Badminton Set,Racquet Sports,5,39.99,199.95,3/2/2025,93169 Fair Oaks Center,Inglewood,United States
+633,868,Tennis Balls (can),Racquet Sports,8,8.99,71.92,4/30/2025,24749 North Circle,Garland,United States
+634,744,Squash Goggles,Racquet Sports,25,24.99,624.75,2/6/2025,56833 Quincy Crossing,New York City,United States
+635,824,Basketball,Team Sports,12,29.99,359.88,1/24/2025,24 Sutteridge Place,Washington,United States
+636,167,Sports Bra,Apparel,20,39.99,799.8,3/8/2025,01 Hudson Center,Tallahassee,United States
+637,681,Volleyball,Team Sports,17,22.99,390.83,4/20/2025,1 Killdeer Hill,Reno,United States
+638,494,Athletic Socks (3-pack),Apparel,7,14.99,104.93,1/14/2025,26184 Hagan Street,Phoenix,United States
+639,317,Foam Roller,Fitness Equipment,21,21.5,451.5,4/2/2025,3 Cody Place,Vancouver,United States
+640,834,Foam Roller,Fitness Equipment,5,21.5,107.5,3/4/2025,3911 Sugar Place,Albany,United States
+641,983,Cycling Gloves,Accessories,16,15.99,255.84,5/12/2025,016 Nancy Junction,Sterling,United States
+642,147,Squash Goggles,Racquet Sports,1,24.99,24.99,2/11/2025,5 Donald Road,Richmond,United States
+643,117,Lacrosse Stick,Team Sports,1,69.99,69.99,5/25/2025,79420 New Castle Junction,Saint Joseph,United States
+644,291,Tennis Racket,Racquet Sports,21,79.99,1679.79,4/17/2025,06477 Eastlawn Plaza,Garland,United States
+645,207,Cycling Gloves,Accessories,23,15.99,367.77,3/17/2025,0284 New Castle Circle,Toledo,United States
+646,342,Squash Goggles,Racquet Sports,10,24.99,249.9,5/25/2025,21 Gina Court,Washington,United States
+647,531,Badminton Set,Racquet Sports,19,39.99,759.81,1/5/2025,827 Summer Ridge Terrace,Wilkes Barre,United States
+648,581,Cycling Gloves,Accessories,6,15.99,95.94,5/13/2025,624 Texas Alley,Honolulu,United States
+649,915,Compression Shirt,Apparel,16,34.99,559.84,1/5/2025,174 Vera Street,Cincinnati,United States
+650,957,Volleyball,Team Sports,3,22.99,68.97,5/9/2025,23910 Bartelt Way,Springfield,United States
+651,455,Cycling Gloves,Accessories,5,15.99,79.95,2/10/2025,968 Ridgeway Center,Milwaukee,United States
+652,65,Soccer Jersey,Apparel,22,49.99,1099.78,1/9/2025,47 Meadow Vale Circle,Austin,United States
+653,44,Volleyball,Team Sports,15,22.99,344.85,5/16/2025,75 Sycamore Crossing,Louisville,United States
+654,431,Tennis Balls (can),Racquet Sports,25,8.99,224.75,5/28/2025,6 Marcy Street,Rochester,United States
+655,507,Tennis Balls (can),Racquet Sports,20,8.99,179.8,4/4/2025,1 Westend Drive,Milwaukee,United States
+656,111,Soccer Jersey,Apparel,15,49.99,749.85,1/28/2025,50170 Ohio Point,Carson City,United States
+657,455,Tennis Racket,Racquet Sports,19,79.99,1519.81,3/29/2025,217 Cherokee Trail,Boston,United States
+658,890,Compression Shirt,Apparel,24,34.99,839.76,4/13/2025,8 Holy Cross Pass,Bakersfield,United States
+659,539,Volleyball,Team Sports,3,22.99,68.97,4/9/2025,024 Swallow Hill,Boise,United States
+660,779,Squash Goggles,Racquet Sports,21,24.99,524.79,3/6/2025,48256 Colorado Junction,Columbus,United States
+661,403,Volleyball,Team Sports,23,22.99,528.77,3/30/2025,03070 Elgar Parkway,Augusta,United States
+662,620,Athletic Socks (3-pack),Apparel,11,14.99,164.89,1/7/2025,33 Browning Park,Akron,United States
+663,399,Soccer Jersey,Apparel,8,49.99,399.92,2/7/2025,4249 Monterey Trail,Lansing,United States
+664,325,Pickleball Paddle,Racquet Sports,23,44.99,1034.77,2/6/2025,6 Grasskamp Court,Irvine,United States
+665,601,Athletic Socks (3-pack),Apparel,25,14.99,374.75,1/8/2025,0745 Red Cloud Pass,Waco,United States
+666,911,Cross-Training Shoes,Footwear,14,79.99,1119.86,2/15/2025,12557 West Way,Buffalo,United States
+667,736,Trail Running Shoes,Footwear,3,94.99,284.97,2/13/2025,72257 Badeau Junction,Colorado Springs,United States
+668,924,Cycling Gloves,Accessories,21,15.99,335.79,1/26/2025,4701 Bobwhite Crossing,Baton Rouge,United States
+669,825,Compression Shirt,Apparel,18,34.99,629.82,3/19/2025,6025 Evergreen Point,Newark,United States
+670,636,Tennis Balls (can),Racquet Sports,23,8.99,206.77,2/26/2025,9 Pepper Wood Road,Detroit,United States
+671,612,Tennis Balls (can),Racquet Sports,24,8.99,215.76,3/10/2025,28676 Cardinal Trail,Akron,United States
+672,199,Running Shorts,Apparel,2,29.99,59.98,2/18/2025,6487 Mayfield Center,Fort Worth,United States
+673,528,Squash Goggles,Racquet Sports,16,24.99,399.84,4/25/2025,7669 Marquette Alley,Charleston,United States
+674,840,Football,Team Sports,19,27.99,531.81,5/3/2025,816 Merchant Place,Sioux Falls,United States
+675,963,Sweatband Set,Accessories,9,9.99,89.91,1/28/2025,3 Havey Hill,Independence,United States
+676,330,Squash Goggles,Racquet Sports,21,24.99,524.79,4/12/2025,1859 Namekagon Parkway,Las Vegas,United States
+677,949,Soccer Jersey,Apparel,21,49.99,1049.79,1/12/2025,461 Burrows Way,Bryan,United States
+678,22,Resistance Bands Set,Fitness Equipment,8,19.99,159.92,3/9/2025,72 Dapin Center,Springfield,United States
+679,522,Compression Shirt,Apparel,2,34.99,69.98,1/25/2025,66706 Buell Point,El Paso,United States
+680,923,Pickleball Paddle,Racquet Sports,22,44.99,989.78,5/23/2025,156 Summer Ridge Lane,Houston,United States
+681,665,Cycling Gloves,Accessories,20,15.99,319.8,2/20/2025,71 Rutledge Court,Cincinnati,United States
+682,891,Indoor Court Shoes,Footwear,1,74.99,74.99,3/3/2025,205 Ludington Road,Lawrenceville,United States
+683,965,Football,Team Sports,5,27.99,139.95,2/9/2025,034 Service Parkway,New York City,United States
+684,372,Cycling Gloves,Accessories,23,15.99,367.77,3/26/2025,267 Buena Vista Drive,Garland,United States
+685,522,Tennis Racket,Racquet Sports,8,79.99,639.92,1/17/2025,8 Express Drive,Tacoma,United States
+686,377,Cycling Gloves,Accessories,25,15.99,399.75,1/23/2025,553 Nova Road,Whittier,United States
+687,484,Tennis Racket,Racquet Sports,4,79.99,319.96,1/24/2025,03003 Surrey Parkway,Durham,United States
+688,722,Cycling Gloves,Accessories,12,15.99,191.88,1/10/2025,30 Old Gate Junction,Lubbock,United States
+689,201,Badminton Set,Racquet Sports,20,39.99,799.8,5/4/2025,13771 Riverside Point,Jacksonville,United States
+690,864,Badminton Set,Racquet Sports,15,39.99,599.85,3/11/2025,734 Messerschmidt Crossing,Toledo,United States
+691,745,Pickleball Paddle,Racquet Sports,22,44.99,989.78,3/8/2025,720 Mariners Cove Avenue,Baltimore,United States
+692,729,Squash Goggles,Racquet Sports,1,24.99,24.99,2/17/2025,834 Merchant Way,Memphis,United States
+693,856,Tennis Racket,Racquet Sports,18,79.99,1439.82,1/9/2025,20610 Canary Center,Rochester,United States
+694,460,Squash Goggles,Racquet Sports,1,24.99,24.99,4/14/2025,39177 Continental Point,Tulsa,United States
+695,100,Athletic Socks (3-pack),Apparel,15,14.99,224.85,5/29/2025,8 Hallows Circle,Corona,United States
+696,1000,Trail Running Shoes,Footwear,9,94.99,854.91,3/4/2025,6 Roth Plaza,Olympia,United States
+697,375,Sweatband Set,Accessories,6,9.99,59.94,5/30/2025,1006 West Drive,Miami,United States
+698,687,Sports Bra,Apparel,5,39.99,199.95,2/25/2025,354 Maywood Way,Simi Valley,United States
+699,521,Squash Goggles,Racquet Sports,12,24.99,299.88,1/28/2025,94 Mayfield Road,Punta Gorda,United States
+700,815,Sports Bra,Apparel,22,39.99,879.78,2/27/2025,0 Warner Way,Louisville,United States
+701,383,Foam Roller,Fitness Equipment,19,21.5,408.5,2/6/2025,63948 Prentice Hill,Topeka,United States
+702,466,Cycling Gloves,Accessories,24,15.99,383.76,2/7/2025,7426 Orin Alley,Charlotte,United States
+703,565,Tennis Balls (can),Racquet Sports,5,8.99,44.95,3/26/2025,525 Oakridge Road,Des Moines,United States
+704,718,Compression Shirt,Apparel,6,34.99,209.94,5/29/2025,98597 Stang Drive,Pittsburgh,United States
+705,918,Yoga Mat,Fitness Equipment,25,25.0,625,3/29/2025,310 American Pass,Toledo,United States
+706,807,Volleyball,Team Sports,16,22.99,367.84,4/10/2025,13 Bluejay Center,Nashville,United States
+707,160,Lacrosse Stick,Team Sports,14,69.99,979.86,3/17/2025,917 Carey Street,Johnson City,United States
+708,583,Basketball,Team Sports,7,29.99,209.93,3/18/2025,1544 Shelley Lane,Nashville,United States
+709,858,Football,Team Sports,17,27.99,475.83,2/23/2025,57 West Point,Milwaukee,United States
+710,933,Compression Shirt,Apparel,20,34.99,699.8,5/24/2025,83454 Reindahl Circle,San Rafael,United States
+711,432,Football,Team Sports,14,27.99,391.86,3/13/2025,2 Scott Drive,Inglewood,United States
+712,506,Badminton Set,Racquet Sports,11,39.99,439.89,4/13/2025,39 Hoffman Drive,Saint Petersburg,United States
+713,9,Resistance Bands Set,Fitness Equipment,21,19.99,419.79,5/30/2025,3 Emmet Road,Fort Wayne,United States
+714,285,Pickleball Paddle,Racquet Sports,20,44.99,899.8,5/18/2025,37757 Bayside Point,Akron,United States
+715,839,Cycling Gloves,Accessories,3,15.99,47.97,2/12/2025,03 Birchwood Alley,Marietta,United States
+716,88,Soccer Ball,Team Sports,4,24.99,99.96,5/1/2025,46 Clove Street,Harrisburg,United States
+717,974,Badminton Set,Racquet Sports,15,39.99,599.85,3/12/2025,724 Esch Plaza,Akron,United States
+718,125,Kettlebell - 20lb,Fitness Equipment,17,35.99,611.83,3/25/2025,4 Brown Center,Evansville,United States
+719,848,Sports Bra,Apparel,23,39.99,919.77,5/30/2025,4449 Meadow Valley Crossing,Boston,United States
+720,980,Compression Shirt,Apparel,19,34.99,664.81,1/24/2025,0 Florence Place,Colorado Springs,United States
+721,94,Tennis Balls (can),Racquet Sports,16,8.99,143.84,5/11/2025,156 Maple Wood Trail,Sacramento,United States
+722,248,Pickleball Paddle,Racquet Sports,25,44.99,1124.75,5/7/2025,12756 Eagle Crest Alley,Toledo,United States
+723,910,Soccer Jersey,Apparel,24,49.99,1199.76,2/11/2025,78095 Straubel Circle,Miami,United States
+724,43,Sports Bra,Apparel,22,39.99,879.78,1/18/2025,3340 Namekagon Park,New Haven,United States
+725,983,Compression Shirt,Apparel,17,34.99,594.83,2/28/2025,24 Randy Hill,Orlando,United States
+726,529,Compression Shirt,Apparel,2,34.99,69.98,1/13/2025,197 Waubesa Hill,Chicago,United States
+727,890,Squash Goggles,Racquet Sports,18,24.99,449.82,5/28/2025,78 Leroy Plaza,San Francisco,United States
+728,769,Pickleball Paddle,Racquet Sports,3,44.99,134.97,1/16/2025,6 Montana Way,Gainesville,United States
+729,296,Sweatband Set,Accessories,9,9.99,89.91,2/3/2025,193 Marcy Junction,Lexington,United States
+730,991,Badminton Set,Racquet Sports,20,39.99,799.8,3/29/2025,0177 Sauthoff Place,Toledo,United States
+731,951,Basketball,Team Sports,24,29.99,719.76,2/5/2025,12 Cambridge Pass,Chico,United States
+732,131,Cleats,Footwear,23,59.99,1379.77,4/23/2025,844 Grover Alley,Maple Plain,United States
+733,365,Squash Goggles,Racquet Sports,24,24.99,599.76,1/16/2025,00 Jenna Pass,Saint Cloud,United States
+734,9,Tennis Racket,Racquet Sports,13,79.99,1039.87,2/4/2025,29671 Waywood Parkway,Port Saint Lucie,United States
+735,668,Running Shorts,Apparel,13,29.99,389.87,5/23/2025,88478 Thompson Circle,Fort Worth,United States
+736,236,Soccer Jersey,Apparel,17,49.99,849.83,3/31/2025,9 Jenna Court,Houston,United States
+737,374,Tennis Racket,Racquet Sports,6,79.99,479.94,2/16/2025,43089 Buhler Trail,Naples,United States
+738,763,Sports Bra,Apparel,9,39.99,359.91,5/1/2025,5752 Vernon Circle,Indianapolis,United States
+739,170,Athletic Socks (3-pack),Apparel,22,14.99,329.78,3/16/2025,14118 West Center,Lincoln,United States
+740,422,Sports Bra,Apparel,25,39.99,999.75,5/27/2025,522 South Pass,Palatine,United States
+741,379,Badminton Set,Racquet Sports,8,39.99,319.92,5/17/2025,03209 Longview Crossing,Savannah,United States
+742,389,Tennis Balls (can),Racquet Sports,1,8.99,8.99,1/15/2025,57 Fordem Trail,San Antonio,United States
+743,107,Sports Bra,Apparel,1,39.99,39.99,1/2/2025,3 Dwight Drive,Garden Grove,United States
+744,382,Soccer Jersey,Apparel,10,49.99,499.9,4/26/2025,6 Algoma Pass,Honolulu,United States
+745,239,Pickleball Paddle,Racquet Sports,19,44.99,854.81,3/1/2025,960 Division Pass,Lincoln,United States
+746,346,Sweatband Set,Accessories,6,9.99,59.94,1/2/2025,44 Esker Drive,Sacramento,United States
+747,468,Sweatband Set,Accessories,19,9.99,189.81,3/12/2025,07765 Helena Road,Grand Forks,United States
+748,566,Tennis Racket,Racquet Sports,24,79.99,1919.76,5/8/2025,58781 Kim Street,Spring,United States
+749,260,Sports Bra,Apparel,2,39.99,79.98,1/1/2025,02 Lake View Terrace,Denver,United States
+750,918,Resistance Bands Set,Fitness Equipment,5,19.99,99.95,3/16/2025,6911 Sloan Plaza,Phoenix,United States
+751,97,Cycling Gloves,Accessories,11,15.99,175.89,3/3/2025,725 Derek Circle,Garden Grove,United States
+752,828,Soccer Jersey,Apparel,23,49.99,1149.77,3/3/2025,82418 Cody Center,Lees Summit,United States
+753,381,Cycling Gloves,Accessories,14,15.99,223.86,3/2/2025,72 Buhler Place,Pasadena,United States
+754,23,Volleyball,Team Sports,23,22.99,528.77,1/3/2025,69 Kropf Court,Durham,United States
+755,823,Tennis Balls (can),Racquet Sports,3,8.99,26.97,1/21/2025,8066 Scott Alley,Vancouver,United States
+756,787,Running Shorts,Apparel,8,29.99,239.92,4/2/2025,74 Sunfield Street,Santa Barbara,United States
+757,201,Running Shorts,Apparel,13,29.99,389.87,4/21/2025,01717 Fairview Circle,Wilmington,United States
+758,596,Lacrosse Stick,Team Sports,5,69.99,349.95,2/4/2025,3830 Hanson Avenue,Clearwater,United States
+759,145,Sweatband Set,Accessories,17,9.99,169.83,4/26/2025,7 Eliot Lane,Trenton,United States
+760,545,Athletic Socks (3-pack),Apparel,14,14.99,209.86,5/11/2025,2948 Utah Pass,Rochester,United States
+761,718,Cycling Gloves,Accessories,6,15.99,95.94,3/23/2025,83614 Huxley Point,Houston,United States
+762,315,Athletic Socks (3-pack),Apparel,23,14.99,344.77,2/25/2025,18095 Graceland Trail,Fort Worth,United States
+763,705,Badminton Set,Racquet Sports,24,39.99,959.76,5/3/2025,06122 Mifflin Place,Denver,United States
+764,426,Lacrosse Stick,Team Sports,25,69.99,1749.75,3/14/2025,29021 Merchant Point,Oklahoma City,United States
+765,328,Athletic Socks (3-pack),Apparel,25,14.99,374.75,4/1/2025,39 Northview Place,Saint Petersburg,United States
+766,409,Cycling Gloves,Accessories,25,15.99,399.75,4/11/2025,1715 Lighthouse Bay Pass,Dayton,United States
+767,306,Athletic Socks (3-pack),Apparel,8,14.99,119.92,4/20/2025,33760 Oxford Way,Pensacola,United States
+768,273,Running Shorts,Apparel,16,29.99,479.84,5/31/2025,848 Stoughton Hill,New Haven,United States
+769,677,Squash Goggles,Racquet Sports,4,24.99,99.96,5/13/2025,2001 Cherokee Street,Washington,United States
+770,579,Athletic Socks (3-pack),Apparel,7,14.99,104.93,2/8/2025,55 Heffernan Center,Beaumont,United States
+771,741,Soccer Jersey,Apparel,19,49.99,949.81,2/13/2025,7 Brickson Park Terrace,Migrate,United States
+772,48,Running Shorts,Apparel,2,29.99,59.98,1/27/2025,01 Delaware Court,Anchorage,United States
+773,270,Squash Goggles,Racquet Sports,8,24.99,199.92,5/1/2025,12264 American Ash Alley,Richmond,United States
+774,93,Trail Running Shoes,Footwear,12,94.99,1139.88,4/6/2025,37 Bowman Lane,Minneapolis,United States
+775,244,Squash Goggles,Racquet Sports,3,24.99,74.97,1/22/2025,3 Northport Way,Detroit,United States
+776,394,Cycling Gloves,Accessories,14,15.99,223.86,3/24/2025,9 Thierer Lane,Charlotte,United States
+777,195,Basketball,Team Sports,2,29.99,59.98,1/5/2025,48799 Clarendon Terrace,Toledo,United States
+778,911,Sports Bra,Apparel,22,39.99,879.78,2/7/2025,02407 Eagan Road,Birmingham,United States
+779,446,Badminton Set,Racquet Sports,22,39.99,879.78,3/4/2025,4047 Brentwood Hill,Birmingham,United States
+780,143,Compression Shirt,Apparel,6,34.99,209.94,5/1/2025,22 Londonderry Way,Melbourne,United States
+781,379,Pickleball Paddle,Racquet Sports,16,44.99,719.84,3/11/2025,2 Dahle Point,Evansville,United States
+782,180,Tennis Racket,Racquet Sports,5,79.99,399.95,3/5/2025,8 Superior Place,Portland,United States
+783,3,Foam Roller,Fitness Equipment,12,21.5,258,1/19/2025,66074 Hooker Pass,Valdosta,United States
+784,789,Sweatband Set,Accessories,25,9.99,249.75,3/27/2025,660 Buell Lane,Baton Rouge,United States
+785,755,Sweatband Set,Accessories,2,9.99,19.98,3/27/2025,9 Mayfield Circle,Bronx,United States
+786,152,Foam Roller,Fitness Equipment,20,21.5,430,2/23/2025,29 Springview Lane,Newton,United States
+787,658,Adjustable Dumbbells,Fitness Equipment,10,119.99,1199.9,4/17/2025,746 Bartillon Road,Anchorage,United States
+788,953,Volleyball,Team Sports,23,22.99,528.77,2/19/2025,4316 Schlimgen Way,Cleveland,United States
+789,549,Tennis Racket,Racquet Sports,16,79.99,1279.84,2/10/2025,9 Lillian Circle,Minneapolis,United States
+790,267,Kettlebell - 20lb,Fitness Equipment,14,35.99,503.86,4/6/2025,55 Forest Point,Pompano Beach,United States
+791,53,Sweatband Set,Accessories,10,9.99,99.9,2/9/2025,6 Westerfield Center,Washington,United States
+792,248,Adjustable Dumbbells,Fitness Equipment,12,119.99,1439.88,5/17/2025,9857 Nova Parkway,Philadelphia,United States
+793,334,Indoor Court Shoes,Footwear,1,74.99,74.99,4/15/2025,5 West Center,Saint Louis,United States
+794,56,Volleyball,Team Sports,20,22.99,459.8,3/15/2025,7 Gerald Way,Chicago,United States
+795,975,Tennis Racket,Racquet Sports,21,79.99,1679.79,3/31/2025,2364 Kensington Circle,Huntington,United States
+796,154,Badminton Set,Racquet Sports,3,39.99,119.97,3/12/2025,89784 Harbort Pass,New Orleans,United States
+797,234,Running Shorts,Apparel,21,29.99,629.79,3/5/2025,0 Duke Alley,Ocala,United States
+798,80,Cleats,Footwear,11,59.99,659.89,2/15/2025,8 Rieder Crossing,Greeley,United States
+799,651,Running Shorts,Apparel,25,29.99,749.75,1/30/2025,030 Hanson Place,Richmond,United States
+800,956,Sweatband Set,Accessories,6,9.99,59.94,5/9/2025,27386 Bultman Center,Mesa,United States
+801,492,Basketball,Team Sports,13,29.99,389.87,3/29/2025,8 Meadow Vale Way,Los Angeles,United States
+802,395,Tennis Balls (can),Racquet Sports,7,8.99,62.93,3/10/2025,51693 Karstens Crossing,Philadelphia,United States
+803,699,Sports Bra,Apparel,25,39.99,999.75,4/22/2025,488 Pankratz Point,Pasadena,United States
+804,460,Tennis Racket,Racquet Sports,12,79.99,959.88,2/8/2025,057 Burning Wood Hill,Madison,United States
+805,488,Sweatband Set,Accessories,23,9.99,229.77,5/3/2025,0 International Road,Palmdale,United States
+806,105,Foam Roller,Fitness Equipment,25,21.5,537.5,2/15/2025,95030 Browning Point,Greensboro,United States
+807,269,Sweatband Set,Accessories,20,9.99,199.8,2/15/2025,497 Calypso Parkway,San Francisco,United States
+808,245,Squash Goggles,Racquet Sports,10,24.99,249.9,1/18/2025,86519 Waywood Road,Wichita,United States
+809,963,Trail Running Shoes,Footwear,4,94.99,379.96,2/18/2025,7589 Orin Pass,North Little Rock,United States
+810,773,Badminton Set,Racquet Sports,13,39.99,519.87,1/17/2025,9 Fordem Point,Boston,United States
+811,834,Sweatband Set,Accessories,3,9.99,29.97,2/27/2025,0 Vidon Circle,Saint Augustine,United States
+812,699,Volleyball,Team Sports,21,22.99,482.79,5/17/2025,0998 Beilfuss Pass,Virginia Beach,United States
+813,520,Indoor Court Shoes,Footwear,17,74.99,1274.83,4/27/2025,96 Butternut Trail,Van Nuys,United States
+814,96,Athletic Socks (3-pack),Apparel,3,14.99,44.97,4/7/2025,5063 Northfield Crossing,Lubbock,United States
+815,934,Basketball,Team Sports,16,29.99,479.84,3/4/2025,72598 Nova Court,Minneapolis,United States
+816,937,Tennis Racket,Racquet Sports,11,79.99,879.89,4/8/2025,2 Derek Park,Whittier,United States
+817,58,Sweatband Set,Accessories,22,9.99,219.78,3/16/2025,523 Nelson Park,Pasadena,United States
+818,932,Squash Goggles,Racquet Sports,25,24.99,624.75,5/3/2025,50 Express Plaza,Shawnee Mission,United States
+819,956,Adjustable Dumbbells,Fitness Equipment,15,119.99,1799.85,2/26/2025,376 Pond Way,Houston,United States
+820,706,Running Shorts,Apparel,25,29.99,749.75,5/5/2025,31 Fremont Terrace,Houston,United States
+821,416,Pickleball Paddle,Racquet Sports,16,44.99,719.84,5/17/2025,38 Bowman Parkway,Arlington,United States
+822,595,Lacrosse Stick,Team Sports,20,69.99,1399.8,4/12/2025,95047 Norway Maple Park,Lancaster,United States
+823,205,Cycling Gloves,Accessories,9,15.99,143.91,5/28/2025,636 Manitowish Crossing,Phoenix,United States
+824,802,Pickleball Paddle,Racquet Sports,10,44.99,449.9,5/20/2025,22 Bartillon Hill,Harrisburg,United States
+825,185,Soccer Jersey,Apparel,7,49.99,349.93,4/27/2025,5 Farmco Drive,Boston,United States
+826,568,Sweatband Set,Accessories,13,9.99,129.87,1/19/2025,5 Muir Center,Port Saint Lucie,United States
+827,78,Sports Bra,Apparel,6,39.99,239.94,5/12/2025,90 Pond Place,Lafayette,United States
+828,846,Pickleball Paddle,Racquet Sports,21,44.99,944.79,4/30/2025,78 Ludington Crossing,Salt Lake City,United States
+829,226,Soccer Ball,Team Sports,5,24.99,124.95,3/21/2025,40175 Leroy Parkway,Fort Lauderdale,United States
+830,777,Tennis Balls (can),Racquet Sports,3,8.99,26.97,4/30/2025,0 Dottie Terrace,Oklahoma City,United States
+831,418,Tennis Balls (can),Racquet Sports,15,8.99,134.85,1/11/2025,5935 Lighthouse Bay Crossing,Nashville,United States
+832,313,Tennis Racket,Racquet Sports,11,79.99,879.89,1/28/2025,5 Dixon Circle,Daytona Beach,United States
+833,695,Soccer Jersey,Apparel,3,49.99,149.97,3/5/2025,03 Nobel Park,Boston,United States
+834,536,Resistance Bands Set,Fitness Equipment,5,19.99,99.95,4/1/2025,800 Straubel Way,Columbus,United States
+835,869,Lacrosse Stick,Team Sports,6,69.99,419.94,5/2/2025,0107 Elka Point,Arlington,United States
+836,117,Athletic Socks (3-pack),Apparel,25,14.99,374.75,4/22/2025,05 Erie Road,Clearwater,United States
+837,227,Volleyball,Team Sports,22,22.99,505.78,2/27/2025,73 Grayhawk Plaza,Akron,United States
+838,523,Sports Bra,Apparel,23,39.99,919.77,4/26/2025,275 Surrey Center,Chicago,United States
+839,872,Lacrosse Stick,Team Sports,19,69.99,1329.81,4/8/2025,67302 Prairie Rose Lane,Whittier,United States
+840,594,Tennis Balls (can),Racquet Sports,15,8.99,134.85,4/23/2025,6316 Farmco Lane,Saint Louis,United States
+841,548,Pickleball Paddle,Racquet Sports,18,44.99,809.82,3/22/2025,43605 Fisk Street,Flushing,United States
+842,599,Sweatband Set,Accessories,21,9.99,209.79,3/24/2025,4 Hovde Lane,New York City,United States
+843,371,Squash Goggles,Racquet Sports,7,24.99,174.93,3/6/2025,3 Springview Road,Austin,United States
+844,547,Compression Shirt,Apparel,23,34.99,804.77,3/29/2025,7405 Northland Avenue,Scranton,United States
+845,526,Basketball,Team Sports,24,29.99,719.76,2/15/2025,0 Vernon Lane,Mobile,United States
+846,952,Football,Team Sports,4,27.99,111.96,2/10/2025,7626 Nova Pass,Houston,United States
+847,14,Volleyball,Team Sports,3,22.99,68.97,5/21/2025,28 Arkansas Alley,Dallas,United States
+848,135,Running Shorts,Apparel,20,29.99,599.8,2/14/2025,3 Mendota Crossing,Odessa,United States
+849,927,Adjustable Dumbbells,Fitness Equipment,18,119.99,2159.82,3/9/2025,88 Bonner Lane,Washington,United States
+850,795,Squash Goggles,Racquet Sports,16,24.99,399.84,1/3/2025,95 Hazelcrest Crossing,Birmingham,United States
+851,965,Sports Bra,Apparel,20,39.99,799.8,2/5/2025,25 Dahle Point,Denton,United States
+852,17,Athletic Socks (3-pack),Apparel,7,14.99,104.93,5/21/2025,79501 Loftsgordon Pass,Young America,United States
+853,831,Cycling Gloves,Accessories,24,15.99,383.76,2/26/2025,54727 Mifflin Crossing,Omaha,United States
+854,610,Athletic Socks (3-pack),Apparel,17,14.99,254.83,1/27/2025,130 Hoffman Parkway,Denver,United States
+855,617,Cycling Gloves,Accessories,11,15.99,175.89,2/23/2025,589 Lyons Lane,Terre Haute,United States
+856,631,Cycling Gloves,Accessories,21,15.99,335.79,2/28/2025,429 Sloan Street,Dallas,United States
+857,531,Compression Shirt,Apparel,1,34.99,34.99,5/3/2025,8 Crownhardt Lane,Portland,United States
+858,428,Football,Team Sports,25,27.99,699.75,4/25/2025,24 Dahle Alley,Newport News,United States
+859,90,Cycling Gloves,Accessories,25,15.99,399.75,4/12/2025,9 Hooker Alley,Corpus Christi,United States
+860,780,Athletic Socks (3-pack),Apparel,1,14.99,14.99,3/17/2025,6 Cascade Pass,Atlanta,United States
+861,230,Foam Roller,Fitness Equipment,19,21.5,408.5,3/26/2025,758 South Alley,Pueblo,United States
+862,871,Tennis Balls (can),Racquet Sports,1,8.99,8.99,4/15/2025,7 Esker Court,Peoria,United States
+863,699,Sweatband Set,Accessories,8,9.99,79.92,4/21/2025,1459 Sutteridge Center,Atlanta,United States
+864,956,Sweatband Set,Accessories,17,9.99,169.83,3/11/2025,38 Paget Plaza,Wichita,United States
+865,287,Soccer Jersey,Apparel,25,49.99,1249.75,1/12/2025,46128 Northridge Drive,Rochester,United States
+866,741,Compression Shirt,Apparel,8,34.99,279.92,5/26/2025,20447 Walton Circle,Washington,United States
+867,611,Pickleball Paddle,Racquet Sports,14,44.99,629.86,2/8/2025,53431 Prairieview Avenue,Humble,United States
+868,112,Pickleball Paddle,Racquet Sports,6,44.99,269.94,3/18/2025,6 Oak Valley Hill,Tacoma,United States
+869,409,Cleats,Footwear,8,59.99,479.92,5/22/2025,7 Macpherson Circle,Johnson City,United States
+870,532,Squash Goggles,Racquet Sports,21,24.99,524.79,3/7/2025,131 Fair Oaks Pass,Rochester,United States
+871,432,Tennis Balls (can),Racquet Sports,14,8.99,125.86,3/30/2025,75 Red Cloud Way,Oklahoma City,United States
+872,753,Athletic Socks (3-pack),Apparel,1,14.99,14.99,3/16/2025,24 Barby Road,New Hyde Park,United States
+873,873,Volleyball,Team Sports,1,22.99,22.99,5/6/2025,7048 Del Mar Street,Arlington,United States
+874,945,Volleyball,Team Sports,16,22.99,367.84,1/28/2025,76053 Pleasure Lane,New Bedford,United States
+875,131,Squash Goggles,Racquet Sports,17,24.99,424.83,5/19/2025,81978 Melody Hill,Johnson City,United States
+876,772,Lacrosse Stick,Team Sports,14,69.99,979.86,1/23/2025,9 Wayridge Court,Washington,United States
+877,913,Resistance Bands Set,Fitness Equipment,7,19.99,139.93,3/16/2025,4 Fisk Crossing,Joliet,United States
+878,23,Basketball,Team Sports,13,29.99,389.87,2/8/2025,009 Cardinal Avenue,Seattle,United States
+879,630,Pickleball Paddle,Racquet Sports,17,44.99,764.83,1/19/2025,19 Rutledge Drive,Lynn,United States
+880,140,Athletic Socks (3-pack),Apparel,24,14.99,359.76,4/22/2025,7313 Hayes Junction,Washington,United States
+881,350,Tennis Racket,Racquet Sports,1,79.99,79.99,1/8/2025,6 Prairie Rose Center,Vancouver,United States
+882,599,Cycling Gloves,Accessories,13,15.99,207.87,1/1/2025,88 Kennedy Park,Boston,United States
+883,718,Soccer Ball,Team Sports,7,24.99,174.93,1/29/2025,072 Kedzie Plaza,El Paso,United States
+884,552,Badminton Set,Racquet Sports,12,39.99,479.88,1/7/2025,9 Dixon Hill,Annapolis,United States
+885,119,Soccer Jersey,Apparel,14,49.99,699.86,4/27/2025,9 Loeprich Center,Raleigh,United States
+886,637,Lacrosse Stick,Team Sports,14,69.99,979.86,5/5/2025,3518 Quincy Center,Memphis,United States
+887,94,Lacrosse Stick,Team Sports,21,69.99,1469.79,5/27/2025,3969 Nelson Crossing,Boston,United States
+888,705,Compression Shirt,Apparel,4,34.99,139.96,2/18/2025,59250 Anthes Place,Long Beach,United States
+889,627,Volleyball,Team Sports,5,22.99,114.95,5/1/2025,48918 Westport Avenue,Fort Smith,United States
+890,244,Adjustable Dumbbells,Fitness Equipment,22,119.99,2639.78,4/14/2025,7193 Stephen Point,West Palm Beach,United States
+891,475,Running Shorts,Apparel,3,29.99,89.97,4/26/2025,74 Buena Vista Alley,Winston Salem,United States
+892,751,Cleats,Footwear,9,59.99,539.91,3/8/2025,04560 Bowman Plaza,Richmond,United States
+893,885,Athletic Socks (3-pack),Apparel,5,14.99,74.95,2/21/2025,341 Ronald Regan Pass,Pasadena,United States
+894,117,Lacrosse Stick,Team Sports,1,69.99,69.99,3/25/2025,092 Oak Valley Park,Sacramento,United States
+895,986,Trail Running Shoes,Footwear,15,94.99,1424.85,1/8/2025,7781 Mesta Center,Dallas,United States
+896,150,Soccer Ball,Team Sports,25,24.99,624.75,5/26/2025,22902 Stang Lane,West Palm Beach,United States
+897,832,Tennis Racket,Racquet Sports,6,79.99,479.94,4/19/2025,516 Karstens Alley,Long Beach,United States
+898,946,Badminton Set,Racquet Sports,25,39.99,999.75,5/25/2025,7640 Hauk Way,Dallas,United States
+899,660,Pickleball Paddle,Racquet Sports,16,44.99,719.84,3/21/2025,294 Service Terrace,Saint Louis,United States
+900,117,Athletic Socks (3-pack),Apparel,22,14.99,329.78,4/19/2025,73 Luster Lane,New York City,United States
+901,175,Cycling Gloves,Accessories,2,15.99,31.98,4/26/2025,85 Green Road,Valdosta,United States
+902,215,Squash Goggles,Racquet Sports,19,24.99,474.81,1/11/2025,95 Calypso Lane,Springfield,United States
+903,635,Adjustable Dumbbells,Fitness Equipment,10,119.99,1199.9,4/7/2025,1565 Fisk Trail,Naples,United States
+904,893,Soccer Ball,Team Sports,9,24.99,224.91,3/7/2025,458 Heffernan Junction,Washington,United States
+905,940,Pickleball Paddle,Racquet Sports,24,44.99,1079.76,3/25/2025,37 Claremont Center,Seattle,United States
+906,783,Football,Team Sports,6,27.99,167.94,5/30/2025,3 Cherokee Street,Honolulu,United States
+907,849,Compression Shirt,Apparel,17,34.99,594.83,1/11/2025,034 Welch Terrace,North Little Rock,United States
+908,843,Tennis Balls (can),Racquet Sports,20,8.99,179.8,3/29/2025,16 Morrow Lane,Houston,United States
+909,176,Sports Bra,Apparel,7,39.99,279.93,2/18/2025,278 Springs Junction,Fort Worth,United States
+910,546,Soccer Jersey,Apparel,12,49.99,599.88,4/23/2025,89993 Bay Trail,Birmingham,United States
+911,514,Soccer Jersey,Apparel,5,49.99,249.95,4/18/2025,07761 Kings Terrace,Minneapolis,United States
+912,112,Cycling Gloves,Accessories,21,15.99,335.79,4/12/2025,17 Mcbride Drive,Palatine,United States
+913,644,Tennis Balls (can),Racquet Sports,6,8.99,53.94,4/9/2025,7035 8th Hill,Bronx,United States
+914,78,Running Shorts,Apparel,1,29.99,29.99,1/16/2025,88176 Brickson Park Center,Tulsa,United States
+915,676,Sweatband Set,Accessories,16,9.99,159.84,1/2/2025,2167 Golf View Road,Petaluma,United States
+916,614,Lacrosse Stick,Team Sports,21,69.99,1469.79,2/8/2025,46378 Eggendart Pass,Seattle,United States
+917,972,Sports Bra,Apparel,8,39.99,319.92,3/24/2025,95366 Forest Run Junction,Silver Spring,United States
+918,674,Pickleball Paddle,Racquet Sports,13,44.99,584.87,3/12/2025,19 Birchwood Terrace,El Paso,United States
+919,581,Football,Team Sports,12,27.99,335.88,1/17/2025,59 8th Street,Detroit,United States
+920,536,Compression Shirt,Apparel,16,34.99,559.84,1/5/2025,32775 Lakewood Gardens Park,Silver Spring,United States
+921,638,Compression Shirt,Apparel,18,34.99,629.82,5/30/2025,3079 Cottonwood Terrace,Phoenix,United States
+922,58,Lacrosse Stick,Team Sports,8,69.99,559.92,2/16/2025,417 Valley Edge Court,Midland,United States
+923,764,Sports Bra,Apparel,4,39.99,159.96,4/15/2025,7337 Tennessee Pass,Chicago,United States
+924,707,Tennis Racket,Racquet Sports,24,79.99,1919.76,1/18/2025,0 Granby Junction,Jamaica,United States
+925,699,Lacrosse Stick,Team Sports,13,69.99,909.87,1/31/2025,638 Browning Road,Saint Paul,United States
+926,757,Adjustable Dumbbells,Fitness Equipment,2,119.99,239.98,1/25/2025,0098 Arapahoe Trail,Columbus,United States
+927,304,Pickleball Paddle,Racquet Sports,23,44.99,1034.77,5/6/2025,246 Anthes Street,Denton,United States
+928,775,Volleyball,Team Sports,19,22.99,436.81,1/17/2025,4 Lake View Plaza,Las Cruces,United States
+929,679,Lacrosse Stick,Team Sports,15,69.99,1049.85,5/3/2025,01 Ilene Street,Brooklyn,United States
+930,325,Foam Roller,Fitness Equipment,22,21.5,473,3/13/2025,68327 Farmco Road,San Antonio,United States
+931,435,Badminton Set,Racquet Sports,14,39.99,559.86,5/7/2025,98 Cascade Alley,Silver Spring,United States
+932,59,Sweatband Set,Accessories,16,9.99,159.84,3/29/2025,91318 Erie Place,Los Angeles,United States
+933,746,Athletic Socks (3-pack),Apparel,5,14.99,74.95,2/18/2025,4021 Almo Point,Dallas,United States
+934,129,Cycling Gloves,Accessories,10,15.99,159.9,4/25/2025,92 Pierstorff Street,Santa Cruz,United States
+935,479,Athletic Socks (3-pack),Apparel,14,14.99,209.86,1/13/2025,495 Debra Place,Van Nuys,United States
+936,870,Kettlebell - 20lb,Fitness Equipment,1,35.99,35.99,3/13/2025,182 Hovde Court,Cincinnati,United States
+937,68,Sweatband Set,Accessories,22,9.99,219.78,1/15/2025,54 Linden Trail,Sacramento,United States
+938,511,Tennis Racket,Racquet Sports,8,79.99,639.92,4/3/2025,0222 Summit Way,San Antonio,United States
+939,460,Kettlebell - 20lb,Fitness Equipment,22,35.99,791.78,5/13/2025,89 Ruskin Plaza,Boca Raton,United States
+940,774,Foam Roller,Fitness Equipment,13,21.5,279.5,1/27/2025,313 Tony Street,Omaha,United States
+941,945,Squash Goggles,Racquet Sports,2,24.99,49.98,2/28/2025,08 Glacier Hill Hill,Philadelphia,United States
+942,222,Athletic Socks (3-pack),Apparel,13,14.99,194.87,1/25/2025,93 Grasskamp Point,New York City,United States
+943,394,Compression Shirt,Apparel,12,34.99,419.88,3/6/2025,78 Longview Center,Houston,United States
+944,539,Soccer Jersey,Apparel,8,49.99,399.92,3/19/2025,2 Lien Lane,Omaha,United States
+945,170,Soccer Jersey,Apparel,21,49.99,1049.79,2/8/2025,9458 Scott Circle,Omaha,United States
+946,279,Sweatband Set,Accessories,22,9.99,219.78,3/30/2025,91476 Kropf Park,Austin,United States
+947,268,Sweatband Set,Accessories,17,9.99,169.83,1/25/2025,457 Lake View Terrace,Charlotte,United States
+948,701,Foam Roller,Fitness Equipment,8,21.5,172,1/18/2025,4823 Oak Valley Drive,El Paso,United States
+949,347,Sports Bra,Apparel,16,39.99,639.84,2/28/2025,17280 Tony Place,Boulder,United States
+950,748,Football,Team Sports,5,27.99,139.95,5/27/2025,0967 Morningstar Junction,Portland,United States
+951,949,Pickleball Paddle,Racquet Sports,14,44.99,629.86,5/18/2025,77356 Manufacturers Hill,Baton Rouge,United States
+952,45,Squash Goggles,Racquet Sports,2,24.99,49.98,2/13/2025,0 Stephen Road,Stamford,United States
+953,582,Volleyball,Team Sports,22,22.99,505.78,2/28/2025,06 Larry Road,Omaha,United States
+954,404,Basketball,Team Sports,16,29.99,479.84,4/4/2025,8 Lerdahl Place,Houston,United States
+955,583,Soccer Ball,Team Sports,15,24.99,374.85,2/3/2025,12 Sommers Road,Fresno,United States
+956,264,Kettlebell - 20lb,Fitness Equipment,16,35.99,575.84,2/20/2025,17958 Chinook Hill,Springfield,United States
+957,437,Resistance Bands Set,Fitness Equipment,14,19.99,279.86,1/18/2025,6857 Pennsylvania Way,Charlotte,United States
+958,530,Compression Shirt,Apparel,2,34.99,69.98,4/18/2025,20 Johnson Trail,Oklahoma City,United States
+959,909,Squash Goggles,Racquet Sports,10,24.99,249.9,5/12/2025,065 Independence Place,Minneapolis,United States
+960,837,Cycling Gloves,Accessories,1,15.99,15.99,1/5/2025,08243 Michigan Crossing,Austin,United States
+961,438,Pickleball Paddle,Racquet Sports,7,44.99,314.93,4/9/2025,71965 Lotheville Crossing,Baltimore,United States
+962,385,Indoor Court Shoes,Footwear,19,74.99,1424.81,2/10/2025,8 Hayes Hill,Baltimore,United States
+963,639,Cycling Gloves,Accessories,3,15.99,47.97,5/9/2025,6272 Milwaukee Junction,Scottsdale,United States
+964,848,Badminton Set,Racquet Sports,24,39.99,959.76,1/15/2025,7979 Hanson Hill,New York City,United States
+965,224,Basketball,Team Sports,14,29.99,419.86,3/21/2025,39 Westend Plaza,Harrisburg,United States
+966,286,Sweatband Set,Accessories,18,9.99,179.82,2/27/2025,2 Pierstorff Terrace,Santa Fe,United States
+967,701,Soccer Jersey,Apparel,21,49.99,1049.79,2/21/2025,7 Mosinee Pass,Harrisburg,United States
+968,397,Athletic Socks (3-pack),Apparel,17,14.99,254.83,4/22/2025,04 Mayer Lane,San Diego,United States
+969,981,Running Shorts,Apparel,11,29.99,329.89,4/16/2025,56728 Myrtle Center,Virginia Beach,United States
+970,747,Soccer Ball,Team Sports,6,24.99,149.94,2/16/2025,9 Reinke Lane,Jamaica,United States
+971,788,Resistance Bands Set,Fitness Equipment,17,19.99,339.83,4/9/2025,6482 Veith Avenue,Honolulu,United States
+972,325,Cycling Gloves,Accessories,24,15.99,383.76,3/7/2025,32 Kings Circle,Erie,United States
+973,477,Badminton Set,Racquet Sports,19,39.99,759.81,5/17/2025,5 Del Sol Park,Atlanta,United States
+974,381,Tennis Racket,Racquet Sports,16,79.99,1279.84,4/15/2025,335 Crownhardt Drive,Des Moines,United States
+975,778,Pickleball Paddle,Racquet Sports,18,44.99,809.82,4/16/2025,23 Clemons Plaza,Cincinnati,United States
+976,5,Cycling Gloves,Accessories,25,15.99,399.75,5/8/2025,38 Helena Avenue,Manassas,United States
+977,62,Athletic Socks (3-pack),Apparel,25,14.99,374.75,1/12/2025,6 Killdeer Center,Laurel,United States
+978,499,Tennis Balls (can),Racquet Sports,2,8.99,17.98,4/9/2025,770 Sundown Place,Detroit,United States
+979,782,Cycling Gloves,Accessories,7,15.99,111.93,1/4/2025,52 Kedzie Way,Albany,United States
+980,64,Squash Goggles,Racquet Sports,13,24.99,324.87,2/3/2025,92 Reindahl Point,Tacoma,United States
+981,981,Athletic Socks (3-pack),Apparel,4,14.99,59.96,1/8/2025,19901 Bunting Place,Springfield,United States
+982,559,Tennis Racket,Racquet Sports,2,79.99,159.98,1/7/2025,5 Gina Hill,Atlanta,United States
+983,915,Compression Shirt,Apparel,9,34.99,314.91,1/23/2025,5 Johnson Terrace,Vancouver,United States
+984,172,Soccer Ball,Team Sports,12,24.99,299.88,2/7/2025,17157 Blackbird Way,Ocala,United States
+985,111,Cycling Gloves,Accessories,18,15.99,287.82,1/25/2025,03 Bunker Hill Road,Denver,United States
+986,818,Running Shorts,Apparel,22,29.99,659.78,1/30/2025,08 Mandrake Parkway,Rochester,United States
+987,669,Tennis Racket,Racquet Sports,20,79.99,1599.8,5/22/2025,5661 Barby Way,Chattanooga,United States
+988,82,Squash Goggles,Racquet Sports,3,24.99,74.97,4/4/2025,65 Garrison Junction,Miami,United States
+989,824,Tennis Racket,Racquet Sports,20,79.99,1599.8,4/16/2025,14017 Kinsman Lane,Chicago,United States
+990,873,Badminton Set,Racquet Sports,23,39.99,919.77,4/23/2025,63 North Road,San Antonio,United States
+991,326,Pickleball Paddle,Racquet Sports,25,44.99,1124.75,5/18/2025,7808 Anzinger Trail,Paterson,United States
+992,275,Cross-Training Shoes,Footwear,9,79.99,719.91,1/26/2025,5091 Walton Hill,Asheville,United States
+993,790,Athletic Socks (3-pack),Apparel,4,14.99,59.96,1/30/2025,4724 Beilfuss Road,Olympia,United States
+994,521,Badminton Set,Racquet Sports,6,39.99,239.94,3/20/2025,18 Hovde Drive,Winston Salem,United States
+995,133,Football,Team Sports,25,27.99,699.75,3/6/2025,757 Straubel Lane,Jamaica,United States
+996,115,Tennis Balls (can),Racquet Sports,19,8.99,170.81,3/1/2025,5451 Schmedeman Parkway,Washington,United States
+997,519,Cycling Gloves,Accessories,4,15.99,63.96,3/20/2025,52 Declaration Court,Waco,United States
+998,168,Foam Roller,Fitness Equipment,4,21.5,86,3/9/2025,3 Lunder Court,Madison,United States
+999,678,Tennis Balls (can),Racquet Sports,17,8.99,152.83,2/21/2025,0093 Wayridge Plaza,Grand Rapids,United States
+1000,854,Trail Running Shoes,Footwear,4,94.99,379.96,3/3/2025,19 Armistice Road,Palatine,United States

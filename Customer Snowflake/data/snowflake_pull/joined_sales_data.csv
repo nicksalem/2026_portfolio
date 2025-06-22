@@ -1,0 +1,760 @@
+,ORDER_ID,CUSTOMER_ID,ORDER_DATE,ORDER_TOTAL,NAME,EMAIL,JOIN_DATE,LOCATION,PRODUCT_ID,QUANTITY,PRODUCT_NAME,CATEGORY,PRICE
+0,1,74,2024-12-02,269.97,Larry Freeman,hilllauren@marshall.com,2023-09-22,Perryberg,1,3,Running Shoes,Footwear,89.99
+1,2,63,2024-06-16,134.97,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,22,3,Pickleball Paddle,Racquet Sports,44.99
+2,3,64,2025-05-15,209.97,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,4,1,Trail Running Shoes,Footwear,94.99
+3,3,64,2025-05-15,209.97,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,25,1,Squash Goggles,Racquet Sports,24.99
+4,3,64,2025-05-15,209.97,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,1,1,Running Shoes,Footwear,89.99
+5,4,24,2025-05-15,119.98,Karen Johnson,mjames@yahoo.com,2024-04-24,Kellyview,3,2,Cleats,Footwear,59.99
+6,5,75,2025-06-12,199.97,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,15,2,Lacrosse Stick,Team Sports,69.99
+7,5,75,2025-06-12,199.97,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,3,1,Cleats,Footwear,59.99
+8,6,22,2025-05-21,185.93,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+9,6,22,2025-05-21,185.93,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,14,2,Volleyball,Team Sports,22.99
+10,6,22,2025-05-21,185.93,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,26,2,Cycling Gloves,Accessories,15.99
+11,7,7,2025-03-12,300.93,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,2,2,Cross-Training Shoes,Footwear,79.99
+12,7,7,2025-03-12,300.93,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,8,2,Kettlebell - 20lb,Fitness Equipment,35.99
+13,7,7,2025-03-12,300.93,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,14,3,Volleyball,Team Sports,22.99
+14,8,31,2025-02-07,414.91,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,16,2,Soccer Jersey,Apparel,49.99
+15,8,31,2025-02-07,414.91,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,20,1,Athletic Socks (3-pack),Apparel,14.99
+16,8,31,2025-02-07,414.91,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,1,3,Running Shoes,Footwear,89.99
+17,8,31,2025-02-07,414.91,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,27,3,Sweatband Set,Accessories,9.99
+18,9,22,2025-04-15,129.96,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,11,3,Basketball,Team Sports,29.99
+19,9,22,2025-04-15,129.96,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,23,1,Badminton Set,Racquet Sports,39.99
+20,10,87,2025-06-03,139.98,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,15,2,Lacrosse Stick,Team Sports,69.99
+21,11,26,2023-12-06,179.97,Kayla Hammond,brandy82@hotmail.com,2023-11-24,West Mark,16,2,Soccer Jersey,Apparel,49.99
+22,11,26,2023-12-06,179.97,Kayla Hammond,brandy82@hotmail.com,2023-11-24,West Mark,2,1,Cross-Training Shoes,Footwear,79.99
+23,12,22,2025-02-11,158.94,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,17,1,Running Shorts,Apparel,29.99
+24,12,22,2025-02-11,158.94,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,26,2,Cycling Gloves,Accessories,15.99
+25,12,22,2025-02-11,158.94,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,8,2,Kettlebell - 20lb,Fitness Equipment,35.99
+26,12,22,2025-02-11,158.94,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,12,1,Soccer Ball,Team Sports,24.99
+27,13,77,2025-04-18,44.99,Carrie Hicks,william05@fletcher.com,2025-03-06,Port Richardmouth,22,1,Pickleball Paddle,Racquet Sports,44.99
+28,14,38,2024-05-30,72.97,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,14,1,Volleyball,Team Sports,22.99
+29,14,38,2024-05-30,72.97,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,25,2,Squash Goggles,Racquet Sports,24.99
+30,15,40,2025-06-07,26.97,Laura Lam,mphelps@hotmail.com,2024-08-27,Port Cherylland,24,3,Tennis Balls (can),Racquet Sports,8.99
+31,16,38,2025-03-04,152.94,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,26,3,Cycling Gloves,Accessories,15.99
+32,16,38,2025-03-04,152.94,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,18,3,Compression Shirt,Apparel,34.99
+33,17,11,2023-12-21,230.93,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,23,2,Badminton Set,Racquet Sports,39.99
+34,17,11,2023-12-21,230.93,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,18,3,Compression Shirt,Apparel,34.99
+35,17,11,2023-12-21,230.93,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,14,2,Volleyball,Team Sports,22.99
+36,18,98,2024-11-30,552.93,Bryan Jordan,ujackson@hotmail.com,2024-11-05,West Carrie,13,1,Football,Team Sports,27.99
+37,18,98,2024-11-30,552.93,Bryan Jordan,ujackson@hotmail.com,2024-11-05,West Carrie,4,1,Trail Running Shoes,Footwear,94.99
+38,18,98,2024-11-30,552.93,Bryan Jordan,ujackson@hotmail.com,2024-11-05,West Carrie,2,2,Cross-Training Shoes,Footwear,79.99
+39,18,98,2024-11-30,552.93,Bryan Jordan,ujackson@hotmail.com,2024-11-05,West Carrie,1,3,Running Shoes,Footwear,89.99
+40,19,73,2025-04-13,68.97,Miss Jessica Miles,mosleyzachary@gibson.biz,2024-06-07,South Deniseburgh,14,3,Volleyball,Team Sports,22.99
+41,20,13,2025-04-30,79.99,Heather Waters,brent36@erickson.com,2025-04-30,Port Nancyport,21,1,Tennis Racket,Racquet Sports,79.99
+42,21,85,2024-08-29,359.97,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+43,22,15,2025-01-28,520.91,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,18,3,Compression Shirt,Apparel,34.99
+44,22,15,2025-01-28,520.91,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,21,3,Tennis Racket,Racquet Sports,79.99
+45,22,15,2025-01-28,520.91,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+46,22,15,2025-01-28,520.91,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,13,2,Football,Team Sports,27.99
+47,23,18,2024-10-26,298.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,15,1,Lacrosse Stick,Team Sports,69.99
+48,23,18,2024-10-26,298.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,27,1,Sweatband Set,Accessories,9.99
+49,23,18,2024-10-26,298.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,13,3,Football,Team Sports,27.99
+50,23,18,2024-10-26,298.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,22,3,Pickleball Paddle,Racquet Sports,44.99
+51,24,36,2025-05-29,539.92,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,9,2,Adjustable Dumbbells,Fitness Equipment,119.99
+52,24,36,2025-05-29,539.92,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,19,3,Sports Bra,Apparel,39.99
+53,24,36,2025-05-29,539.92,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,3,3,Cleats,Footwear,59.99
+54,25,76,2025-05-18,71.49,Charles Hayes,andersenmaurice@thomas-smith.com,2024-09-20,Dominiquefurt,16,1,Soccer Jersey,Apparel,49.99
+55,25,76,2025-05-18,71.49,Charles Hayes,andersenmaurice@thomas-smith.com,2024-09-20,Dominiquefurt,10,1,Foam Roller,Fitness Equipment,21.5
+56,26,5,2024-10-19,14.99,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,20,1,Athletic Socks (3-pack),Apparel,14.99
+57,27,67,2025-05-15,384.94,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,23,3,Badminton Set,Racquet Sports,39.99
+58,27,67,2025-05-15,384.94,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,6,1,Yoga Mat,Fitness Equipment,25.0
+59,27,67,2025-05-15,384.94,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,5,2,Indoor Court Shoes,Footwear,74.99
+60,27,67,2025-05-15,384.94,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,1,1,Running Shoes,Footwear,89.99
+61,28,11,2024-12-29,300.97,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,4,2,Trail Running Shoes,Footwear,94.99
+62,28,11,2024-12-29,300.97,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+63,28,11,2024-12-29,300.97,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,6,3,Yoga Mat,Fitness Equipment,25.0
+64,29,57,2024-04-08,349.94,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,21,2,Tennis Racket,Racquet Sports,79.99
+65,29,57,2024-04-08,349.94,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,19,3,Sports Bra,Apparel,39.99
+66,29,57,2024-04-08,349.94,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,15,1,Lacrosse Stick,Team Sports,69.99
+67,30,37,2024-12-17,319.92,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,16,1,Soccer Jersey,Apparel,49.99
+68,30,37,2024-12-17,319.92,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,2,2,Cross-Training Shoes,Footwear,79.99
+69,30,37,2024-12-17,319.92,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,27,2,Sweatband Set,Accessories,9.99
+70,30,37,2024-12-17,319.92,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,11,3,Basketball,Team Sports,29.99
+71,31,47,2024-07-22,263.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,23,2,Badminton Set,Racquet Sports,39.99
+72,31,47,2024-07-22,263.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,24,1,Tennis Balls (can),Racquet Sports,8.99
+73,31,47,2024-07-22,263.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,12,1,Soccer Ball,Team Sports,24.99
+74,31,47,2024-07-22,263.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,16,3,Soccer Jersey,Apparel,49.99
+75,32,53,2025-02-14,300.44,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,10,1,Foam Roller,Fitness Equipment,21.5
+76,32,53,2025-02-14,300.44,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,14,3,Volleyball,Team Sports,22.99
+77,32,53,2025-02-14,300.44,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,3,1,Cleats,Footwear,59.99
+78,32,53,2025-02-14,300.44,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,5,2,Indoor Court Shoes,Footwear,74.99
+79,33,57,2024-04-29,449.94,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+80,33,57,2024-04-29,449.94,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,17,3,Running Shorts,Apparel,29.99
+81,34,55,2025-05-22,240.95,Lori Ramos,vpeterson@gmail.com,2025-01-02,Lake Tina,19,1,Sports Bra,Apparel,39.99
+82,34,55,2025-05-22,240.95,Lori Ramos,vpeterson@gmail.com,2025-01-02,Lake Tina,14,1,Volleyball,Team Sports,22.99
+83,34,55,2025-05-22,240.95,Lori Ramos,vpeterson@gmail.com,2025-01-02,Lake Tina,13,1,Football,Team Sports,27.99
+84,34,55,2025-05-22,240.95,Lori Ramos,vpeterson@gmail.com,2025-01-02,Lake Tina,5,2,Indoor Court Shoes,Footwear,74.99
+85,35,67,2024-10-09,24.99,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,25,1,Squash Goggles,Racquet Sports,24.99
+86,36,71,2024-11-16,477.93,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,1,3,Running Shoes,Footwear,89.99
+87,36,71,2024-11-16,477.93,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,13,1,Football,Team Sports,27.99
+88,36,71,2024-11-16,477.93,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,3,3,Cleats,Footwear,59.99
+89,37,67,2025-01-04,263.94,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,1,2,Running Shoes,Footwear,89.99
+90,37,67,2025-01-04,263.94,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+91,37,67,2025-01-04,263.94,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,26,3,Cycling Gloves,Accessories,15.99
+92,38,93,2023-09-28,24.99,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,12,1,Soccer Ball,Team Sports,24.99
+93,39,83,2025-06-10,182.96,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,6,2,Yoga Mat,Fitness Equipment,25.0
+94,39,83,2025-06-10,182.96,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+95,39,83,2025-06-10,182.96,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,25,1,Squash Goggles,Racquet Sports,24.99
+96,40,63,2024-07-10,439.94,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,15,3,Lacrosse Stick,Team Sports,69.99
+97,40,63,2024-07-10,439.94,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,2,1,Cross-Training Shoes,Footwear,79.99
+98,40,63,2024-07-10,439.94,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,5,2,Indoor Court Shoes,Footwear,74.99
+99,41,2,2025-01-25,19.99,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,7,1,Resistance Bands Set,Fitness Equipment,19.99
+100,42,37,2024-08-25,443.9,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,21,3,Tennis Racket,Racquet Sports,79.99
+101,42,37,2024-08-25,443.9,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,17,3,Running Shorts,Apparel,29.99
+102,42,37,2024-08-25,443.9,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,14,3,Volleyball,Team Sports,22.99
+103,42,37,2024-08-25,443.9,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,22,1,Pickleball Paddle,Racquet Sports,44.99
+104,43,36,2025-05-18,203.93,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,24,2,Tennis Balls (can),Racquet Sports,8.99
+105,43,36,2025-05-18,203.93,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,3,1,Cleats,Footwear,59.99
+106,43,36,2025-05-18,203.93,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,17,3,Running Shorts,Apparel,29.99
+107,43,36,2025-05-18,203.93,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+108,44,75,2025-06-03,144.93,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,20,1,Athletic Socks (3-pack),Apparel,14.99
+109,44,75,2025-06-03,144.93,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,12,2,Soccer Ball,Team Sports,24.99
+110,44,75,2025-06-03,144.93,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,11,2,Basketball,Team Sports,29.99
+111,44,75,2025-06-03,144.93,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,27,2,Sweatband Set,Accessories,9.99
+112,45,23,2024-08-12,554.94,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,1,3,Running Shoes,Footwear,89.99
+113,45,23,2024-08-12,554.94,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,4,3,Trail Running Shoes,Footwear,94.99
+114,46,16,2025-06-14,304.93,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,5,1,Indoor Court Shoes,Footwear,74.99
+115,46,16,2025-06-14,304.93,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,23,2,Badminton Set,Racquet Sports,39.99
+116,46,16,2025-06-14,304.93,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+117,46,16,2025-06-14,304.93,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,27,3,Sweatband Set,Accessories,9.99
+118,47,2,2025-05-17,269.97,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,9,2,Adjustable Dumbbells,Fitness Equipment,119.99
+119,47,2,2025-05-17,269.97,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,11,1,Basketball,Team Sports,29.99
+120,48,72,2025-05-29,129.97,Mrs. Melissa Garza,lmckee@wolfe-oliver.com,2024-07-25,Lake Theresa,17,1,Running Shorts,Apparel,29.99
+121,48,72,2025-05-29,129.97,Mrs. Melissa Garza,lmckee@wolfe-oliver.com,2024-07-25,Lake Theresa,16,2,Soccer Jersey,Apparel,49.99
+122,49,72,2025-06-09,269.97,Mrs. Melissa Garza,lmckee@wolfe-oliver.com,2024-07-25,Lake Theresa,1,3,Running Shoes,Footwear,89.99
+123,50,29,2024-08-08,34.98,Daniel Brennan,bennettmario@gmail.com,2023-12-25,Deannahaven,12,1,Soccer Ball,Team Sports,24.99
+124,50,29,2024-08-08,34.98,Daniel Brennan,bennettmario@gmail.com,2023-12-25,Deannahaven,27,1,Sweatband Set,Accessories,9.99
+125,51,36,2025-05-17,224.97,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,5,3,Indoor Court Shoes,Footwear,74.99
+126,52,62,2024-06-04,279.97,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,21,2,Tennis Racket,Racquet Sports,79.99
+127,52,62,2024-06-04,279.97,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+128,53,16,2024-12-06,323.91,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,15,3,Lacrosse Stick,Team Sports,69.99
+129,53,16,2024-12-06,323.91,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,13,3,Football,Team Sports,27.99
+130,53,16,2024-12-06,323.91,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,27,3,Sweatband Set,Accessories,9.99
+131,54,35,2024-12-22,154.95,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,19,2,Sports Bra,Apparel,39.99
+132,54,35,2024-12-22,154.95,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,12,3,Soccer Ball,Team Sports,24.99
+133,55,70,2023-12-24,439.95,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,23,2,Badminton Set,Racquet Sports,39.99
+134,55,70,2023-12-24,439.95,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+135,56,63,2025-02-19,117.96,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,15,1,Lacrosse Stick,Team Sports,69.99
+136,56,63,2025-02-19,117.96,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,26,3,Cycling Gloves,Accessories,15.99
+137,57,50,2025-05-20,214.47,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,6,3,Yoga Mat,Fitness Equipment,25.0
+138,57,50,2025-05-20,214.47,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,12,3,Soccer Ball,Team Sports,24.99
+139,57,50,2025-05-20,214.47,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,10,3,Foam Roller,Fitness Equipment,21.5
+140,58,35,2024-06-01,320.92,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,15,2,Lacrosse Stick,Team Sports,69.99
+141,58,35,2024-06-01,320.92,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,8,2,Kettlebell - 20lb,Fitness Equipment,35.99
+142,58,35,2024-06-01,320.92,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,19,1,Sports Bra,Apparel,39.99
+143,58,35,2024-06-01,320.92,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,14,3,Volleyball,Team Sports,22.99
+144,59,85,2024-12-05,167.96,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+145,59,85,2024-12-05,167.96,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,3,1,Cleats,Footwear,59.99
+146,60,98,2025-01-24,179.98,Bryan Jordan,ujackson@hotmail.com,2024-11-05,West Carrie,1,2,Running Shoes,Footwear,89.99
+147,61,52,2024-09-01,284.95,Deborah Anderson,alexis33@gmail.com,2024-07-15,Thompsonstad,15,2,Lacrosse Stick,Team Sports,69.99
+148,61,52,2024-09-01,284.95,Deborah Anderson,alexis33@gmail.com,2024-07-15,Thompsonstad,5,1,Indoor Court Shoes,Footwear,74.99
+149,61,52,2024-09-01,284.95,Deborah Anderson,alexis33@gmail.com,2024-07-15,Thompsonstad,18,2,Compression Shirt,Apparel,34.99
+150,62,5,2025-04-18,125.95,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,27,3,Sweatband Set,Accessories,9.99
+151,62,5,2025-04-18,125.95,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,6,2,Yoga Mat,Fitness Equipment,25.0
+152,62,5,2025-04-18,125.95,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,14,2,Volleyball,Team Sports,22.99
+153,63,31,2025-05-20,315.94,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,1,3,Running Shoes,Footwear,89.99
+154,63,31,2025-05-20,315.94,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,26,1,Cycling Gloves,Accessories,15.99
+155,63,31,2025-05-20,315.94,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,20,2,Athletic Socks (3-pack),Apparel,14.99
+156,64,63,2024-06-07,209.98,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,1,1,Running Shoes,Footwear,89.99
+157,64,63,2024-06-07,209.98,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+158,65,95,2024-10-25,239.94,Steve Avila,jmercado@beasley.com,2024-07-24,Lake Louisfort,12,3,Soccer Ball,Team Sports,24.99
+159,65,95,2024-10-25,239.94,Steve Avila,jmercado@beasley.com,2024-07-24,Lake Louisfort,3,2,Cleats,Footwear,59.99
+160,65,95,2024-10-25,239.94,Steve Avila,jmercado@beasley.com,2024-07-24,Lake Louisfort,22,1,Pickleball Paddle,Racquet Sports,44.99
+161,66,79,2024-02-19,267.92,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,20,3,Athletic Socks (3-pack),Apparel,14.99
+162,66,79,2024-02-19,267.92,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,22,1,Pickleball Paddle,Racquet Sports,44.99
+163,66,79,2024-02-19,267.92,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,24,2,Tennis Balls (can),Racquet Sports,8.99
+164,66,79,2024-02-19,267.92,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,2,2,Cross-Training Shoes,Footwear,79.99
+165,67,23,2025-03-25,129.96,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,7,2,Resistance Bands Set,Fitness Equipment,19.99
+166,67,23,2025-03-25,129.96,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,22,2,Pickleball Paddle,Racquet Sports,44.99
+167,68,56,2024-12-03,149.96,Roger Garcia,jesse28@ruiz-harper.org,2024-02-15,South Joseph,11,1,Basketball,Team Sports,29.99
+168,68,56,2024-12-03,149.96,Roger Garcia,jesse28@ruiz-harper.org,2024-02-15,South Joseph,23,3,Badminton Set,Racquet Sports,39.99
+169,69,45,2025-06-03,159.98,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,21,2,Tennis Racket,Racquet Sports,79.99
+170,70,51,2024-12-12,367.93,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,14,1,Volleyball,Team Sports,22.99
+171,70,51,2024-12-12,367.93,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,12,3,Soccer Ball,Team Sports,24.99
+172,70,51,2024-12-12,367.93,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,1,3,Running Shoes,Footwear,89.99
+173,71,83,2025-03-15,379.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,22,3,Pickleball Paddle,Racquet Sports,44.99
+174,71,83,2025-03-15,379.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,1,2,Running Shoes,Footwear,89.99
+175,71,83,2025-03-15,379.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,7,2,Resistance Bands Set,Fitness Equipment,19.99
+176,71,83,2025-03-15,379.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,25,1,Squash Goggles,Racquet Sports,24.99
+177,72,16,2024-04-14,209.97,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,15,3,Lacrosse Stick,Team Sports,69.99
+178,73,93,2025-05-09,154.97,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,20,1,Athletic Socks (3-pack),Apparel,14.99
+179,73,93,2025-05-09,154.97,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,2,1,Cross-Training Shoes,Footwear,79.99
+180,73,93,2025-05-09,154.97,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,3,1,Cleats,Footwear,59.99
+181,74,81,2025-06-18,341.42,Gregory Hudson,maldonadoryan@mann-butler.com,2025-05-31,Matthewmouth,27,3,Sweatband Set,Accessories,9.99
+182,74,81,2025-06-18,341.42,Gregory Hudson,maldonadoryan@mann-butler.com,2025-05-31,Matthewmouth,21,3,Tennis Racket,Racquet Sports,79.99
+183,74,81,2025-06-18,341.42,Gregory Hudson,maldonadoryan@mann-butler.com,2025-05-31,Matthewmouth,25,2,Squash Goggles,Racquet Sports,24.99
+184,74,81,2025-06-18,341.42,Gregory Hudson,maldonadoryan@mann-butler.com,2025-05-31,Matthewmouth,10,1,Foam Roller,Fitness Equipment,21.5
+185,75,53,2025-04-26,110.47,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,24,1,Tennis Balls (can),Racquet Sports,8.99
+186,75,53,2025-04-26,110.47,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,10,1,Foam Roller,Fitness Equipment,21.5
+187,75,53,2025-04-26,110.47,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,23,2,Badminton Set,Racquet Sports,39.99
+188,76,82,2024-10-04,344.94,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,15,3,Lacrosse Stick,Team Sports,69.99
+189,76,82,2024-10-04,344.94,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,7,3,Resistance Bands Set,Fitness Equipment,19.99
+190,76,82,2024-10-04,344.94,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,6,3,Yoga Mat,Fitness Equipment,25.0
+191,77,17,2025-02-15,180.93,David Roach,guy73@hotmail.com,2024-06-30,New Alexberg,25,3,Squash Goggles,Racquet Sports,24.99
+192,77,17,2025-02-15,180.93,David Roach,guy73@hotmail.com,2024-06-30,New Alexberg,3,1,Cleats,Footwear,59.99
+193,77,17,2025-02-15,180.93,David Roach,guy73@hotmail.com,2024-06-30,New Alexberg,26,1,Cycling Gloves,Accessories,15.99
+194,77,17,2025-02-15,180.93,David Roach,guy73@hotmail.com,2024-06-30,New Alexberg,20,2,Athletic Socks (3-pack),Apparel,14.99
+195,78,4,2024-09-16,284.93,Krystal Li,kristin98@gmail.com,2023-07-17,Lake Katie,16,3,Soccer Jersey,Apparel,49.99
+196,78,4,2024-09-16,284.93,Krystal Li,kristin98@gmail.com,2023-07-17,Lake Katie,12,3,Soccer Ball,Team Sports,24.99
+197,78,4,2024-09-16,284.93,Krystal Li,kristin98@gmail.com,2023-07-17,Lake Katie,3,1,Cleats,Footwear,59.99
+198,79,65,2025-01-28,285.95,Hannah Vargas,qmolina@hotmail.com,2024-06-12,North Stephen,5,2,Indoor Court Shoes,Footwear,74.99
+199,79,65,2025-01-28,285.95,Hannah Vargas,qmolina@hotmail.com,2024-06-12,North Stephen,2,1,Cross-Training Shoes,Footwear,79.99
+200,79,65,2025-01-28,285.95,Hannah Vargas,qmolina@hotmail.com,2024-06-12,North Stephen,13,2,Football,Team Sports,27.99
+201,80,15,2025-04-19,8.99,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,24,1,Tennis Balls (can),Racquet Sports,8.99
+202,81,48,2025-06-10,25.0,Michelle Webb PhD,matthew95@fernandez.com,2025-06-09,South Madison,6,1,Yoga Mat,Fitness Equipment,25.0
+203,82,13,2025-06-20,55.98,Heather Waters,brent36@erickson.com,2025-04-30,Port Nancyport,13,2,Football,Team Sports,27.99
+204,83,94,2025-06-09,284.97,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,4,3,Trail Running Shoes,Footwear,94.99
+205,84,96,2025-02-08,188.93,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,20,1,Athletic Socks (3-pack),Apparel,14.99
+206,84,96,2025-02-08,188.93,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,11,3,Basketball,Team Sports,29.99
+207,84,96,2025-02-08,188.93,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,13,3,Football,Team Sports,27.99
+208,85,85,2025-02-05,369.94,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,21,2,Tennis Racket,Racquet Sports,79.99
+209,85,85,2025-02-05,369.94,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,12,2,Soccer Ball,Team Sports,24.99
+210,85,85,2025-02-05,369.94,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,2,2,Cross-Training Shoes,Footwear,79.99
+211,86,20,2024-08-25,149.98,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,10,2,Foam Roller,Fitness Equipment,21.5
+212,86,20,2024-08-25,149.98,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,6,3,Yoga Mat,Fitness Equipment,25.0
+213,86,20,2024-08-25,149.98,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,26,2,Cycling Gloves,Accessories,15.99
+214,87,76,2025-01-26,59.99,Charles Hayes,andersenmaurice@thomas-smith.com,2024-09-20,Dominiquefurt,3,1,Cleats,Footwear,59.99
+215,88,62,2025-06-14,19.99,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,7,1,Resistance Bands Set,Fitness Equipment,19.99
+216,89,28,2025-06-01,27.99,Regina West,seanlee@smith-curtis.com,2025-05-30,New Eric,13,1,Football,Team Sports,27.99
+217,90,45,2024-06-29,124.98,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,1,1,Running Shoes,Footwear,89.99
+218,90,45,2024-06-29,124.98,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,18,1,Compression Shirt,Apparel,34.99
+219,91,24,2025-06-12,185.96,Karen Johnson,mjames@yahoo.com,2024-04-24,Kellyview,14,2,Volleyball,Team Sports,22.99
+220,91,24,2025-06-12,185.96,Karen Johnson,mjames@yahoo.com,2024-04-24,Kellyview,21,1,Tennis Racket,Racquet Sports,79.99
+221,91,24,2025-06-12,185.96,Karen Johnson,mjames@yahoo.com,2024-04-24,Kellyview,3,1,Cleats,Footwear,59.99
+222,92,2,2025-04-24,89.98,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,22,2,Pickleball Paddle,Racquet Sports,44.99
+223,93,22,2025-06-12,287.93,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,22,3,Pickleball Paddle,Racquet Sports,44.99
+224,93,22,2025-06-12,287.93,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,14,2,Volleyball,Team Sports,22.99
+225,93,22,2025-06-12,287.93,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,26,2,Cycling Gloves,Accessories,15.99
+226,93,22,2025-06-12,287.93,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,6,3,Yoga Mat,Fitness Equipment,25.0
+227,94,83,2025-01-18,119.98,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,3,2,Cleats,Footwear,59.99
+228,95,71,2025-05-23,314.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,15,2,Lacrosse Stick,Team Sports,69.99
+229,95,71,2025-05-23,314.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,3,1,Cleats,Footwear,59.99
+230,95,71,2025-05-23,314.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,18,2,Compression Shirt,Apparel,34.99
+231,95,71,2025-05-23,314.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,20,3,Athletic Socks (3-pack),Apparel,14.99
+232,96,45,2025-04-30,95.97,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,16,1,Soccer Jersey,Apparel,49.99
+233,96,45,2025-04-30,95.97,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,14,2,Volleyball,Team Sports,22.99
+234,97,71,2024-09-09,540.91,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,5,1,Indoor Court Shoes,Footwear,74.99
+235,97,71,2024-09-09,540.91,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,7,3,Resistance Bands Set,Fitness Equipment,19.99
+236,97,71,2024-09-09,540.91,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+237,97,71,2024-09-09,540.91,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,14,2,Volleyball,Team Sports,22.99
+238,98,88,2025-03-25,242.93,Luis Holland,soconnor@hotmail.com,2025-03-07,Josephmouth,22,1,Pickleball Paddle,Racquet Sports,44.99
+239,98,88,2025-03-25,242.93,Luis Holland,soconnor@hotmail.com,2025-03-07,Josephmouth,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+240,98,88,2025-03-25,242.93,Luis Holland,soconnor@hotmail.com,2025-03-07,Josephmouth,17,3,Running Shorts,Apparel,29.99
+241,99,97,2024-06-03,304.93,Jessica Taylor,rpowers@thomas-dawson.org,2024-06-01,Port Crystalberg,21,1,Tennis Racket,Racquet Sports,79.99
+242,99,97,2024-06-03,304.93,Jessica Taylor,rpowers@thomas-dawson.org,2024-06-01,Port Crystalberg,15,1,Lacrosse Stick,Team Sports,69.99
+243,99,97,2024-06-03,304.93,Jessica Taylor,rpowers@thomas-dawson.org,2024-06-01,Port Crystalberg,12,2,Soccer Ball,Team Sports,24.99
+244,99,97,2024-06-03,304.93,Jessica Taylor,rpowers@thomas-dawson.org,2024-06-01,Port Crystalberg,18,3,Compression Shirt,Apparel,34.99
+245,100,21,2023-12-04,539.91,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,23,2,Badminton Set,Racquet Sports,39.99
+246,100,21,2023-12-04,539.91,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,16,2,Soccer Jersey,Apparel,49.99
+247,100,21,2023-12-04,539.91,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,3,2,Cleats,Footwear,59.99
+248,100,21,2023-12-04,539.91,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,2,3,Cross-Training Shoes,Footwear,79.99
+249,101,46,2025-05-08,314.97,Kristin Willis,kwilliams@roberts.net,2025-04-23,New Michael,6,3,Yoga Mat,Fitness Equipment,25.0
+250,101,46,2025-05-08,314.97,Kristin Willis,kwilliams@roberts.net,2025-04-23,New Michael,2,3,Cross-Training Shoes,Footwear,79.99
+251,102,60,2025-03-19,22.99,Walter Evans,hdowns@gmail.com,2025-03-18,New Jordan,14,1,Volleyball,Team Sports,22.99
+252,103,67,2025-05-02,47.97,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,26,3,Cycling Gloves,Accessories,15.99
+253,104,47,2024-05-12,69.97,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,7,1,Resistance Bands Set,Fitness Equipment,19.99
+254,104,47,2024-05-12,69.97,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,12,2,Soccer Ball,Team Sports,24.99
+255,105,75,2025-06-04,326.91,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,17,1,Running Shorts,Apparel,29.99
+256,105,75,2025-06-04,326.91,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,11,2,Basketball,Team Sports,29.99
+257,105,75,2025-06-04,326.91,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,15,3,Lacrosse Stick,Team Sports,69.99
+258,105,75,2025-06-04,326.91,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,24,3,Tennis Balls (can),Racquet Sports,8.99
+259,106,41,2025-04-19,94.99,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,7,1,Resistance Bands Set,Fitness Equipment,19.99
+260,106,41,2025-04-19,94.99,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,6,3,Yoga Mat,Fitness Equipment,25.0
+261,107,27,2025-05-09,31.98,Linda Weiss,uschmitt@thompson-king.com,2025-01-31,Douglastown,26,2,Cycling Gloves,Accessories,15.99
+262,108,64,2025-05-18,104.96,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,11,3,Basketball,Team Sports,29.99
+263,108,64,2025-05-18,104.96,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,20,1,Athletic Socks (3-pack),Apparel,14.99
+264,109,86,2025-03-30,524.94,Kelsey Chan,emilywest@gmail.com,2025-02-25,Christinaburgh,22,1,Pickleball Paddle,Racquet Sports,44.99
+265,109,86,2025-03-30,524.94,Kelsey Chan,emilywest@gmail.com,2025-02-25,Christinaburgh,9,2,Adjustable Dumbbells,Fitness Equipment,119.99
+266,109,86,2025-03-30,524.94,Kelsey Chan,emilywest@gmail.com,2025-02-25,Christinaburgh,2,3,Cross-Training Shoes,Footwear,79.99
+267,110,75,2025-05-25,239.94,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,23,3,Badminton Set,Racquet Sports,39.99
+268,110,75,2025-05-25,239.94,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,19,3,Sports Bra,Apparel,39.99
+269,111,11,2024-05-17,254.95,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,20,2,Athletic Socks (3-pack),Apparel,14.99
+270,111,11,2024-05-17,254.95,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,18,1,Compression Shirt,Apparel,34.99
+271,111,11,2024-05-17,254.95,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,4,2,Trail Running Shoes,Footwear,94.99
+272,112,34,2024-06-17,119.97,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,23,3,Badminton Set,Racquet Sports,39.99
+273,113,80,2024-07-21,114.95,Dawn Williams,wardlarry@hobbs.com,2023-10-16,Carneybury,12,1,Soccer Ball,Team Sports,24.99
+274,113,80,2024-07-21,114.95,Dawn Williams,wardlarry@hobbs.com,2023-10-16,Carneybury,27,2,Sweatband Set,Accessories,9.99
+275,113,80,2024-07-21,114.95,Dawn Williams,wardlarry@hobbs.com,2023-10-16,Carneybury,18,2,Compression Shirt,Apparel,34.99
+276,114,73,2024-08-17,40.97,Miss Jessica Miles,mosleyzachary@gibson.biz,2024-06-07,South Deniseburgh,24,2,Tennis Balls (can),Racquet Sports,8.99
+277,114,73,2024-08-17,40.97,Miss Jessica Miles,mosleyzachary@gibson.biz,2024-06-07,South Deniseburgh,14,1,Volleyball,Team Sports,22.99
+278,115,30,2025-03-26,79.98,Joshua Turner,maxwellsmith@yahoo.com,2025-03-20,Matthewchester,27,1,Sweatband Set,Accessories,9.99
+279,115,30,2025-03-26,79.98,Joshua Turner,maxwellsmith@yahoo.com,2025-03-20,Matthewchester,15,1,Lacrosse Stick,Team Sports,69.99
+280,116,70,2025-04-27,66.49,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,22,1,Pickleball Paddle,Racquet Sports,44.99
+281,116,70,2025-04-27,66.49,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,10,1,Foam Roller,Fitness Equipment,21.5
+282,117,44,2024-12-10,94.96,Jimmy Crawford,glen43@caldwell.com,2024-10-01,Knightchester,16,1,Soccer Jersey,Apparel,49.99
+283,117,44,2024-12-10,94.96,Jimmy Crawford,glen43@caldwell.com,2024-10-01,Knightchester,20,3,Athletic Socks (3-pack),Apparel,14.99
+284,118,47,2023-12-23,151.48,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,6,2,Yoga Mat,Fitness Equipment,25.0
+285,118,47,2023-12-23,151.48,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,10,1,Foam Roller,Fitness Equipment,21.5
+286,118,47,2023-12-23,151.48,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,23,2,Badminton Set,Racquet Sports,39.99
+287,119,70,2025-06-05,604.91,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,2,2,Cross-Training Shoes,Footwear,79.99
+288,119,70,2025-06-05,604.91,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,21,2,Tennis Racket,Racquet Sports,79.99
+289,119,70,2025-06-05,604.91,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,18,3,Compression Shirt,Apparel,34.99
+290,119,70,2025-06-05,604.91,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,1,2,Running Shoes,Footwear,89.99
+291,120,15,2024-09-04,183.95,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,8,2,Kettlebell - 20lb,Fitness Equipment,35.99
+292,120,15,2024-09-04,183.95,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,21,1,Tennis Racket,Racquet Sports,79.99
+293,120,15,2024-09-04,183.95,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,26,2,Cycling Gloves,Accessories,15.99
+294,121,55,2025-04-26,331.94,Lori Ramos,vpeterson@gmail.com,2025-01-02,Lake Tina,8,2,Kettlebell - 20lb,Fitness Equipment,35.99
+295,121,55,2025-04-26,331.94,Lori Ramos,vpeterson@gmail.com,2025-01-02,Lake Tina,21,3,Tennis Racket,Racquet Sports,79.99
+296,121,55,2025-04-26,331.94,Lori Ramos,vpeterson@gmail.com,2025-01-02,Lake Tina,7,1,Resistance Bands Set,Fitness Equipment,19.99
+297,122,19,2025-05-08,69.98,Jill White,alyssachase@kennedy-chaney.net,2023-12-16,Lake Cherylside,19,1,Sports Bra,Apparel,39.99
+298,122,19,2025-05-08,69.98,Jill White,alyssachase@kennedy-chaney.net,2023-12-16,Lake Cherylside,17,1,Running Shorts,Apparel,29.99
+299,123,82,2024-07-07,25.0,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,6,1,Yoga Mat,Fitness Equipment,25.0
+300,124,78,2025-01-21,299.95,Adam Walton,szimmerman@holland-kidd.com,2024-11-21,East Sandra,19,3,Sports Bra,Apparel,39.99
+301,124,78,2025-01-21,299.95,Adam Walton,szimmerman@holland-kidd.com,2024-11-21,East Sandra,1,2,Running Shoes,Footwear,89.99
+302,125,50,2024-12-16,290.46,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,15,2,Lacrosse Stick,Team Sports,69.99
+303,125,50,2024-12-16,290.46,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,16,1,Soccer Jersey,Apparel,49.99
+304,125,50,2024-12-16,290.46,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,10,3,Foam Roller,Fitness Equipment,21.5
+305,125,50,2024-12-16,290.46,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+306,126,66,2024-12-28,274.95,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,18,1,Compression Shirt,Apparel,34.99
+307,126,66,2024-12-28,274.95,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,4,2,Trail Running Shoes,Footwear,94.99
+308,126,66,2024-12-28,274.95,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,12,2,Soccer Ball,Team Sports,24.99
+309,127,71,2025-03-16,499.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,25,3,Squash Goggles,Racquet Sports,24.99
+310,127,71,2025-03-16,499.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,18,1,Compression Shirt,Apparel,34.99
+311,127,71,2025-03-16,499.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,17,1,Running Shorts,Apparel,29.99
+312,127,71,2025-03-16,499.92,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+313,128,12,2023-11-26,179.98,Heather Baker,rasmusseneric@yahoo.com,2023-10-02,Boothton,3,1,Cleats,Footwear,59.99
+314,128,12,2023-11-26,179.98,Heather Baker,rasmusseneric@yahoo.com,2023-10-02,Boothton,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+315,129,14,2025-01-28,43.0,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,10,2,Foam Roller,Fitness Equipment,21.5
+316,130,69,2024-11-06,19.98,Kevin Wise,epearson@lin-keith.com,2024-02-05,Watsontown,27,2,Sweatband Set,Accessories,9.99
+317,131,20,2023-12-21,194.95,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,22,3,Pickleball Paddle,Racquet Sports,44.99
+318,131,20,2023-12-21,194.95,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,11,2,Basketball,Team Sports,29.99
+319,132,76,2025-01-25,517.91,Charles Hayes,andersenmaurice@thomas-smith.com,2024-09-20,Dominiquefurt,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+320,132,76,2025-01-25,517.91,Charles Hayes,andersenmaurice@thomas-smith.com,2024-09-20,Dominiquefurt,2,1,Cross-Training Shoes,Footwear,79.99
+321,132,76,2025-01-25,517.91,Charles Hayes,andersenmaurice@thomas-smith.com,2024-09-20,Dominiquefurt,3,3,Cleats,Footwear,59.99
+322,132,76,2025-01-25,517.91,Charles Hayes,andersenmaurice@thomas-smith.com,2024-09-20,Dominiquefurt,5,2,Indoor Court Shoes,Footwear,74.99
+323,133,29,2024-10-03,99.95,Daniel Brennan,bennettmario@gmail.com,2023-12-25,Deannahaven,27,3,Sweatband Set,Accessories,9.99
+324,133,29,2024-10-03,99.95,Daniel Brennan,bennettmario@gmail.com,2023-12-25,Deannahaven,7,1,Resistance Bands Set,Fitness Equipment,19.99
+325,133,29,2024-10-03,99.95,Daniel Brennan,bennettmario@gmail.com,2023-12-25,Deannahaven,16,1,Soccer Jersey,Apparel,49.99
+326,134,6,2024-11-12,192.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,10,2,Foam Roller,Fitness Equipment,21.5
+327,134,6,2024-11-12,192.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,19,3,Sports Bra,Apparel,39.99
+328,134,6,2024-11-12,192.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,11,1,Basketball,Team Sports,29.99
+329,135,82,2024-02-24,47.97,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,26,3,Cycling Gloves,Accessories,15.99
+330,136,48,2025-06-20,149.97,Michelle Webb PhD,matthew95@fernandez.com,2025-06-09,South Madison,16,3,Soccer Jersey,Apparel,49.99
+331,137,66,2025-04-05,89.98,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,22,2,Pickleball Paddle,Racquet Sports,44.99
+332,138,18,2024-12-18,654.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,18,1,Compression Shirt,Apparel,34.99
+333,138,18,2024-12-18,654.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,2,2,Cross-Training Shoes,Footwear,79.99
+334,138,18,2024-12-18,654.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,4,2,Trail Running Shoes,Footwear,94.99
+335,138,18,2024-12-18,654.92,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,1,3,Running Shoes,Footwear,89.99
+336,139,92,2025-06-10,308.91,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,11,2,Basketball,Team Sports,29.99
+337,139,92,2025-06-10,308.91,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,3,2,Cleats,Footwear,59.99
+338,139,92,2025-06-10,308.91,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,14,3,Volleyball,Team Sports,22.99
+339,139,92,2025-06-10,308.91,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,17,2,Running Shorts,Apparel,29.99
+340,140,18,2025-04-10,360.94,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,4,3,Trail Running Shoes,Footwear,94.99
+341,140,18,2025-04-10,360.94,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,26,1,Cycling Gloves,Accessories,15.99
+342,140,18,2025-04-10,360.94,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,17,2,Running Shorts,Apparel,29.99
+343,141,9,2025-03-29,87.95,Ricardo Torres,jonesjoseph@bishop.com,2024-09-28,Martinfort,26,3,Cycling Gloves,Accessories,15.99
+344,141,9,2025-03-29,87.95,Ricardo Torres,jonesjoseph@bishop.com,2024-09-28,Martinfort,7,2,Resistance Bands Set,Fitness Equipment,19.99
+345,142,92,2024-01-08,193.93,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,26,2,Cycling Gloves,Accessories,15.99
+346,142,92,2024-01-08,193.93,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,17,3,Running Shorts,Apparel,29.99
+347,142,92,2024-01-08,193.93,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,8,2,Kettlebell - 20lb,Fitness Equipment,35.99
+348,143,48,2025-06-13,519.92,Michelle Webb PhD,matthew95@fernandez.com,2025-06-09,South Madison,2,2,Cross-Training Shoes,Footwear,79.99
+349,143,48,2025-06-13,519.92,Michelle Webb PhD,matthew95@fernandez.com,2025-06-09,South Madison,22,3,Pickleball Paddle,Racquet Sports,44.99
+350,143,48,2025-06-13,519.92,Michelle Webb PhD,matthew95@fernandez.com,2025-06-09,South Madison,5,3,Indoor Court Shoes,Footwear,74.99
+351,144,52,2024-12-06,68.97,Deborah Anderson,alexis33@gmail.com,2024-07-15,Thompsonstad,14,3,Volleyball,Team Sports,22.99
+352,145,92,2024-12-08,347.89,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,17,2,Running Shorts,Apparel,29.99
+353,145,92,2024-12-08,347.89,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,3,3,Cleats,Footwear,59.99
+354,145,92,2024-12-08,347.89,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,7,3,Resistance Bands Set,Fitness Equipment,19.99
+355,145,92,2024-12-08,347.89,Brandon Stevens,martinezkelli@robles-goodwin.com,2024-01-08,Brianport,26,3,Cycling Gloves,Accessories,15.99
+356,146,93,2024-05-10,29.98,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,20,2,Athletic Socks (3-pack),Apparel,14.99
+357,147,87,2025-03-25,71.98,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,8,2,Kettlebell - 20lb,Fitness Equipment,35.99
+358,148,41,2024-09-27,79.98,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,23,2,Badminton Set,Racquet Sports,39.99
+359,149,26,2025-03-29,269.97,Kayla Hammond,brandy82@hotmail.com,2023-11-24,West Mark,1,3,Running Shoes,Footwear,89.99
+360,150,70,2024-12-02,54.98,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,19,1,Sports Bra,Apparel,39.99
+361,150,70,2024-12-02,54.98,Nicole Stewart,sherylfuller@gmail.com,2023-10-12,Olsonville,20,1,Athletic Socks (3-pack),Apparel,14.99
+362,151,47,2024-08-10,212.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,26,3,Cycling Gloves,Accessories,15.99
+363,151,47,2024-08-10,212.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,7,2,Resistance Bands Set,Fitness Equipment,19.99
+364,151,47,2024-08-10,212.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,4,1,Trail Running Shoes,Footwear,94.99
+365,151,47,2024-08-10,212.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,17,1,Running Shorts,Apparel,29.99
+366,152,27,2025-05-06,149.97,Linda Weiss,uschmitt@thompson-king.com,2025-01-31,Douglastown,20,2,Athletic Socks (3-pack),Apparel,14.99
+367,152,27,2025-05-06,149.97,Linda Weiss,uschmitt@thompson-king.com,2025-01-31,Douglastown,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+368,153,31,2025-05-04,254.93,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,2,2,Cross-Training Shoes,Footwear,79.99
+369,153,31,2025-05-04,254.93,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,20,1,Athletic Socks (3-pack),Apparel,14.99
+370,153,31,2025-05-04,254.93,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,27,3,Sweatband Set,Accessories,9.99
+371,153,31,2025-05-04,254.93,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,16,1,Soccer Jersey,Apparel,49.99
+372,154,20,2024-11-14,75.0,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,6,3,Yoga Mat,Fitness Equipment,25.0
+373,155,17,2025-02-01,31.98,David Roach,guy73@hotmail.com,2024-06-30,New Alexberg,26,2,Cycling Gloves,Accessories,15.99
+374,156,3,2024-04-01,504.95,Dawn Mckay,dyermaria@hotmail.com,2023-09-19,Sheilamouth,6,2,Yoga Mat,Fitness Equipment,25.0
+375,156,3,2024-04-01,504.95,Dawn Mckay,dyermaria@hotmail.com,2023-09-19,Sheilamouth,12,1,Soccer Ball,Team Sports,24.99
+376,156,3,2024-04-01,504.95,Dawn Mckay,dyermaria@hotmail.com,2023-09-19,Sheilamouth,15,1,Lacrosse Stick,Team Sports,69.99
+377,156,3,2024-04-01,504.95,Dawn Mckay,dyermaria@hotmail.com,2023-09-19,Sheilamouth,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+378,157,69,2025-04-23,584.94,Kevin Wise,epearson@lin-keith.com,2024-02-05,Watsontown,2,3,Cross-Training Shoes,Footwear,79.99
+379,157,69,2025-04-23,584.94,Kevin Wise,epearson@lin-keith.com,2024-02-05,Watsontown,1,3,Running Shoes,Footwear,89.99
+380,157,69,2025-04-23,584.94,Kevin Wise,epearson@lin-keith.com,2024-02-05,Watsontown,6,3,Yoga Mat,Fitness Equipment,25.0
+381,158,8,2025-03-21,315.94,Michael Mejia,natalie18@yahoo.com,2023-10-09,New Sabrinaberg,6,2,Yoga Mat,Fitness Equipment,25.0
+382,158,8,2025-03-21,315.94,Michael Mejia,natalie18@yahoo.com,2023-10-09,New Sabrinaberg,21,2,Tennis Racket,Racquet Sports,79.99
+383,158,8,2025-03-21,315.94,Michael Mejia,natalie18@yahoo.com,2023-10-09,New Sabrinaberg,11,2,Basketball,Team Sports,29.99
+384,158,8,2025-03-21,315.94,Michael Mejia,natalie18@yahoo.com,2023-10-09,New Sabrinaberg,14,2,Volleyball,Team Sports,22.99
+385,159,93,2023-10-24,473.91,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,2,3,Cross-Training Shoes,Footwear,79.99
+386,159,93,2023-10-24,473.91,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,15,2,Lacrosse Stick,Team Sports,69.99
+387,159,93,2023-10-24,473.91,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,14,3,Volleyball,Team Sports,22.99
+388,159,93,2023-10-24,473.91,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,12,1,Soccer Ball,Team Sports,24.99
+389,160,68,2024-01-01,446.91,Travis Collins,shawnlee@gmail.com,2023-12-30,New Rebeccafurt,3,3,Cleats,Footwear,59.99
+390,160,68,2024-01-01,446.91,Travis Collins,shawnlee@gmail.com,2023-12-30,New Rebeccafurt,24,3,Tennis Balls (can),Racquet Sports,8.99
+391,160,68,2024-01-01,446.91,Travis Collins,shawnlee@gmail.com,2023-12-30,New Rebeccafurt,2,3,Cross-Training Shoes,Footwear,79.99
+392,161,30,2025-05-09,90.96,Joshua Turner,maxwellsmith@yahoo.com,2025-03-20,Matthewchester,26,1,Cycling Gloves,Accessories,15.99
+393,161,30,2025-05-09,90.96,Joshua Turner,maxwellsmith@yahoo.com,2025-03-20,Matthewchester,12,3,Soccer Ball,Team Sports,24.99
+394,162,91,2024-04-30,241.46,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,4,2,Trail Running Shoes,Footwear,94.99
+395,162,91,2024-04-30,241.46,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,20,2,Athletic Socks (3-pack),Apparel,14.99
+396,162,91,2024-04-30,241.46,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,10,1,Foam Roller,Fitness Equipment,21.5
+397,163,31,2025-02-15,309.95,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,2,2,Cross-Training Shoes,Footwear,79.99
+398,163,31,2025-02-15,309.95,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,12,3,Soccer Ball,Team Sports,24.99
+399,163,31,2025-02-15,309.95,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,6,3,Yoga Mat,Fitness Equipment,25.0
+400,164,56,2025-01-11,93.95,Roger Garcia,jesse28@ruiz-harper.org,2024-02-15,South Joseph,20,3,Athletic Socks (3-pack),Apparel,14.99
+401,164,56,2025-01-11,93.95,Roger Garcia,jesse28@ruiz-harper.org,2024-02-15,South Joseph,24,1,Tennis Balls (can),Racquet Sports,8.99
+402,164,56,2025-01-11,93.95,Roger Garcia,jesse28@ruiz-harper.org,2024-02-15,South Joseph,23,1,Badminton Set,Racquet Sports,39.99
+403,165,24,2024-12-25,173.94,Karen Johnson,mjames@yahoo.com,2024-04-24,Kellyview,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+404,165,24,2024-12-25,173.94,Karen Johnson,mjames@yahoo.com,2024-04-24,Kellyview,25,2,Squash Goggles,Racquet Sports,24.99
+405,165,24,2024-12-25,173.94,Karen Johnson,mjames@yahoo.com,2024-04-24,Kellyview,26,1,Cycling Gloves,Accessories,15.99
+406,166,74,2025-01-19,278.94,Larry Freeman,hilllauren@marshall.com,2023-09-22,Perryberg,15,3,Lacrosse Stick,Team Sports,69.99
+407,166,74,2025-01-19,278.94,Larry Freeman,hilllauren@marshall.com,2023-09-22,Perryberg,14,3,Volleyball,Team Sports,22.99
+408,167,91,2024-01-20,49.98,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,12,2,Soccer Ball,Team Sports,24.99
+409,168,12,2024-10-10,119.97,Heather Baker,rasmusseneric@yahoo.com,2023-10-02,Boothton,19,3,Sports Bra,Apparel,39.99
+410,169,45,2025-03-05,368.42,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,16,2,Soccer Jersey,Apparel,49.99
+411,169,45,2025-03-05,368.42,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,19,3,Sports Bra,Apparel,39.99
+412,169,45,2025-03-05,368.42,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,10,3,Foam Roller,Fitness Equipment,21.5
+413,169,45,2025-03-05,368.42,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,13,3,Football,Team Sports,27.99
+414,170,38,2025-06-12,529.95,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+415,170,38,2025-06-12,529.95,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,6,3,Yoga Mat,Fitness Equipment,25.0
+416,170,38,2025-06-12,529.95,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,20,1,Athletic Socks (3-pack),Apparel,14.99
+417,170,38,2025-06-12,529.95,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,2,1,Cross-Training Shoes,Footwear,79.99
+418,171,40,2024-11-17,89.97,Laura Lam,mphelps@hotmail.com,2024-08-27,Port Cherylland,17,1,Running Shorts,Apparel,29.99
+419,171,40,2024-11-17,89.97,Laura Lam,mphelps@hotmail.com,2024-08-27,Port Cherylland,11,2,Basketball,Team Sports,29.99
+420,172,80,2025-02-06,479.93,Dawn Williams,wardlarry@hobbs.com,2023-10-16,Carneybury,1,3,Running Shoes,Footwear,89.99
+421,172,80,2025-02-06,479.93,Dawn Williams,wardlarry@hobbs.com,2023-10-16,Carneybury,3,1,Cleats,Footwear,59.99
+422,172,80,2025-02-06,479.93,Dawn Williams,wardlarry@hobbs.com,2023-10-16,Carneybury,16,3,Soccer Jersey,Apparel,49.99
+423,173,65,2025-03-23,44.97,Hannah Vargas,qmolina@hotmail.com,2024-06-12,North Stephen,20,3,Athletic Socks (3-pack),Apparel,14.99
+424,174,67,2025-02-04,174.48,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,6,2,Yoga Mat,Fitness Equipment,25.0
+425,174,67,2025-02-04,174.48,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,10,3,Foam Roller,Fitness Equipment,21.5
+426,174,67,2025-02-04,174.48,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,11,2,Basketball,Team Sports,29.99
+427,175,62,2025-04-28,47.97,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,26,3,Cycling Gloves,Accessories,15.99
+428,176,35,2024-08-24,254.97,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,21,2,Tennis Racket,Racquet Sports,79.99
+429,176,35,2024-08-24,254.97,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,4,1,Trail Running Shoes,Footwear,94.99
+430,177,39,2025-04-02,324.91,Kimberly Barry,nicole77@gmail.com,2024-10-03,Port Kimberly,21,1,Tennis Racket,Racquet Sports,79.99
+431,177,39,2025-04-02,324.91,Kimberly Barry,nicole77@gmail.com,2024-10-03,Port Kimberly,22,3,Pickleball Paddle,Racquet Sports,44.99
+432,177,39,2025-04-02,324.91,Kimberly Barry,nicole77@gmail.com,2024-10-03,Port Kimberly,7,3,Resistance Bands Set,Fitness Equipment,19.99
+433,177,39,2025-04-02,324.91,Kimberly Barry,nicole77@gmail.com,2024-10-03,Port Kimberly,25,2,Squash Goggles,Racquet Sports,24.99
+434,178,43,2025-06-01,83.96,Kevin Baker,jasmine28@hotmail.com,2024-07-31,Annetteborough,25,3,Squash Goggles,Racquet Sports,24.99
+435,178,43,2025-06-01,83.96,Kevin Baker,jasmine28@hotmail.com,2024-07-31,Annetteborough,24,1,Tennis Balls (can),Racquet Sports,8.99
+436,179,25,2025-01-11,139.98,Joyce Noble,feliciapearson@martin.com,2024-04-18,Michaelfort,15,2,Lacrosse Stick,Team Sports,69.99
+437,180,77,2025-04-16,112.98,Carrie Hicks,william05@fletcher.com,2025-03-06,Port Richardmouth,1,1,Running Shoes,Footwear,89.99
+438,180,77,2025-04-16,112.98,Carrie Hicks,william05@fletcher.com,2025-03-06,Port Richardmouth,14,1,Volleyball,Team Sports,22.99
+439,181,18,2024-12-13,282.96,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,10,2,Foam Roller,Fitness Equipment,21.5
+440,181,18,2024-12-13,282.96,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,5,2,Indoor Court Shoes,Footwear,74.99
+441,181,18,2024-12-13,282.96,Clayton Johnson DDS,sbond@carter.com,2024-08-02,Foxview,22,2,Pickleball Paddle,Racquet Sports,44.99
+442,182,14,2025-05-30,392.91,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,24,2,Tennis Balls (can),Racquet Sports,8.99
+443,182,14,2025-05-30,392.91,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,5,3,Indoor Court Shoes,Footwear,74.99
+444,182,14,2025-05-30,392.91,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,22,2,Pickleball Paddle,Racquet Sports,44.99
+445,182,14,2025-05-30,392.91,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,17,2,Running Shorts,Apparel,29.99
+446,183,34,2024-10-08,482.91,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,22,2,Pickleball Paddle,Racquet Sports,44.99
+447,183,34,2024-10-08,482.91,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,5,3,Indoor Court Shoes,Footwear,74.99
+448,183,34,2024-10-08,482.91,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+449,183,34,2024-10-08,482.91,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,3,1,Cleats,Footwear,59.99
+450,184,75,2025-06-12,49.97,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,27,1,Sweatband Set,Accessories,9.99
+451,184,75,2025-06-12,49.97,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,20,1,Athletic Socks (3-pack),Apparel,14.99
+452,184,75,2025-06-12,49.97,Jonathan Williams,davidwood@tucker.net,2025-05-20,New Donald,12,1,Soccer Ball,Team Sports,24.99
+453,185,56,2024-04-07,50.0,Roger Garcia,jesse28@ruiz-harper.org,2024-02-15,South Joseph,6,2,Yoga Mat,Fitness Equipment,25.0
+454,186,66,2025-02-01,124.95,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,12,1,Soccer Ball,Team Sports,24.99
+455,186,66,2025-02-01,124.95,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,27,3,Sweatband Set,Accessories,9.99
+456,186,66,2025-02-01,124.95,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,15,1,Lacrosse Stick,Team Sports,69.99
+457,187,35,2024-11-02,114.97,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,17,1,Running Shorts,Apparel,29.99
+458,187,35,2024-11-02,114.97,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,11,2,Basketball,Team Sports,29.99
+459,187,35,2024-11-02,114.97,Sharon Dennis,dmatthews@acosta-nichols.com,2024-04-09,Annettemouth,6,1,Yoga Mat,Fitness Equipment,25.0
+460,188,65,2025-05-29,104.95,Hannah Vargas,qmolina@hotmail.com,2024-06-12,North Stephen,17,2,Running Shorts,Apparel,29.99
+461,188,65,2025-05-29,104.95,Hannah Vargas,qmolina@hotmail.com,2024-06-12,North Stephen,20,3,Athletic Socks (3-pack),Apparel,14.99
+462,189,1,2025-04-16,79.99,Nicole Morris,donnahiggins@yahoo.com,2024-02-19,Lake Victoria,21,1,Tennis Racket,Racquet Sports,79.99
+463,190,1,2024-04-10,214.94,Nicole Morris,donnahiggins@yahoo.com,2024-02-19,Lake Victoria,23,2,Badminton Set,Racquet Sports,39.99
+464,190,1,2024-04-10,214.94,Nicole Morris,donnahiggins@yahoo.com,2024-02-19,Lake Victoria,18,3,Compression Shirt,Apparel,34.99
+465,190,1,2024-04-10,214.94,Nicole Morris,donnahiggins@yahoo.com,2024-02-19,Lake Victoria,11,1,Basketball,Team Sports,29.99
+466,191,57,2024-02-08,287.95,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,13,1,Football,Team Sports,27.99
+467,191,57,2024-02-08,287.95,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,1,2,Running Shoes,Footwear,89.99
+468,191,57,2024-02-08,287.95,Ms. Denise Knight DDS,tyleringram@hoover-daniels.com,2023-12-11,Stephenburgh,19,2,Sports Bra,Apparel,39.99
+469,192,32,2024-05-01,134.97,Joshua David,juliejohnson@gmail.com,2024-03-24,Lake Adrian,22,3,Pickleball Paddle,Racquet Sports,44.99
+470,193,41,2025-02-19,259.92,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,16,3,Soccer Jersey,Apparel,49.99
+471,193,41,2025-02-19,259.92,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,23,2,Badminton Set,Racquet Sports,39.99
+472,193,41,2025-02-19,259.92,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,27,3,Sweatband Set,Accessories,9.99
+473,194,68,2024-03-29,653.91,Travis Collins,shawnlee@gmail.com,2023-12-30,New Rebeccafurt,15,3,Lacrosse Stick,Team Sports,69.99
+474,194,68,2024-03-29,653.91,Travis Collins,shawnlee@gmail.com,2023-12-30,New Rebeccafurt,13,3,Football,Team Sports,27.99
+475,194,68,2024-03-29,653.91,Travis Collins,shawnlee@gmail.com,2023-12-30,New Rebeccafurt,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+476,195,12,2023-11-16,29.99,Heather Baker,rasmusseneric@yahoo.com,2023-10-02,Boothton,11,1,Basketball,Team Sports,29.99
+477,196,69,2024-04-05,314.96,Kevin Wise,epearson@lin-keith.com,2024-02-05,Watsontown,17,1,Running Shorts,Apparel,29.99
+478,196,69,2024-04-05,314.96,Kevin Wise,epearson@lin-keith.com,2024-02-05,Watsontown,4,3,Trail Running Shoes,Footwear,94.99
+479,197,99,2024-02-29,314.93,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,12,2,Soccer Ball,Team Sports,24.99
+480,197,99,2024-02-29,314.93,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,5,3,Indoor Court Shoes,Footwear,74.99
+481,197,99,2024-02-29,314.93,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,7,2,Resistance Bands Set,Fitness Equipment,19.99
+482,198,90,2024-11-11,133.96,Diana Sanchez,rlong@warren.com,2024-09-19,Roblesport,13,3,Football,Team Sports,27.99
+483,198,90,2024-11-11,133.96,Diana Sanchez,rlong@warren.com,2024-09-19,Roblesport,16,1,Soccer Jersey,Apparel,49.99
+484,199,16,2024-10-06,54.98,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,20,2,Athletic Socks (3-pack),Apparel,14.99
+485,199,16,2024-10-06,54.98,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,6,1,Yoga Mat,Fitness Equipment,25.0
+486,200,86,2025-03-27,484.92,Kelsey Chan,emilywest@gmail.com,2025-02-25,Christinaburgh,3,3,Cleats,Footwear,59.99
+487,200,86,2025-03-27,484.92,Kelsey Chan,emilywest@gmail.com,2025-02-25,Christinaburgh,22,3,Pickleball Paddle,Racquet Sports,44.99
+488,200,86,2025-03-27,484.92,Kelsey Chan,emilywest@gmail.com,2025-02-25,Christinaburgh,2,1,Cross-Training Shoes,Footwear,79.99
+489,200,86,2025-03-27,484.92,Kelsey Chan,emilywest@gmail.com,2025-02-25,Christinaburgh,1,1,Running Shoes,Footwear,89.99
+490,201,6,2025-03-09,137.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,22,1,Pickleball Paddle,Racquet Sports,44.99
+491,201,6,2025-03-09,137.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,5,1,Indoor Court Shoes,Footwear,74.99
+492,201,6,2025-03-09,137.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,24,2,Tennis Balls (can),Racquet Sports,8.99
+493,202,29,2025-02-02,369.95,Daniel Brennan,bennettmario@gmail.com,2023-12-25,Deannahaven,1,3,Running Shoes,Footwear,89.99
+494,202,29,2025-02-02,369.95,Daniel Brennan,bennettmario@gmail.com,2023-12-25,Deannahaven,16,2,Soccer Jersey,Apparel,49.99
+495,203,39,2025-03-13,79.98,Kimberly Barry,nicole77@gmail.com,2024-10-03,Port Kimberly,23,2,Badminton Set,Racquet Sports,39.99
+496,204,74,2024-11-12,289.96,Larry Freeman,hilllauren@marshall.com,2023-09-22,Perryberg,6,1,Yoga Mat,Fitness Equipment,25.0
+497,204,74,2024-11-12,289.96,Larry Freeman,hilllauren@marshall.com,2023-09-22,Perryberg,22,1,Pickleball Paddle,Racquet Sports,44.99
+498,204,74,2024-11-12,289.96,Larry Freeman,hilllauren@marshall.com,2023-09-22,Perryberg,1,2,Running Shoes,Footwear,89.99
+499,204,74,2024-11-12,289.96,Larry Freeman,hilllauren@marshall.com,2023-09-22,Perryberg,23,1,Badminton Set,Racquet Sports,39.99
+500,205,37,2024-11-24,149.98,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,6,2,Yoga Mat,Fitness Equipment,25.0
+501,205,37,2024-11-24,149.98,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,27,1,Sweatband Set,Accessories,9.99
+502,205,37,2024-11-24,149.98,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,1,1,Running Shoes,Footwear,89.99
+503,206,51,2025-03-23,299.96,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,3,2,Cleats,Footwear,59.99
+504,206,51,2025-03-23,299.96,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,1,2,Running Shoes,Footwear,89.99
+505,207,52,2024-11-06,189.94,Deborah Anderson,alexis33@gmail.com,2024-07-15,Thompsonstad,17,2,Running Shorts,Apparel,29.99
+506,207,52,2024-11-06,189.94,Deborah Anderson,alexis33@gmail.com,2024-07-15,Thompsonstad,19,3,Sports Bra,Apparel,39.99
+507,207,52,2024-11-06,189.94,Deborah Anderson,alexis33@gmail.com,2024-07-15,Thompsonstad,27,1,Sweatband Set,Accessories,9.99
+508,208,43,2025-01-17,259.94,Kevin Baker,jasmine28@hotmail.com,2024-07-31,Annetteborough,17,2,Running Shorts,Apparel,29.99
+509,208,43,2025-01-17,259.94,Kevin Baker,jasmine28@hotmail.com,2024-07-31,Annetteborough,7,2,Resistance Bands Set,Fitness Equipment,19.99
+510,208,43,2025-01-17,259.94,Kevin Baker,jasmine28@hotmail.com,2024-07-31,Annetteborough,2,2,Cross-Training Shoes,Footwear,79.99
+511,209,21,2023-07-15,209.97,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,15,3,Lacrosse Stick,Team Sports,69.99
+512,210,33,2025-01-26,347.94,Kyle Hardin,ericwoods@reyes.com,2023-10-31,Port Gregoryfurt,2,3,Cross-Training Shoes,Footwear,79.99
+513,210,33,2025-01-26,347.94,Kyle Hardin,ericwoods@reyes.com,2023-10-31,Port Gregoryfurt,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+514,211,94,2025-04-11,94.98,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,21,1,Tennis Racket,Racquet Sports,79.99
+515,211,94,2025-04-11,94.98,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,20,1,Athletic Socks (3-pack),Apparel,14.99
+516,212,23,2024-08-17,314.91,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,18,3,Compression Shirt,Apparel,34.99
+517,212,23,2024-08-17,314.91,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,7,3,Resistance Bands Set,Fitness Equipment,19.99
+518,212,23,2024-08-17,314.91,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,16,3,Soccer Jersey,Apparel,49.99
+519,213,34,2024-06-14,414.93,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,1,3,Running Shoes,Footwear,89.99
+520,213,34,2024-06-14,414.93,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,3,1,Cleats,Footwear,59.99
+521,213,34,2024-06-14,414.93,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,7,2,Resistance Bands Set,Fitness Equipment,19.99
+522,213,34,2024-06-14,414.93,Kelly Ponce,ramirezjeffrey@hotmail.com,2024-05-04,Erinfort,22,1,Pickleball Paddle,Racquet Sports,44.99
+523,214,20,2024-07-19,317.94,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,14,1,Volleyball,Team Sports,22.99
+524,214,20,2024-07-19,317.94,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,23,1,Badminton Set,Racquet Sports,39.99
+525,214,20,2024-07-19,317.94,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,21,3,Tennis Racket,Racquet Sports,79.99
+526,214,20,2024-07-19,317.94,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,20,1,Athletic Socks (3-pack),Apparel,14.99
+527,215,6,2025-02-28,344.94,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,1,3,Running Shoes,Footwear,89.99
+528,215,6,2025-02-28,344.94,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,12,3,Soccer Ball,Team Sports,24.99
+529,216,87,2025-03-14,454.95,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,15,1,Lacrosse Stick,Team Sports,69.99
+530,216,87,2025-03-14,454.95,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,4,3,Trail Running Shoes,Footwear,94.99
+531,216,87,2025-03-14,454.95,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,5,1,Indoor Court Shoes,Footwear,74.99
+532,216,87,2025-03-14,454.95,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,6,1,Yoga Mat,Fitness Equipment,25.0
+533,217,2,2025-03-02,274.91,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,7,3,Resistance Bands Set,Fitness Equipment,19.99
+534,217,2,2025-03-02,274.91,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,21,2,Tennis Racket,Racquet Sports,79.99
+535,217,2,2025-03-02,274.91,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,27,3,Sweatband Set,Accessories,9.99
+536,217,2,2025-03-02,274.91,Amy Murphy,colin87@aguilar.com,2025-01-01,Port Brendachester,25,1,Squash Goggles,Racquet Sports,24.99
+537,218,40,2025-04-08,160.95,Laura Lam,mphelps@hotmail.com,2024-08-27,Port Cherylland,13,2,Football,Team Sports,27.99
+538,218,40,2025-04-08,160.95,Laura Lam,mphelps@hotmail.com,2024-08-27,Port Cherylland,18,3,Compression Shirt,Apparel,34.99
+539,219,84,2025-01-23,79.98,Paige Sanchez,iwang@gmail.com,2024-10-19,Port James,23,2,Badminton Set,Racquet Sports,39.99
+540,220,38,2025-03-03,448.92,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,20,1,Athletic Socks (3-pack),Apparel,14.99
+541,220,38,2025-03-03,448.92,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,13,3,Football,Team Sports,27.99
+542,220,38,2025-03-03,448.92,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,1,3,Running Shoes,Footwear,89.99
+543,220,38,2025-03-03,448.92,Erin Harper,mathewsdavid@owens.com,2024-01-04,North Paulstad,2,1,Cross-Training Shoes,Footwear,79.99
+544,221,62,2024-10-02,195.94,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+545,221,62,2024-10-02,195.94,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,27,3,Sweatband Set,Accessories,9.99
+546,221,62,2024-10-02,195.94,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,14,2,Volleyball,Team Sports,22.99
+547,222,62,2025-03-31,291.94,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+548,222,62,2025-03-31,291.94,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,14,2,Volleyball,Team Sports,22.99
+549,222,62,2025-03-31,291.94,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,16,1,Soccer Jersey,Apparel,49.99
+550,222,62,2025-03-31,291.94,Victor Gay,johnsonrobyn@yahoo.com,2024-04-12,North Stephaniefurt,21,2,Tennis Racket,Racquet Sports,79.99
+551,223,83,2024-03-08,250.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,23,2,Badminton Set,Racquet Sports,39.99
+552,223,83,2024-03-08,250.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,26,1,Cycling Gloves,Accessories,15.99
+553,223,83,2024-03-08,250.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,12,3,Soccer Ball,Team Sports,24.99
+554,223,83,2024-03-08,250.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,19,2,Sports Bra,Apparel,39.99
+555,224,10,2025-04-28,19.98,Steve Turner,huntermitchell@stevens-hill.org,2024-02-25,Gomezmouth,27,2,Sweatband Set,Accessories,9.99
+556,225,20,2023-12-19,185.93,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,19,2,Sports Bra,Apparel,39.99
+557,225,20,2023-12-19,185.93,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,13,1,Football,Team Sports,27.99
+558,225,20,2023-12-19,185.93,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,14,3,Volleyball,Team Sports,22.99
+559,225,20,2023-12-19,185.93,John Davis,ramirezkyle@gmail.com,2023-12-13,Port David,24,1,Tennis Balls (can),Racquet Sports,8.99
+560,226,59,2024-01-09,79.98,Ellen Alexander,ljohnson@hotmail.com,2023-07-25,Carlachester,19,2,Sports Bra,Apparel,39.99
+561,227,41,2025-05-11,95.96,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,12,2,Soccer Ball,Team Sports,24.99
+562,227,41,2025-05-11,95.96,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,14,2,Volleyball,Team Sports,22.99
+563,228,45,2025-05-19,164.94,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,20,3,Athletic Socks (3-pack),Apparel,14.99
+564,228,45,2025-05-19,164.94,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,19,3,Sports Bra,Apparel,39.99
+565,229,5,2025-02-20,224.95,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,3,2,Cleats,Footwear,59.99
+566,229,5,2025-02-20,224.95,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,18,3,Compression Shirt,Apparel,34.99
+567,230,93,2024-10-03,209.46,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,10,3,Foam Roller,Fitness Equipment,21.5
+568,230,93,2024-10-03,209.46,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,4,1,Trail Running Shoes,Footwear,94.99
+569,230,93,2024-10-03,209.46,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,7,2,Resistance Bands Set,Fitness Equipment,19.99
+570,230,93,2024-10-03,209.46,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,27,1,Sweatband Set,Accessories,9.99
+571,231,96,2024-05-28,132.98,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,10,2,Foam Roller,Fitness Equipment,21.5
+572,231,96,2024-05-28,132.98,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,22,2,Pickleball Paddle,Racquet Sports,44.99
+573,232,15,2025-02-20,69.99,Angela Porter,breannaharris@green.net,2024-04-25,Murphyville,15,1,Lacrosse Stick,Team Sports,69.99
+574,233,32,2024-04-26,79.97,Joshua David,juliejohnson@gmail.com,2024-03-24,Lake Adrian,7,1,Resistance Bands Set,Fitness Equipment,19.99
+575,233,32,2024-04-26,79.97,Joshua David,juliejohnson@gmail.com,2024-03-24,Lake Adrian,11,2,Basketball,Team Sports,29.99
+576,234,53,2024-12-23,294.96,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,6,2,Yoga Mat,Fitness Equipment,25.0
+577,234,53,2024-12-23,294.96,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,21,1,Tennis Racket,Racquet Sports,79.99
+578,234,53,2024-12-23,294.96,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,5,1,Indoor Court Shoes,Footwear,74.99
+579,234,53,2024-12-23,294.96,Christopher Mitchell,scottmartinez@hotmail.com,2024-12-17,Georgeton,22,2,Pickleball Paddle,Racquet Sports,44.99
+580,235,79,2024-06-18,569.93,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,2,3,Cross-Training Shoes,Footwear,79.99
+581,235,79,2024-06-18,569.93,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,17,1,Running Shorts,Apparel,29.99
+582,235,79,2024-06-18,569.93,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,9,2,Adjustable Dumbbells,Fitness Equipment,119.99
+583,235,79,2024-06-18,569.93,Kathleen Ochoa,thomaskimberly@hotmail.com,2023-11-13,Port Manuelfort,3,1,Cleats,Footwear,59.99
+584,236,6,2025-05-25,77.98,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,10,2,Foam Roller,Fitness Equipment,21.5
+585,236,6,2025-05-25,77.98,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,7,1,Resistance Bands Set,Fitness Equipment,19.99
+586,236,6,2025-05-25,77.98,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,20,1,Athletic Socks (3-pack),Apparel,14.99
+587,237,7,2024-12-16,310.96,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,6,3,Yoga Mat,Fitness Equipment,25.0
+588,237,7,2024-12-16,310.96,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,14,2,Volleyball,Team Sports,22.99
+589,237,7,2024-12-16,310.96,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,4,2,Trail Running Shoes,Footwear,94.99
+590,238,61,2024-11-16,107.97,Gary Williamson,abbottandrea@wilson-kramer.com,2024-06-30,South Natasha,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+591,239,32,2024-07-15,339.95,Joshua David,juliejohnson@gmail.com,2024-03-24,Lake Adrian,25,1,Squash Goggles,Racquet Sports,24.99
+592,239,32,2024-07-15,339.95,Joshua David,juliejohnson@gmail.com,2024-03-24,Lake Adrian,1,3,Running Shoes,Footwear,89.99
+593,239,32,2024-07-15,339.95,Joshua David,juliejohnson@gmail.com,2024-03-24,Lake Adrian,22,1,Pickleball Paddle,Racquet Sports,44.99
+594,240,87,2025-05-05,329.94,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,23,1,Badminton Set,Racquet Sports,39.99
+595,240,87,2025-05-05,329.94,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,1,3,Running Shoes,Footwear,89.99
+596,240,87,2025-05-05,329.94,Victor Montoya,nealcrystal@gmail.com,2024-12-20,North Don,27,2,Sweatband Set,Accessories,9.99
+597,241,37,2024-08-31,264.93,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,20,3,Athletic Socks (3-pack),Apparel,14.99
+598,241,37,2024-08-31,264.93,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,18,1,Compression Shirt,Apparel,34.99
+599,241,37,2024-08-31,264.93,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,25,1,Squash Goggles,Racquet Sports,24.99
+600,241,37,2024-08-31,264.93,Dustin Rivas,qgraham@hotmail.com,2024-03-03,Henryport,21,2,Tennis Racket,Racquet Sports,79.99
+601,242,60,2025-05-20,273.94,Walter Evans,hdowns@gmail.com,2025-03-18,New Jordan,16,2,Soccer Jersey,Apparel,49.99
+602,242,60,2025-05-20,273.94,Walter Evans,hdowns@gmail.com,2025-03-18,New Jordan,6,2,Yoga Mat,Fitness Equipment,25.0
+603,242,60,2025-05-20,273.94,Walter Evans,hdowns@gmail.com,2025-03-18,New Jordan,26,1,Cycling Gloves,Accessories,15.99
+604,242,60,2025-05-20,273.94,Walter Evans,hdowns@gmail.com,2025-03-18,New Jordan,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+605,243,88,2025-04-13,464.94,Luis Holland,soconnor@hotmail.com,2025-03-07,Josephmouth,2,3,Cross-Training Shoes,Footwear,79.99
+606,243,88,2025-04-13,464.94,Luis Holland,soconnor@hotmail.com,2025-03-07,Josephmouth,5,3,Indoor Court Shoes,Footwear,74.99
+607,244,96,2025-03-02,223.92,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,23,2,Badminton Set,Racquet Sports,39.99
+608,244,96,2025-03-02,223.92,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,25,3,Squash Goggles,Racquet Sports,24.99
+609,244,96,2025-03-02,223.92,Meredith Mills,jon38@ortega.com,2023-12-02,South Pamela,14,3,Volleyball,Team Sports,22.99
+610,245,21,2023-12-26,267.96,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,10,2,Foam Roller,Fitness Equipment,21.5
+611,245,21,2023-12-26,267.96,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,16,3,Soccer Jersey,Apparel,49.99
+612,245,21,2023-12-26,267.96,Christopher Hughes,lvalenzuela@yahoo.com,2023-07-01,West Sandrafort,5,1,Indoor Court Shoes,Footwear,74.99
+613,246,94,2025-06-06,176.94,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,24,3,Tennis Balls (can),Racquet Sports,8.99
+614,246,94,2025-06-06,176.94,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,21,1,Tennis Racket,Racquet Sports,79.99
+615,246,94,2025-06-06,176.94,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,18,2,Compression Shirt,Apparel,34.99
+616,247,82,2025-02-14,559.92,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,1,3,Running Shoes,Footwear,89.99
+617,247,82,2025-02-14,559.92,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,21,2,Tennis Racket,Racquet Sports,79.99
+618,247,82,2025-02-14,559.92,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,18,3,Compression Shirt,Apparel,34.99
+619,247,82,2025-02-14,559.92,Brooke Brown,gomeztanner@carpenter-jordan.com,2023-10-30,New Rhonda,6,1,Yoga Mat,Fitness Equipment,25.0
+620,248,45,2025-06-01,343.91,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,25,2,Squash Goggles,Racquet Sports,24.99
+621,248,45,2025-06-01,343.91,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,13,3,Football,Team Sports,27.99
+622,248,45,2025-06-01,343.91,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,17,1,Running Shorts,Apparel,29.99
+623,248,45,2025-06-01,343.91,Jodi Williams,ramirezbryan@yahoo.com,2024-05-02,Lake Jeremyshire,3,3,Cleats,Footwear,59.99
+624,249,83,2024-09-21,247.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,7,2,Resistance Bands Set,Fitness Equipment,19.99
+625,249,83,2024-09-21,247.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,13,1,Football,Team Sports,27.99
+626,249,83,2024-09-21,247.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,22,2,Pickleball Paddle,Racquet Sports,44.99
+627,249,83,2024-09-21,247.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,11,3,Basketball,Team Sports,29.99
+628,250,6,2024-11-03,155.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+629,250,6,2024-11-03,155.96,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,19,3,Sports Bra,Apparel,39.99
+630,251,16,2025-04-02,104.98,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,20,2,Athletic Socks (3-pack),Apparel,14.99
+631,251,16,2025-04-02,104.98,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,6,3,Yoga Mat,Fitness Equipment,25.0
+632,252,51,2025-04-07,341.92,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,9,2,Adjustable Dumbbells,Fitness Equipment,119.99
+633,252,51,2025-04-07,341.92,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,24,3,Tennis Balls (can),Racquet Sports,8.99
+634,252,51,2025-04-07,341.92,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,20,1,Athletic Socks (3-pack),Apparel,14.99
+635,252,51,2025-04-07,341.92,Angelica Payne,garrisonkaitlin@gmail.com,2024-04-13,Lake Emilymouth,17,2,Running Shorts,Apparel,29.99
+636,253,1,2025-03-30,204.93,Nicole Morris,donnahiggins@yahoo.com,2024-02-19,Lake Victoria,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+637,253,1,2025-03-30,204.93,Nicole Morris,donnahiggins@yahoo.com,2024-02-19,Lake Victoria,14,3,Volleyball,Team Sports,22.99
+638,253,1,2025-03-30,204.93,Nicole Morris,donnahiggins@yahoo.com,2024-02-19,Lake Victoria,13,1,Football,Team Sports,27.99
+639,254,5,2025-01-09,119.97,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,19,3,Sports Bra,Apparel,39.99
+640,255,47,2023-12-23,423.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,15,1,Lacrosse Stick,Team Sports,69.99
+641,255,47,2023-12-23,423.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,4,3,Trail Running Shoes,Footwear,94.99
+642,255,47,2023-12-23,423.93,Amanda Smith,mcclaindorothy@gmail.com,2023-09-01,Marymouth,14,3,Volleyball,Team Sports,22.99
+643,256,5,2024-07-30,346.92,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+644,256,5,2024-07-30,346.92,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,24,1,Tennis Balls (can),Racquet Sports,8.99
+645,256,5,2024-07-30,346.92,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,5,2,Indoor Court Shoes,Footwear,74.99
+646,256,5,2024-07-30,346.92,Joshua Taylor,rdaniel@valentine.com,2024-07-15,Mooremouth,23,2,Badminton Set,Racquet Sports,39.99
+647,257,66,2025-06-03,51.47,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,27,3,Sweatband Set,Accessories,9.99
+648,257,66,2025-06-03,51.47,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,10,1,Foam Roller,Fitness Equipment,21.5
+649,258,9,2025-03-18,407.93,Ricardo Torres,jonesjoseph@bishop.com,2024-09-28,Martinfort,19,2,Sports Bra,Apparel,39.99
+650,258,9,2025-03-18,407.93,Ricardo Torres,jonesjoseph@bishop.com,2024-09-28,Martinfort,1,3,Running Shoes,Footwear,89.99
+651,258,9,2025-03-18,407.93,Ricardo Torres,jonesjoseph@bishop.com,2024-09-28,Martinfort,11,1,Basketball,Team Sports,29.99
+652,258,9,2025-03-18,407.93,Ricardo Torres,jonesjoseph@bishop.com,2024-09-28,Martinfort,13,1,Football,Team Sports,27.99
+653,259,94,2025-05-21,143.95,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,13,3,Football,Team Sports,27.99
+654,259,94,2025-05-21,143.95,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,17,2,Running Shorts,Apparel,29.99
+655,260,63,2025-02-18,269.97,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,1,3,Running Shoes,Footwear,89.99
+656,261,23,2024-08-15,54.98,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,20,1,Athletic Socks (3-pack),Apparel,14.99
+657,261,23,2024-08-15,54.98,Richard Goodman,rgamble@yahoo.com,2024-01-14,North Kellystad,19,1,Sports Bra,Apparel,39.99
+658,262,6,2024-12-14,142.99,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,6,1,Yoga Mat,Fitness Equipment,25.0
+659,262,6,2024-12-14,142.99,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,10,2,Foam Roller,Fitness Equipment,21.5
+660,262,6,2024-12-14,142.99,Jeffery Martin,rodgerszachary@sanders.com,2024-07-22,Rebeccaberg,5,1,Indoor Court Shoes,Footwear,74.99
+661,263,32,2024-12-21,47.97,Joshua David,juliejohnson@gmail.com,2024-03-24,Lake Adrian,26,3,Cycling Gloves,Accessories,15.99
+662,264,12,2024-11-02,219.96,Heather Baker,rasmusseneric@yahoo.com,2023-10-02,Boothton,3,2,Cleats,Footwear,59.99
+663,264,12,2024-11-02,219.96,Heather Baker,rasmusseneric@yahoo.com,2023-10-02,Boothton,16,2,Soccer Jersey,Apparel,49.99
+664,265,19,2024-02-19,104.98,Jill White,alyssachase@kennedy-chaney.net,2023-12-16,Lake Cherylside,3,1,Cleats,Footwear,59.99
+665,265,19,2024-02-19,104.98,Jill White,alyssachase@kennedy-chaney.net,2023-12-16,Lake Cherylside,22,1,Pickleball Paddle,Racquet Sports,44.99
+666,266,50,2024-05-11,374.93,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,18,3,Compression Shirt,Apparel,34.99
+667,266,50,2024-05-11,374.93,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,2,3,Cross-Training Shoes,Footwear,79.99
+668,266,50,2024-05-11,374.93,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,17,1,Running Shorts,Apparel,29.99
+669,267,36,2025-05-21,84.98,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,17,2,Running Shorts,Apparel,29.99
+670,267,36,2025-05-21,84.98,Aaron Flores,jeannedunn@levine-brown.com,2025-04-28,North Shelby,6,1,Yoga Mat,Fitness Equipment,25.0
+671,268,64,2025-06-08,394.92,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,23,3,Badminton Set,Racquet Sports,39.99
+672,268,64,2025-06-08,394.92,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,15,2,Lacrosse Stick,Team Sports,69.99
+673,268,64,2025-06-08,394.92,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,5,1,Indoor Court Shoes,Footwear,74.99
+674,268,64,2025-06-08,394.92,Scott Bentley,nathan45@gmail.com,2025-04-21,Charlesport,17,2,Running Shorts,Apparel,29.99
+675,269,83,2024-11-26,482.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,15,1,Lacrosse Stick,Team Sports,69.99
+676,269,83,2024-11-26,482.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,21,1,Tennis Racket,Racquet Sports,79.99
+677,269,83,2024-11-26,482.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,4,3,Trail Running Shoes,Footwear,94.99
+678,269,83,2024-11-26,482.92,Stephen Williams,whiterebecca@houston.biz,2023-11-28,Johnmouth,26,3,Cycling Gloves,Accessories,15.99
+679,270,63,2024-10-29,195.95,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,16,3,Soccer Jersey,Apparel,49.99
+680,270,63,2024-10-29,195.95,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,14,2,Volleyball,Team Sports,22.99
+681,271,11,2024-07-10,25.0,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,6,1,Yoga Mat,Fitness Equipment,25.0
+682,272,11,2025-02-14,24.99,Erin Roberts,perkinscatherine@walker.info,2023-09-16,Port Jameshaven,12,1,Soccer Ball,Team Sports,24.99
+683,273,63,2024-10-30,189.95,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,23,1,Badminton Set,Racquet Sports,39.99
+684,273,63,2024-10-30,189.95,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,5,1,Indoor Court Shoes,Footwear,74.99
+685,273,63,2024-10-30,189.95,Phyllis Morrow,christinephillips@yahoo.com,2023-10-07,Josephborough,12,3,Soccer Ball,Team Sports,24.99
+686,274,100,2024-09-28,51.49,Andrew Page,taylorbarry@gmail.com,2024-03-25,Leeshire,11,1,Basketball,Team Sports,29.99
+687,274,100,2024-09-28,51.49,Andrew Page,taylorbarry@gmail.com,2024-03-25,Leeshire,10,1,Foam Roller,Fitness Equipment,21.5
+688,275,27,2025-02-11,505.92,Linda Weiss,uschmitt@thompson-king.com,2025-01-31,Douglastown,23,2,Badminton Set,Racquet Sports,39.99
+689,275,27,2025-02-11,505.92,Linda Weiss,uschmitt@thompson-king.com,2025-01-31,Douglastown,14,2,Volleyball,Team Sports,22.99
+690,275,27,2025-02-11,505.92,Linda Weiss,uschmitt@thompson-king.com,2025-01-31,Douglastown,7,1,Resistance Bands Set,Fitness Equipment,19.99
+691,275,27,2025-02-11,505.92,Linda Weiss,uschmitt@thompson-king.com,2025-01-31,Douglastown,9,3,Adjustable Dumbbells,Fitness Equipment,119.99
+692,276,93,2023-09-08,124.97,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,25,3,Squash Goggles,Racquet Sports,24.99
+693,276,93,2023-09-08,124.97,Justin Preston,keiththompson@jenkins.biz,2023-07-11,Connorville,6,2,Yoga Mat,Fitness Equipment,25.0
+694,277,85,2025-06-09,382.93,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,5,3,Indoor Court Shoes,Footwear,74.99
+695,277,85,2025-06-09,382.93,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,8,3,Kettlebell - 20lb,Fitness Equipment,35.99
+696,277,85,2025-06-09,382.93,Frank Macdonald,kpayne@hotmail.com,2024-04-17,Tamaraville,16,1,Soccer Jersey,Apparel,49.99
+697,278,66,2025-04-10,165.46,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,10,1,Foam Roller,Fitness Equipment,21.5
+698,278,66,2025-04-10,165.46,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,5,1,Indoor Court Shoes,Footwear,74.99
+699,278,66,2025-04-10,165.46,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,14,3,Volleyball,Team Sports,22.99
+700,279,41,2025-06-12,209.95,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,18,3,Compression Shirt,Apparel,34.99
+701,279,41,2025-06-12,209.95,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,25,1,Squash Goggles,Racquet Sports,24.99
+702,279,41,2025-06-12,209.95,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,6,2,Yoga Mat,Fitness Equipment,25.0
+703,279,41,2025-06-12,209.95,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,17,1,Running Shorts,Apparel,29.99
+704,280,41,2024-10-22,79.99,Wendy Harris,josephhicks@alexander.com,2024-08-19,Derektown,2,1,Cross-Training Shoes,Footwear,79.99
+705,281,84,2024-11-08,459.93,Paige Sanchez,iwang@gmail.com,2024-10-19,Port James,4,2,Trail Running Shoes,Footwear,94.99
+706,281,84,2024-11-08,459.93,Paige Sanchez,iwang@gmail.com,2024-10-19,Port James,11,2,Basketball,Team Sports,29.99
+707,281,84,2024-11-08,459.93,Paige Sanchez,iwang@gmail.com,2024-10-19,Port James,15,3,Lacrosse Stick,Team Sports,69.99
+708,282,16,2025-05-15,29.98,Lisa Middleton,ericahall@yahoo.com,2023-08-16,Alexanderborough,20,2,Athletic Socks (3-pack),Apparel,14.99
+709,283,61,2025-04-22,258.94,Gary Williamson,abbottandrea@wilson-kramer.com,2024-06-30,South Natasha,14,3,Volleyball,Team Sports,22.99
+710,283,61,2025-04-22,258.94,Gary Williamson,abbottandrea@wilson-kramer.com,2024-06-30,South Natasha,23,1,Badminton Set,Racquet Sports,39.99
+711,283,61,2025-04-22,258.94,Gary Williamson,abbottandrea@wilson-kramer.com,2024-06-30,South Natasha,5,2,Indoor Court Shoes,Footwear,74.99
+712,284,94,2025-06-14,257.93,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,11,3,Basketball,Team Sports,29.99
+713,284,94,2025-06-14,257.93,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,9,1,Adjustable Dumbbells,Fitness Equipment,119.99
+714,284,94,2025-06-14,257.93,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,26,3,Cycling Gloves,Accessories,15.99
+715,285,14,2024-10-06,290.94,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,25,2,Squash Goggles,Racquet Sports,24.99
+716,285,14,2024-10-06,290.94,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,16,3,Soccer Jersey,Apparel,49.99
+717,285,14,2024-10-06,290.94,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,6,3,Yoga Mat,Fitness Equipment,25.0
+718,285,14,2024-10-06,290.94,Christopher Johnson,alexanderrobert@hale-glover.org,2024-09-25,South Joshua,26,1,Cycling Gloves,Accessories,15.99
+719,286,31,2025-05-15,24.99,Sara Peters,caitlinparker@williams-ruiz.info,2025-01-08,Reynoldsburgh,12,1,Soccer Ball,Team Sports,24.99
+720,287,71,2024-04-30,92.97,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,25,1,Squash Goggles,Racquet Sports,24.99
+721,287,71,2024-04-30,92.97,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,23,1,Badminton Set,Racquet Sports,39.99
+722,287,71,2024-04-30,92.97,Jacob Cline,smithchristopher@stone.org,2024-02-01,Richardsville,13,1,Football,Team Sports,27.99
+723,288,7,2024-07-14,101.48,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,10,1,Foam Roller,Fitness Equipment,21.5
+724,288,7,2024-07-14,101.48,Brittany Barnes,ushepard@gmail.com,2024-06-17,Williamsport,23,2,Badminton Set,Racquet Sports,39.99
+725,289,59,2024-10-28,223.95,Ellen Alexander,ljohnson@hotmail.com,2023-07-25,Carlachester,10,2,Foam Roller,Fitness Equipment,21.5
+726,289,59,2024-10-28,223.95,Ellen Alexander,ljohnson@hotmail.com,2023-07-25,Carlachester,23,3,Badminton Set,Racquet Sports,39.99
+727,289,59,2024-10-28,223.95,Ellen Alexander,ljohnson@hotmail.com,2023-07-25,Carlachester,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+728,289,59,2024-10-28,223.95,Ellen Alexander,ljohnson@hotmail.com,2023-07-25,Carlachester,12,1,Soccer Ball,Team Sports,24.99
+729,290,67,2024-09-05,139.98,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,6,2,Yoga Mat,Fitness Equipment,25.0
+730,290,67,2024-09-05,139.98,Karen Lawrence,marissayoung@macias-richard.com,2024-08-24,West Kevinhaven,22,2,Pickleball Paddle,Racquet Sports,44.99
+731,291,25,2025-03-25,583.89,Joyce Noble,feliciapearson@martin.com,2024-04-18,Michaelfort,22,3,Pickleball Paddle,Racquet Sports,44.99
+732,291,25,2025-03-25,583.89,Joyce Noble,feliciapearson@martin.com,2024-04-18,Michaelfort,14,3,Volleyball,Team Sports,22.99
+733,291,25,2025-03-25,583.89,Joyce Noble,feliciapearson@martin.com,2024-04-18,Michaelfort,15,2,Lacrosse Stick,Team Sports,69.99
+734,291,25,2025-03-25,583.89,Joyce Noble,feliciapearson@martin.com,2024-04-18,Michaelfort,21,3,Tennis Racket,Racquet Sports,79.99
+735,292,22,2025-05-15,53.97,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,24,2,Tennis Balls (can),Racquet Sports,8.99
+736,292,22,2025-05-15,53.97,Alexa Spence,daniel37@gmail.com,2025-01-11,Kristinhaven,8,1,Kettlebell - 20lb,Fitness Equipment,35.99
+737,293,50,2024-10-15,239.94,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,7,1,Resistance Bands Set,Fitness Equipment,19.99
+738,293,50,2024-10-15,239.94,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,21,1,Tennis Racket,Racquet Sports,79.99
+739,293,50,2024-10-15,239.94,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,4,1,Trail Running Shoes,Footwear,94.99
+740,293,50,2024-10-15,239.94,Elijah Hernandez,mvargas@miller.com,2024-01-15,Amyberg,20,3,Athletic Socks (3-pack),Apparel,14.99
+741,294,81,2025-06-15,254.95,Gregory Hudson,maldonadoryan@mann-butler.com,2025-05-31,Matthewmouth,1,2,Running Shoes,Footwear,89.99
+742,294,81,2025-06-15,254.95,Gregory Hudson,maldonadoryan@mann-butler.com,2025-05-31,Matthewmouth,25,3,Squash Goggles,Racquet Sports,24.99
+743,295,99,2024-02-12,239.96,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,12,1,Soccer Ball,Team Sports,24.99
+744,295,99,2024-02-12,239.96,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,6,3,Yoga Mat,Fitness Equipment,25.0
+745,295,99,2024-02-12,239.96,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,16,1,Soccer Jersey,Apparel,49.99
+746,295,99,2024-02-12,239.96,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,22,2,Pickleball Paddle,Racquet Sports,44.99
+747,296,66,2024-12-22,185.94,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,17,2,Running Shorts,Apparel,29.99
+748,296,66,2024-12-22,185.94,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,6,2,Yoga Mat,Fitness Equipment,25.0
+749,296,66,2024-12-22,185.94,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,13,2,Football,Team Sports,27.99
+750,296,66,2024-12-22,185.94,Jonathan Evans,xhudson@landry.com,2024-11-19,Medinaberg,27,2,Sweatband Set,Accessories,9.99
+751,297,49,2025-06-05,29.98,Victor Vasquez,susanrivera@hotmail.com,2025-05-07,Thomasbury,20,2,Athletic Socks (3-pack),Apparel,14.99
+752,298,94,2025-04-19,9.99,Tracy Hayes,lbest@gmail.com,2025-04-06,South Colleenfort,27,1,Sweatband Set,Accessories,9.99
+753,299,91,2023-12-21,212.44,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,11,1,Basketball,Team Sports,29.99
+754,299,91,2023-12-21,212.44,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,13,2,Football,Team Sports,27.99
+755,299,91,2023-12-21,212.44,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,10,1,Foam Roller,Fitness Equipment,21.5
+756,299,91,2023-12-21,212.44,Kelly Ayala,zgarza@hotmail.com,2023-08-10,East Robert,18,3,Compression Shirt,Apparel,34.99
+757,300,99,2024-02-09,27.97,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,27,1,Sweatband Set,Accessories,9.99
+758,300,99,2024-02-09,27.97,Brian Nicholson,carterangela@hotmail.com,2023-07-24,Port David,24,2,Tennis Balls (can),Racquet Sports,8.99

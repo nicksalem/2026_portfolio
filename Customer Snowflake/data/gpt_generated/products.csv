@@ -1,0 +1,28 @@
+product_id,product_name,category,price
+1,Running Shoes,Footwear,89.99
+2,Cross-Training Shoes,Footwear,79.99
+3,Cleats,Footwear,59.99
+4,Trail Running Shoes,Footwear,94.99
+5,Indoor Court Shoes,Footwear,74.99
+6,Yoga Mat,Fitness Equipment,25.0
+7,Resistance Bands Set,Fitness Equipment,19.99
+8,Kettlebell - 20lb,Fitness Equipment,35.99
+9,Adjustable Dumbbells,Fitness Equipment,119.99
+10,Foam Roller,Fitness Equipment,21.5
+11,Basketball,Team Sports,29.99
+12,Soccer Ball,Team Sports,24.99
+13,Football,Team Sports,27.99
+14,Volleyball,Team Sports,22.99
+15,Lacrosse Stick,Team Sports,69.99
+16,Soccer Jersey,Apparel,49.99
+17,Running Shorts,Apparel,29.99
+18,Compression Shirt,Apparel,34.99
+19,Sports Bra,Apparel,39.99
+20,Athletic Socks (3-pack),Apparel,14.99
+21,Tennis Racket,Racquet Sports,79.99
+22,Pickleball Paddle,Racquet Sports,44.99
+23,Badminton Set,Racquet Sports,39.99
+24,Tennis Balls (can),Racquet Sports,8.99
+25,Squash Goggles,Racquet Sports,24.99
+26,Cycling Gloves,Accessories,15.99
+27,Sweatband Set,Accessories,9.99

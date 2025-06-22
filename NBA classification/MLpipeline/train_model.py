@@ -20,7 +20,7 @@ def train(X: pd.DataFrame, y: pd.Series, model_name:str) -> Tuple[XGBClassifier,
 
         # initialize model
         model = XGBClassifier(
-            n_estimators=500,
+            n_estimators=1000,
             early_stopping_rounds=10,
             eval_metric= 'mlogloss',              # multiclass log loss
             learning_rate=0.1, 

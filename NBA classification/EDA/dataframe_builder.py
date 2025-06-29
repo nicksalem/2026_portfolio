@@ -15,18 +15,21 @@ def build_data_frame(data_directory:str) -> Tuple[pd.DataFrame, pd.DataFrame]:
 
     for dirpath, dirs, files in os.walk(data_directory):
         for n, file in enumerate(files):
-            df = pd.read_csv(os.path.join(dirpath,file))
-            if 'Player-additional' in df.columns:
-                df = df.drop('Player-additional', axis=1)
-            df['Year'] = 2020 + n + 1
-            if 'MP▼' in df.columns:
-                df.rename(columns={'MP▼':'MP'}, inplace=True)
+            if file.endswith('.csv'):
+                continue
+            else: 
+                df = pd.read_csv(os.path.join(dirpath,file))
+                if 'Player-additional' in df.columns:
+                    df = df.drop('Player-additional', axis=1)
+                df['Year'] = 2020 + n + 1
+                if 'MP▼' in df.columns:
+                    df.rename(columns={'MP▼':'MP'}, inplace=True)
 
-            if 'Team' in df.columns:
-                df.rename(columns={'Team':'Tm'}, inplace=True) 
+                if 'Team' in df.columns:
+                    df.rename(columns={'Team':'Tm'}, inplace=True) 
 
-            dataframes.append(df)
-            row_count += df.shape[0]
+                dataframes.append(df)
+                row_count += df.shape[0]
 
     nba_df = pd.concat(dataframes)
 
